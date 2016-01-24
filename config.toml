@@ -1,0 +1,78 @@
+# hostname (and path) to the root eg. http://spf13.com/
+baseurl = "https://hackerific.net"
+
+# Site title
+title = "Hackerific"
+
+# Copyright
+copyright = "(c) 2015 Matt Foster."
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "yaml"
+
+# Theme to use (located in /themes/THEMENAME/)
+theme = "hyde-mpf"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+# Enable Disqus integration
+disqusShortname = "hackerific"
+
+[permalinks]
+    post = "/:year/:month/:day/:title/"
+
+[taxonomies]
+    tag = "tags"
+    category = "categories"
+
+[author]
+    name = "Matt Foster"
+    email = "mpf@hackerific.net"
+
+#
+# All parameters below here are optional and can be mixed and matched.
+#
+[params]
+
+    # Text for the top menu link, which goes the root URL for the site.
+    # Default (if omitted) is "Home".
+    home = "Home"
+
+    # Select a syntax highight.
+    # Check the static/css/highlight directory for options.
+    highlight = "default"
+
+    # Google Analytics.
+    googleAnalytics = "UA-7078591-3"
+    GoogleSiteVerification = "F0FXChEfil4l5u_1vbWYTwPPjgZ72_OqF4xvoBEnhEs"
+
+    # Sidebar social links.
+    github = "mattfoster" # Your Github profile ID
+    bitbucket = "" # Your Bitbucket profile ID
+    linkedin = "" # Your LinkedIn profile ID (from public URL)
+    googleplus = "matt.p.foster" # Your Google+ profile ID
+    facebook = "matt.p.foster" # Your Facebook profile ID
+    twitter = "mattpfoster" # Your Twitter profile ID
+    youtube = "mattpfoster"  # Your Youtube channel ID
+    flattr = ""  # populate with your flattr uid
+    flickr = "mattfoster"
+    lastfm = "mattfoster"
+
+    rss = true 
+
+    ghribbon = "green-upleft"
+
+[blackfriday]
+    angledQuotes = true
+    fractions = false
+    hrefTargetBlank = false
+    latexDashes = true
+    plainIdAnchors = true
+    extensions = []
+    extensionmask = []
