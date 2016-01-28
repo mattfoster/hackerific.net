@@ -37,9 +37,9 @@ and then either grab it, or [stream it](https://itun.es/gb/jxo6_).
 ### Steven Wilson - 4½
 
 In many people's eyes, prog god [Steven Wilson](http://stevenwilsonhq.com/) can do no wrong. 
-Well, I don't entirely agrees with that (more below!) but this is a great, if
+Well, I don't entirely agree with that (more below!) but this is a great, if
 somewhat short, album. It's a collection of unreleased tracks from around the
-time of his last couple of solo albums and because of that it lacks a bit of
+time of his last couple of solo albums, and because of that it lacks a bit of
 coherence in my opinion, but if you like his other work, you will love
 [this](http://stevenwilsonhq.com/sw/new-steven-wilson-album-4-%C2%BD-available-now/).
 
