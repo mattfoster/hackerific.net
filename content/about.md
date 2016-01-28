@@ -6,8 +6,9 @@ menu: main
 Matt is an Internet Services Developer at [Netcraft][1]. He feels the need to
 stress that the opinions expressed here are his own.
 
-Work consists of maintaining Netcraft's scanning software, performing [PCI scans][4],
-security consulting and systems administration. It's pretty fun.
+Matt's work consists of maintaining Netcraft's scanning software, performing
+[PCI scans][4], security consulting and systems administration. It's pretty
+fun.
 
 He has a PhD from the [University of Bath][2], UK, after surviving the
 examination process, and is very pleased that he graduated whilst still at the
@@ -32,7 +33,9 @@ idea from [Charles Stross][10], [who did it better][11].
 
 [hackeric][12] is hosted by [linode][13], runs using [Hugo](http://gohugo.io),
 a uses a background image courtesy of [dunno740][14]. Comments are powered by
-[disqus][15].
+[disqus][15]. 
+
+The server uses [Debian][16] GNU/Linux and [Let's Encrypt][17] SSL certificates.
 
 [1]: http://netcraft.com
 [2]: http://www.bath.ac.uk
@@ -48,4 +51,5 @@ a uses a background image courtesy of [dunno740][14]. Comments are powered by
 [13]: http://www.linode.com/?r=8286d0289967d947e7c31ce95a486b557e681895
 [14]: http://www.colourlovers.com/pattern/1301995/circuit_board
 [15]: http://disqus.com
-  
+[16]: https://www.debian.org/
+[17]: https://letsencrypt.org/
