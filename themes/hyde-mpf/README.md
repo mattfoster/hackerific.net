@@ -1,5 +1,7 @@
-Hyde-Y
+Hyde-mpf
 ======
+
+<small>Imprmperly forked from [Hyde-y](https://github.com/enten/hyde-y) -- may do it properly when I know what I'm up to!</small>
 
 <small>Forked from [Hyde-X](https://github.com/zyro/hyde-x)</small>
 
