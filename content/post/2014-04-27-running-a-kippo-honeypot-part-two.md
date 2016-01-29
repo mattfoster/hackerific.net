@@ -21,6 +21,7 @@ In the time the honeypot was running, I logged 71,264 login attempts – about 4
 
 The most attempted username was `root`, and sorted by number of attempts, the top ten usernames were:
 
+```nohighlight
     44193 root
       819 bin
       657 test
@@ -31,11 +32,13 @@ The most attempted username was `root`, and sorted by number of attempts, the to
       189 guest
       187 admin
       157 apache
+```
     
 It's interesting that `oracle`, `nagios` and `postgres` all appear more frequently than `apache` or `www-data` (which is even further down the list). Could these indicate a general lack of good security practices on some database and monitoring servers? In that case, where's MySQL? 
     
 Counts of password attempts were spread more evenly than usernames, and the most attempted passwords were `changeme`, `123456` and `password`. The list below shows the top ten:
     
+```nohighlight
     1661 changeme
     1475 123456
     1023 password
@@ -46,7 +49,8 @@ Counts of password attempts were spread more evenly than usernames, and the most
      420 123
      327 qwerty
      227 111111
-     
+```
+
 This really has to be about the worst possible wordlist. In all, the logs contain login attempts with 6,122 distinct usernames and 18,561 different passwords.
 
 ### Strange credentials
@@ -55,17 +59,18 @@ I wrote about some of the higher entropy passwords in my last post, highlighting
 
 Some of the password strings with the highest entropy, according to [Data::Password::Entropy](https://metacpan.org/pod/Data::Password::Entropy) are:
 
-      khaled-dico-ana-wla-akhou-charmouta-feh-kess-ekhtak-bi-ayri-a5ou-a7beh
-      sss!Qazxsw22243s2lakeprostsssz1,zPlastaicatraglake
-      efwef58sdf2cvsd1*!#&$#_)claudia69iLiE
-      Fum4tulP0@t3Uc1d3R4uD3T0t!@#$%^%^&*?
-      khaled-dico-ana-wla-akhou-charmouta-tfeh-kess-ekhtak-bi-ayri-a5ou-a7beh
-      1$EdkQIoSn$T3gzKLxlcxF7tsTCFqC8M
-      209*7fdlkdf%0@)(fUF786__fdk^%^Djfdsahfdsf886D&S%*fd
-      dragomirdumitru1q2w3e4r5tsfgdfhvd!Q@W#E$Rsdfdf
-      B*(&%^#$SSH?M?a+k3f123!^*backIleSSH@q!@#D
-      ortega.123#TradeLinuxKi!l|iN6#Th3h03$%nix@NdR3b!irD
-
+```nohighlight
+khaled-dico-ana-wla-akhou-charmouta-feh-kess-ekhtak-bi-ayri-a5ou-a7beh
+sss!Qazxsw22243s2lakeprostsssz1,zPlastaicatraglake
+efwef58sdf2cvsd1*!#&$#_)claudia69iLiE
+Fum4tulP0@t3Uc1d3R4uD3T0t!@#$%^%^&*?
+khaled-dico-ana-wla-akhou-charmouta-tfeh-kess-ekhtak-bi-ayri-a5ou-a7beh
+1$EdkQIoSn$T3gzKLxlcxF7tsTCFqC8M
+209*7fdlkdf%0@)(fUF786__fdk^%^Djfdsahfdsf886D&S%*fd
+dragomirdumitru1q2w3e4r5tsfgdfhvd!Q@W#E$Rsdfdf
+B*(&%^#$SSH?M?a+k3f123!^*backIleSSH@q!@#D
+ortega.123#TradeLinuxKi!l|iN6#Th3h03$%nix@NdR3b!irD
+```
 
 Bizarre! I find it hard to believe that real-life systems are compromised using these passwords, so I suspect that as I said in my previous post they're either set by other tools, or perhaps they're some sort of strange meme which is gradually propagating through script kiddie's word lists. 
 
@@ -75,6 +80,7 @@ I also find the idea that they're '[vanity strings](http://rud.is/b/2012/06/28/h
 
 As before, Chinese IPs are dominant, but there's also a significant amount of traffic from South America and from cheap hosting companies elsewhere. Here's a list of the top ten individual IPs and country information:
 
+```nohighlight
     7129 219.235.230.197  China
     2978 218.85.135.29    China
     2230 218.200.117.241  China
@@ -85,6 +91,7 @@ As before, Chinese IPs are dominant, but there's also a significant amount of tr
     1847 183.180.32.234   Japan
     1556 218.104.145.16   China
     1438 61.139.54.71     China
+```
 
 I don't think there's anything surprising there.
 
@@ -121,13 +128,3 @@ Other payloads I saw included a couple of backdoored SSH daemons, one of which i
 The contents of these other downloads are interesting enough to be the subject of another post (in another year?!), so I'll leave with this recorded terminal session:
 
 <script type="text/javascript" src="https://asciinema.org/a/8346.js" id="asciicast-8346" async></script>
-
-
-
-
-
-
-
-
-    
-
