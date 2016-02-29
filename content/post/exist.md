@@ -1,7 +1,6 @@
 ---
 author: author
 date: 2016-02-29T18:23:14Z
-draft: true
 keywords:
 - tracking
 tags:
