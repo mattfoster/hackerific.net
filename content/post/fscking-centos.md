@@ -14,20 +14,14 @@ topics:
 type: post
 ---
 
-## Recovering from filesystem errors using CentOS 7
-
 At work, we’ve recently had problems with one of our SANS, and as a result we
 ended up with some filesystem corruption and a little data loss.
 
 As part of our clean-up effort, we rebooted and checked each server, mainly by
-running the classic:
-
-    shutdown -F -r now
-
-To force a reboot and `fsck`. On systems where there's little or no damage, this
-does exactly what you'd expect, and you end up with the system coming back up
-happy, but on some CentOS 7 systems where there was corruption this is where
-the fun began.
+running the classic `shutdown -F -r now`, to force a reboot and `fsck`. On
+systems where there's little or no damage, this does exactly what you'd expect,
+and you end up with the system coming back up happy, but on some CentOS 7
+systems where there was corruption this is where the fun began.
 
 Like on all modern Linux systems, if a filesystem check fails you'll be dropped
 into a Maintenance Shell (or rather, prompted for the root password, and then
