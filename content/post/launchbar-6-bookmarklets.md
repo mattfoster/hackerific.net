@@ -161,3 +161,6 @@ I've no idea why there's no 64-bit version!
 Anyway, mission accomplished!
 
 ![Launchbar](/images/posts/launchbar_pinboard_save.png)
+
+You can download this extension from [my site](https://files.hackerific.net/Pinboard%20Save%20Link.lbaction.zip).
+To use it, unzip and double click it.
