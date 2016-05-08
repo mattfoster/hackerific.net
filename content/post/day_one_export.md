@@ -22,7 +22,7 @@ All of these have pros and cons, and for various reasons I can never settle
 into sticking to just one methodology, so I'm currently using Day One for
 personal logging, helped along by
 [Slogger](http://brettterpstra.com/projects/slogger/) (mentioned previously in
-[my post on Mac Dev Tools](https://hackerific.net/2016/02/13/mac-dev-tools/).
+[my post on Mac Dev Tools](https://hackerific.net/2016/02/13/mac-dev-tools/)).
 
 ![Day One Export](/images/posts/day_one_export.png)
 
