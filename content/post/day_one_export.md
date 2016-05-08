@@ -1,7 +1,6 @@
 ---
 author: mpf
 date: 2016-05-08T12:19:04+01:00
-draft: true
 keywords:
 - Day One
 - Mac
