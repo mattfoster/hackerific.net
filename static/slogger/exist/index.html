@@ -1,0 +1,35 @@
+<html>
+<head>
+  <title>Exist Logger for Slogger</title>
+  <style>
+    #code {
+      font-family: monospace;
+      font-weight: bold;
+      font-size: 200%;
+    }
+  </style>
+</head>
+<body>
+  <h1>Exist Logger for Slogger</h1>
+  <p><strong>Please paste the following code into the terminal:</strong></p>
+  <div id="code"></div>
+  <script>
+      var code = document.location.search
+        .replace(/.*code=/, '')
+        .replace(/&/g,'&amp;')
+        .replace(/</g,'&lt;')
+        .replace(/>/g,'&gt;');
+
+        code = code ? code : 'No code in URL.';
+      document.getElementById('code').innerHTML = code;
+  </script>
+
+  <h2>What's this?</h2>
+  <p>
+  This page exists to help my Slogger Exist client authenticate using oAuth2.
+  Please see the <a href="http://developer.exist.io/">exist API docs</a> for
+  more information.
+  </p>
+  
+</body>
+</html>
