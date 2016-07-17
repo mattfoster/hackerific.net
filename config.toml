@@ -24,6 +24,9 @@ paginatePath = "page"
 # Enable Disqus integration
 disqusShortname = "hackerific"
 
+enableEmoji  = true
+
+
 [permalinks]
     post = "/:year/:month/:day/:title/"
 
@@ -67,6 +70,7 @@ disqusShortname = "hackerific"
     rss = true 
 
     ghribbon = "green-upleft"
+
 
 [blackfriday]
     angledQuotes = true
