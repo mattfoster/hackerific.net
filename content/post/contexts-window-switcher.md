@@ -13,7 +13,7 @@ topics:
 type: post
 ---
 
-I'm at the end of a trial of [Contexts](https://contexts.co) and interesting
+I'm at the end of a trial of [Contexts](https://contexts.co) an interesting
 window switching app for macOS (ooh, new style naming!), and I'm enjoying using
 it so decided to write a review. 
 
