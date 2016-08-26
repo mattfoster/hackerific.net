@@ -1,7 +1,6 @@
 ---
-author: author
+author: mpf
 date: 2016-08-26T10:10:58+01:00
-draft: true
 keywords:
 - git
 - bash
