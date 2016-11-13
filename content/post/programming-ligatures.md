@@ -1,7 +1,6 @@
 ---
 author: mpf
-date: 2016-11-07T17:44:42Z
-draft: true
+date: 2016-11-13
 keywords:
 - iterm
 - font
