@@ -47,7 +47,7 @@ See the [website](http://goneisgoneofficial.com/) for a load more video links.
 
 Listen on:
 
-* {{< apple_music https://geo.itunes.apple.com/gb/album/echolocation/id1154660543?at=1000ldrw >}}
+* {{< apple_music "https://geo.itunes.apple.com/gb/album/echolocation/id1154660543?at=1000ldrw" >}}
 * {{< amazon_mp3 "http://amzn.to/2jQscU1" >}}
 
 ## Ancetral Voices - Yantra - EP
