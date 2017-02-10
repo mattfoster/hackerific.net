@@ -18,7 +18,7 @@ metaDataFormat = "yaml"
 theme = "hyde-mpf"
 
 # Pagination
-paginate = 10
+paginate = 5
 paginatePath = "page"
 
 # Enable Disqus integration
