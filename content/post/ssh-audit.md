@@ -1,7 +1,6 @@
 ---
 author: mpf
 date: 2017-04-23T16:27:37+01:00
-draft: true
 keywords:
 - ssh
 - security
