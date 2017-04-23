@@ -5,7 +5,7 @@ baseurl = "https://hackerific.net"
 title = "Hackerific"
 
 # Copyright
-copyright = "(c) 2015 Matt Foster."
+copyright = "(c) 2015-2017 Matt Foster."
 
 # Language
 languageCode = "en-EN"
