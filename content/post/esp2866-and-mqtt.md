@@ -2,12 +2,12 @@
 author: mpf
 date: 2016-02-21T14:34:25Z
 keywords:
-- esp2866
+- esp8266
 - iot
 - electronics
 - tmp102
 tags:
-title: An IoT thermometer with ESP2866 and MQTT
+title: An IoT thermometer with ESP8266 and MQTT
 topics:
 - electronics
 type: post
@@ -25,7 +25,7 @@ wireless thermostat system with multiple room thermometers.
 
 ## Basic setup
 
-To start with, I had little idea about the firmware running on my ESP2866s, so
+To start with, I had little idea about the firmware running on my ESP8266s, so
 I created a [custom build](http://nodemcu-build.com/trigger-build.php). This is
 a cool service, recommended on the
 [nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) github README.
@@ -135,7 +135,7 @@ designed to let devices publish and subscribe to data streams, fairly simply.
 The NodeMCU firmware I downloaded has basic MQTT support via a module I added, 
 and using it is fairly simple.
 
-First, I needed to connect the ESP2866 to my wireless network, using the
+First, I needed to connect the ESP8266 to my wireless network, using the
 [wifi](http://nodemcu.readthedocs.org/en/dev/en/modules/wifi/) module. This is
 pretty simple:
 
@@ -148,7 +148,7 @@ To have this happen when the device starts up, you just need to put it in a
 file called `init.la`. I found plenty of examples online, for example:
 https://github.com/mrasband/huzzah_8266/blob/master/init.lua or
 https://github.com/felixcameron/ESP8266-Lifx-switch-for-nodemcu/blob/master/init.lua.
-Both of these have some form of retry logic to ensure the ESP2866 connects to
+Both of these have some form of retry logic to ensure the ESP8266 connects to
 the wireless network, so I knew I'd eventually want to do something similar, 
 but to begin with, I just needed to connect, grab the current temperature and write it to my
 MQTT broker. 
@@ -161,7 +161,7 @@ Now, on to sending data to my server. The MQTT module has plenty of example
 documentation, so starting off with something like this seemed sensible:
 
 ```
-m = mqtt.Client(“esp2866_study”, 120, "", "")
+m = mqtt.Client(“esp8266_study”, 120, "", "")
 m:connect("178.79.182.85", 1883, 0, function(client) print("connected") end)
 m:publish(“/test”,”hello",0,0, function(client) print("sent") end ) 
 ```
@@ -201,7 +201,7 @@ and the Ruby client should showed:
 
 At this point I had all the components I needed to construct a working IoT thermometer:
 
-- ESP2866 with a working NodeMCU firmware
+- ESP8266 with a working NodeMCU firmware
 - a connect TMP102 i2c thermometer
 - code to read the thermometer
 - code to connect to my wireless network
