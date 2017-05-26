@@ -245,3 +245,7 @@ credentials to my MQTT broker as well as configuring SSL. This should mean all
 my temperature data is encrypted in transit, and that without authentication it 
 won't be possible to write evil temperature values to the broker. This could be
 particularly important if I use it as a remote thermostat!
+
+**Update**: after about a year and a half I realised I had a typo in the
+hardware name! It's ESP8266, not ESP2866. I've updated the post to reflect
+this!
