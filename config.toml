@@ -7,11 +7,7 @@ title = "Hackerific"
 # Copyright
 copyright = "(c) 2015-2017 Matt Foster."
 
-# Language
-languageCode = "en-EN"
-
 # Metadata format
-# "yaml", "toml", "json"
 metaDataFormat = "yaml"
 
 # Theme to use (located in /themes/THEMENAME/)
@@ -73,6 +69,8 @@ enableEmoji  = true
     rss = true 
 
     ghribbon = "green-upleft"
+    description = "A site about hacking, music and electronics"
+    author = "Matt Foster"
 
 
 [blackfriday]
