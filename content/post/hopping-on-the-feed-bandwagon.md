@@ -17,7 +17,8 @@ So -- like a lot of people -- I read the announcement of
 [JSON Feed](https://jsonfeed.org/) with great interest and decided to add a
 new feed to my site.
 
-Like all good lazy engineers the first thing I did was search the web and find some decent resources, including
+Like all good lazy engineers the first thing I did was search the web and find some decent resources, including 
+a couple of blogs belonging to people who have already beaten me to it.
 
 * [Ascraeus - JSON Feed](https://ascraeus.org/jsonfeedarticle/)
 * [Raymond Camden - Creating a JSON Feed for Hugo](https://www.raymondcamden.com/2017/05/18/creating-a-json-feed-for-hugo/)
