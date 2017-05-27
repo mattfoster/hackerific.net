@@ -38,6 +38,9 @@ enableEmoji  = true
     name = "Matt Foster"
     email = "mpf@hackerific.net"
 
+[outputs]
+    home = [ "HTML", "JSON", "RSS"]
+
 #
 # All parameters below here are optional and can be mixed and matched.
 #
