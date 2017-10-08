@@ -1,7 +1,14 @@
 ---
 title: "Building a 30 key keyboard"
-date: 2017-08-27T17:35:59+01:00
-draft: true
+date: 2017-10-08T11:15:59+01:00
+keywords:
+- keyboard
+- diy
+- electronics
+- mechboards
+tags:
+- mechboards
+- electronics
 ---
 
 A while back I realised I was a bit obsessed with mechanical keyboards, and I
