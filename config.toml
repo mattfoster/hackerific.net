@@ -58,13 +58,14 @@ enableEmoji  = true
     github = "mattfoster" # Your Github profile ID
     bitbucket = "" # Your Bitbucket profile ID
     linkedin = "" # Your LinkedIn profile ID (from public URL)
-    googleplus = "matt.p.foster" # Your Google+ profile ID
-    facebook = "matt.p.foster" # Your Facebook profile ID
+    # googleplus = "matt.p.foster" # Your Google+ profile ID
+    # facebook = "matt.p.foster" # Your Facebook profile ID
     twitter = "mattpfoster" # Your Twitter profile ID
-    youtube = "mattpfoster"  # Your Youtube channel ID
+    # youtube = "mattpfoster"  # Your Youtube channel ID
     flattr = ""  # populate with your flattr uid
-    flickr = "mattfoster"
-    lastfm = "mattfoster"
+    # flickr = "mattfoster"
+    # lastfm = "mattfoster"
+    callsign = "2E0PUH"
 
     rss = true 
 
