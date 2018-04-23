@@ -2,6 +2,7 @@
 title: "Repairing an MFJ-974 ATU"
 date: 2018-04-23T19:00:37+01:00
 type: "post"
+draft: "true"
 keywords: ["ham", "amateur", "radio", "atu", "mfj", "repair", "electronics", "hamr", "hamradio"]
 topics: ["radio"]
 tags: ["ham", "radio"]
