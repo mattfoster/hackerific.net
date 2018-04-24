@@ -204,7 +204,11 @@ a carrier) to check the ATU still appeared to work. Initially I did this
 (carefully) with the chassis still open so that I could check nothing obvious
 was arcing. Next, I repeated the experiment with the antenna instead of the
 dummy load, and then finally I put the lid back on and screwed it all back
-together. Success! 
+together, and did it again. Listening carefully for arcing, I noticed that
+characteristic fizzing sound, along with the SWR bouncing about again, so I
+disconnected everything, took the top off again and moved some of the wires on
+the back of the wafer apart a little. Then, I repeated the above experiments,
+and finally...  Success! 
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5823.jpg)
 
