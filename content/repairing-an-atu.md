@@ -2,7 +2,6 @@
 title: "Repairing an MFJ-974 ATU"
 date: 2018-04-23T19:00:37+01:00
 type: "post"
-draft: "true"
 keywords: ["ham", "amateur", "radio", "atu", "mfj", "repair", "electronics", "hamr", "hamradio"]
 topics: ["radio"]
 tags: ["ham", "radio"]
@@ -208,7 +207,7 @@ together, and did it again. Listening carefully for arcing, I noticed that
 characteristic fizzing sound, along with the SWR bouncing about again, so I
 disconnected everything, took the top off again and moved some of the wires on
 the back of the wafer apart a little. Then, I repeated the above experiments,
-and finally...  Success! 
+and finally... Success! 
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5823.jpg)
 
