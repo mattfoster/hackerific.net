@@ -5,7 +5,6 @@ tags:
 - c
 date: 2011-10-14T00:00:00Z
 title: TinyAlarm - a simple ATTiny45 based alarm
-url: /2011/10/14/TinyAlarm/
 ---
 
 The TinyAlarm came about because my brother needed a simple alarm for his drum practice garage - something which will scare someone away, but not go off all night, as he doesn't live near it.  
@@ -60,4 +59,4 @@ Putting all this together leads to a fairly simple circuit, so using schematic c
 
 I built myself a TinyAlarm using veroboard and a small plastic siren from [maplin](http://www.maplin.co.uk). Veroboard is not pretty, and it can be surprisingly difficult to squeeze circuits onto. I recommend using squared paper and a pencil! 
 
-![veroboard build](https://img.skitch.com/20111013-pw32ts6e1be39me6jjbc1txg22.jpg)
+![veroboard build](/images/posts/tinyalarm.png)
