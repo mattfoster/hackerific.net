@@ -22,9 +22,27 @@ and create something potentially useful.  This year, the Buildathon kit was
 designed by [Heather M0HMO](http://www.myorangedragon.com/), and was described
 as an HF Swiss Army Knife. 
 
-This amazing little thing consists of an Arduino clone, OLED display, GPS and
-SWR bridge, and according it can do a massive amount of things, including:
+This amazing little thing consists of an Arduino clone, OLED display, GPS receiver and
+SWR bridge, and it can do a massive amount of things, including:
 
-* 
+* Measure RF forward and reflected power and SWR,
+* Measure HF frequency
+* Resistance
+* Voltage
+* UTC time, using the GPS
+* Latitude and Longitude, also using the GPS
+* Maidenhead grid square.
+
+Not surprisingly, this took some building, especially since the indoor lighting made distinguishing resistors colours hard, but I think that almost everyone there ended up with a complete and working, and _calibrated_ unit!
+
+The finished unit runs off a 9V battery, and just needs a case and maybe an external antenna for the GPS receiver. 
+
+This was great fun to build, and was definitely the highlight of the weekend for me. Heather has uploaded the instructions, source code and Gerbers etc. To her website.
+
+## Telford Hamvention
+
+
+
+
 
 
