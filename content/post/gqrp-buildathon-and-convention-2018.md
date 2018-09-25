@@ -1,10 +1,6 @@
 ---
 title: "G-QRP Buildathon and Hamvention 2018"
 date: 2018-09-05T09:47:46+01:00
-draft: true
-resources:
-- name: buildathon
-  src: images/gqrp-buildathon-2018.jpg
 ---
 
 In September 2018 I went to my first Radio Buildathon and Hamvention, they were
