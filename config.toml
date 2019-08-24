@@ -65,7 +65,8 @@ enableEmoji  = true
     flattr = ""  # populate with your flattr uid
     # flickr = "mattfoster"
     # lastfm = "mattfoster"
-    callsign = "2E0PUH"
+    callsign = "M0PUH"
+    mastodon = "https://mastodon.radio/@m0puh"
 
     rss = true 
 
