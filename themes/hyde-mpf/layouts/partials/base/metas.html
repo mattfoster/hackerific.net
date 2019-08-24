@@ -65,9 +65,10 @@
 </script>
 {{ end }}
 
-{{ if .RSSLink }}
-<link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Title }}" />
+{{ with .OutputFormats.Get "RSS" }}
+<link href="{{ .RelPermalink }}" rel="alternate" type="application/rss+xml" title="RSS" />
 {{ end }}
+
 <link rel="canonical" href="{{ .Permalink }}" />
 
 {{ range .AlternativeOutputFormats -}}
@@ -76,5 +77,3 @@
 
 <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ "/touch-icon-144-precomposed.png" | absURL }}">
 <link href="{{ "/favicon.png" | absURL }}" rel="icon">
-
-{{ .Hugo.Generator }}
