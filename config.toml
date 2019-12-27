@@ -46,12 +46,14 @@ enableEmoji  = true
     # Default (if omitted) is "Home".
     home = "Home"
 
+    footermsg = 'Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/mattfoster/hugo-theme-slim">Slim</a>'
+
     # Select a syntax highight.
     # Check the static/css/highlight directory for options.
     highlight = "default"
 
     # Google Analytics.
-    googleAnalytics = "UA-7078591-3"
+    #googleAnalytics = "UA-7078591-3"
     GoogleSiteVerification = "F0FXChEfil4l5u_1vbWYTwPPjgZ72_OqF4xvoBEnhEs"
 
     # Sidebar social links.
@@ -68,7 +70,7 @@ enableEmoji  = true
     callsign = "M0PUH"
     mastodon = "https://mastodon.radio/@m0puh"
 
-    rss = true 
+    rss = true
 
     ghribbon = "green-upleft"
     description = "A site about hacking, music and electronics"
