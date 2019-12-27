@@ -1,27 +1,14 @@
-# hostname (and path) to the root eg. http://spf13.com/
 baseurl = "https://hackerific.net"
-
-# Site title
 title = "Hackerific"
-
-# Copyright
-copyright = "(c) 2015-2017 Matt Foster."
-
-# Metadata format
+copyright = "(c) 2015-2019 Matt Foster."
 metaDataFormat = "yaml"
-
-# Theme to use (located in /themes/THEMENAME/)
-theme = "hyde-mpf"
+theme = "slim"
 
 # Pagination
-paginate = 5
+paginate = 10
 paginatePath = "page"
 
-# Enable Disqus integration
-disqusShortname = "hackerific"
-
 enableEmoji  = true
-
 
 [permalinks]
     post = "/:year/:month/:day/:title/"
@@ -41,10 +28,10 @@ enableEmoji  = true
 # All parameters below here are optional and can be mixed and matched.
 #
 [params]
+    subtitle = "{hacking,music,electronics,radio}"
 
-    # Text for the top menu link, which goes the root URL for the site.
-    # Default (if omitted) is "Home".
-    home = "Home"
+    # enable commento
+    comments = true
 
     footermsg = 'Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/mattfoster/hugo-theme-slim">Slim</a>'
 
@@ -57,23 +44,17 @@ enableEmoji  = true
     GoogleSiteVerification = "F0FXChEfil4l5u_1vbWYTwPPjgZ72_OqF4xvoBEnhEs"
 
     # Sidebar social links.
-    github = "mattfoster" # Your Github profile ID
-    bitbucket = "" # Your Bitbucket profile ID
-    linkedin = "" # Your LinkedIn profile ID (from public URL)
-    # googleplus = "matt.p.foster" # Your Google+ profile ID
-    # facebook = "matt.p.foster" # Your Facebook profile ID
-    twitter = "mattpfoster" # Your Twitter profile ID
-    # youtube = "mattpfoster"  # Your Youtube channel ID
-    flattr = ""  # populate with your flattr uid
-    # flickr = "mattfoster"
+    githubid = "mattfoster" # Your Github profile ID
+    linkedinid = "mattpfoster" # Your LinkedIn profile ID (from public URL)
+    twitterid = "mattpfoster" # Your Twitter profile ID
+    flickr = "mattfoster"
     # lastfm = "mattfoster"
     callsign = "M0PUH"
-    mastodon = "https://mastodon.radio/@m0puh"
+    mastodonid = "https://mastodon.radio/@m0puh"
+    qrzid = "M0PUJH"
 
     rss = true
 
-    ghribbon = "green-upleft"
-    description = "A site about hacking, music and electronics"
     author = "Matt Foster"
 
 
