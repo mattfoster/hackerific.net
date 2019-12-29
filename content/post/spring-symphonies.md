@@ -7,7 +7,8 @@ title: Spring Symphonies
 topics:
 - music
 type: post
-tags: music
+tags:
+- music
 ---
 
 Fear not good readers, I definitely don't mean symphonies of the standard sort, I was just looking for a decent title.
