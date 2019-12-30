@@ -40,3 +40,11 @@ result is what you see here. Hopefully it's easy on the eye aNd nice to read!
 
 Hopefully with the refreshed designed I'll remember to post a bit more! I have
 a few ongoing projects and a _lot_ of music I could post about, so watch this space.
+
+## Update
+
+I've noticed a couple of problems with commentio which I didn't see during my
+initial testing. Mainly, the login form doesn't work entirely. To work around
+this, login and then refresh the page -- it works but just doesn't properly
+reload because of a JS error. Anonymous commenting works file, so feel free to
+use that.
