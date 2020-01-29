@@ -18,15 +18,11 @@ jobs:
 
       - name: Build
         run: hugo --minify -t=hugo-theme-slim
-      
-      - name: Upload
-        uses: jakejarvis/s3-sync-action@v0.5.1
-        with:
-          args: --acl public-read --follow-symlinks --delete
+  
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v2
         env:
-          AWS_S3_BUCKET: ${{ secrets.AWS_S3_BUCKET }}
-          AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
-          AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
-          AWS_S3_ENDPOINT: ${{ secrets.AWS_S3_ENDPOINT }}
-          SOURCE_DIR: 'public'    
-
+          ACTIONS_DEPLOY_KEY: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          EXTERNAL_REPOSITORY: mattfoster/mattfoster.github.io
+          PUBLISH_BRANCH: master
+          PUBLISH_DIR: ./public
