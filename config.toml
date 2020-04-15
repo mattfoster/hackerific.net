@@ -2,7 +2,7 @@ baseurl = "https://hackerific.net/"
 title = "Hackerific"
 copyright = "(c) 2015-2019 Matt Foster."
 metaDataFormat = "yaml"
-theme = "slim"
+theme = "hugo-theme-slim"
 
 # Pagination
 paginate = 10
