@@ -61,4 +61,4 @@ are a couple of nice projects:
 ## Bye!
 
 I hope you like this little list. Please feel free to leave a comment if you've
-something cool I should see.
+got something cool I should see.
