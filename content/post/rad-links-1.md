@@ -30,7 +30,7 @@ To sign up, you need to send an email (yes, but do it). Details are at
 Everyone loves project blogs. I love just how much information there is in this post about
 [a little glowing active antenna](https://circuitsalad.com/2020/02/13/simple-low-current-mini-whip-antenna/).
 It uses an LT1818 opamp, instead of a JFET/BJT. This has the advantage that the IC
-is is in production and costs about £1.74 in low quantities, and has a wide bandwidth.
+is in production and costs about £1.74 in low quantities, and has a wide bandwidth.
 
 The 3D printed case and LED look great together, and the schematic is super simple.
 
@@ -51,8 +51,7 @@ radio`](https://hackaday.io/projects?tag=ham%20radio) tag interesting. Here's
 are a couple of nice projects:
 
 * [Junk box noise
-  source](http://www.lifeatwarp9.com/2017/05/curiously-strong-junk-box-noise-source/)
-  - a wideband noise source using cheap bits.
+  source](http://www.lifeatwarp9.com/2017/05/curiously-strong-junk-box-noise-source/) - a wideband noise source using cheap bits.
 
 * [Portable discone
   antenna](https://hackaday.io/project/169167-portable-discone-antenna).
