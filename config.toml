@@ -57,6 +57,7 @@ enableEmoji  = true
 
     author = "Matt Foster"
 
+    logo = "/images/logo.png"
 
 [blackfriday]
     angledQuotes = false
