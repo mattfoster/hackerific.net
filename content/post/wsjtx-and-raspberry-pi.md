@@ -24,7 +24,7 @@ connected to the right type of DIN plug for the radio. After using this
 for a couple of years it's my view that you could definitely make one
 of these pretty cheaply, _if_ you could source a connector.
 
-Next is a £6.50 [USB sound interface(https://amzn.to/2Ssgwe5). I read an
+Next is a £6.50 [USB sound interface](https://amzn.to/2Ssgwe5). I read an
 [interesting analysis](http://audiosystemsgroup.com/USB_Interfaces.pdf) of
 WSJT-X use with different USB soundcards which mentioned that K1JT believes
 that choice of sound card makes no real difference. It's also makes various
