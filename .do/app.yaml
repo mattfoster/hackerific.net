@@ -6,5 +6,5 @@ static_sites:
   github:
     branch: master
     deploy_on_push: true
-    repo: mattfoster/mattfoster.github.com
+    repo: mattfoster/hackerific.net
   name: mpfblogtest
