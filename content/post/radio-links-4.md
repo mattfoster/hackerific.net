@@ -44,3 +44,12 @@ Web](https://thedorkweb.substack.com/p/youre-almost-entirely-blind), Steve Lord
 takes us on a tour of the RF spectrum. This edition of his fortnightly newsletter 
 is jam packed full of radio nerdery and really does cover a massive amount of spectrum.
 I'd stronly suggest that you read it and then subscribe!
+
+## FV-1 based SDR
+
+*Update*: here's one I forgot! [CIRCUIT SALAD](https://circuitsalad.com) has an update 
+on his FV-1 DSP based SDR project. I hadn't seen the original until I found this, but 
+this is an interesting project using a DSP chip which appears to be designed for use 
+in effects pedals. It's also programmed using an interesting visual programming system.
+Check out [this blog post](https://circuitsalad.com/2020/11/13/the-fv-1-based-sdr-revisited/)
+for more details.
