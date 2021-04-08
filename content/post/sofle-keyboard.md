@@ -35,7 +35,7 @@ the [lily58](https://github.com/kata0510/Lily58) and Sofle, and I picked the
 Sofle because it has rotary encoders, and they looked fun!
 
 So, with that decided I looked into how to get one, including pricing having
-PCBs made by [jlpcb](Https://jlpcb.com). This would have given me the boards
+PCBs made by [JLCPCB](Https://jlcpcb.com). This would have given me the boards
 and top and bottom plates for about 22 GBP plus delivery, so not bad, but I
 wanted acrylic plates, and I'm impatient. While I was trying to work out how to
 get plates I discovered that
