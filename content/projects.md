@@ -10,9 +10,14 @@ them all!
 
 ## Completed
 
+* `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
+  This is a combined audio and USB-serial interface for controlling ham radios.
+  I built cables for use with my FT818ND and it works.
 * `sofle`: I built a
   [SofleKeyboard](http://localhost:1313/2021/04/08/building-a-sofle-keyboard/)
   in early 2021.
+* `so239 patch panel`: I made an SO239 patch panel using a chunk of rectangular
+  section aluminium.
 * `n7ddc tuner`: I made an [n7ddc antenna
   tuner](https://github.com/Dfinitski/N7DDC-ATU-100-mini-and-extended-boards)
   using a kit from eBay. This is built but currently untested and has no box...
@@ -50,9 +55,6 @@ them all!
 
 ## Pending
 
-* `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
-  This is a combined audio and USB-serial interface for controlling ham radios.
-  I need to build cables.
 * `open-sleeve`: I've started building an Open Sleeve dipole for the 10m and 6m
   bands, as detailed in RadCom April 2021. I've bought some metal poles, nylon
   base and saddle clips, but I'm still awaiting part of the metal I need. 
