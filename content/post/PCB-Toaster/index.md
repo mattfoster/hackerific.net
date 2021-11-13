@@ -1,7 +1,12 @@
 ---
 title: "PCB Toaster"
 date: 2021-11-13T16:55:21Z
-draft: true
+keywords:
+- electronics
+- PCB
+tags:
+- radio
+- electronics
 ---
 
 This week I completed the electronics right of passage that is converting a
