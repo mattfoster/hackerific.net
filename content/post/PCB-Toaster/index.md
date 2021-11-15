@@ -9,7 +9,7 @@ tags:
 - electronics
 ---
 
-This week I completed the electronics right of passage that is converting a
+This week I completed the electronics rite of passage that is converting a
 cheap toaster oven into a PCB reflow device. It was a simple and fun project and
 I can see why it's such a popular thing to do, and so far I haven't burned my
 house down! :fire: Total cost was about £40, but I think you could do it for
