@@ -1,0 +1,18 @@
+---
+date: 2021-11-13 19:21:01.279 +0000 UTC
+post_uri: https://mastodon.radio/users/m0puh/statuses/107271373531219208
+post_id: 107271373531219208
+tags:
+- electronics
+---
+I hacked a Toaster Oven into a PCB reflow machine.
+
+Basically, I just added a cheap PID controller and a thermocouple, and it was a fun and fairly quick project!
+
+I wrote about it here: [https://hackerific.net/2021/11/13/pcb-toaster/](https://hackerific.net/2021/11/13/pcb-toaster/)
+
+[#electronics](https://mastodon.radio/tags/electronics)
+
+
+![A modified toaster oven. There's a controller on the right where the dials would be. It has two temperature readouts. Inside is a small PCB. There's a metal wire going through the door. ](107271369173673628.jpeg)
+
