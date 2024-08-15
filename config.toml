@@ -31,7 +31,7 @@ enableEmoji  = true
     subtitle = "{hacking,music,electronics,radio}"
 
     # enable commento
-    comments = true
+    comments = false
 
     footermsg = 'Powered by <a href="https://gohugo.io">Hugo</a> and <a href="https://github.com/mattfoster/hugo-theme-slim">Slim</a>'
 
@@ -58,6 +58,8 @@ enableEmoji  = true
     author = "Matt Foster"
 
     logo = "/images/logo.png"
+
+    mainsections = ["post"]
 
 [blackfriday]
     angledQuotes = false
