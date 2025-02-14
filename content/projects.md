@@ -55,6 +55,7 @@ them all!
 
 ## Pending
 
+* `felinet boards`: I ordered some boards and parts to build [felinet](https://cats.radio) hardware. I've made a pi hat. 
 * `open-sleeve`: I've started building an Open Sleeve dipole for the 10m and 6m
   bands, as detailed in RadCom April 2021. I've bought some metal poles, nylon
   base and saddle clips, but I'm still awaiting part of the metal I need. 
