@@ -1,6 +1,7 @@
 ---
 title: Doing
 menu: main
+tags: reading, watching, listing, books, podcasts, courses
 ---
 
 I read a lot of fiction and try to keep learning interesting things. Inspired
@@ -12,18 +13,18 @@ Also see my [projects](/projects) page.
 
 ### Fiction
 
-* Read: A Conventional Boy by Charles Stross
-* Listened: Absolution by Jeff VenderMeer
+* Read: [A Conventional](https://openlibrary.org/works/OL42402127W/Conventional_Boy) Boy by [Charles Stross][CS]
+* Listened: [Absolution](https://openlibrary.org/works/OL38119014W/Absolution) by [Jeff VenderMeer][JV]
 
 ### Non-fiction
 
-* Reading: How To Measure Anything in Cyber Security Risk by Hubbard and Seiersen
-* Still Reading: The Business-Minded CISO by Bryan C. Kissinger
+* Reading: [How To Measure Anything in Cyber Security Risk](https://openlibrary.org/works/OL20771426W/How_to_Measure_Anything_in_Cybersecurity_Risk) by Hubbard and Seiersen
+* Still Reading: [The Business-Minded CISO](https://openlibrary.org/works/OL38655387W/Business-Minded_CISO) by Bryan C. Kissinger
 * Still Reading: CISSP Official Study Guide
 
 ### Learning
 
-* MacSparky Productivity Field Guide
+* [MacSparky Productivity Field Guide](https://learn.macsparky.com/p/productivity-standard-25)
 
 ## November 2024 - January 2025
 
@@ -32,15 +33,15 @@ I've tried to list them in reverse chronological order.
 
 ### Fiction
 
-* Read: Gnomon by Nick Harkaway
-* Read: Usurpation by Sue Burke
-* Read: Polostan by Neral Stephenson
-* Read: Tidal Creates by Seanan McGuire
+* Read: Gnomon by [Nick Harkaway][NH]
+* Read: Usurpation by [Sue Burke][SB]
+* Read: Polostan by [Neal Stephenson][NS]
+* Read: [Tidal Creates](https://openlibrary.org/works/OL37629138W/Tidal_Creatures) by Seanan McGuire
 * Read: Glass Houses by Madeline Ashby
-* Listened: The Gold Coast by Kim Stanley Robinson
-* Listened: The Wild Coast by Kim Stanley Robinson
-* Listened: The Book of Elsewhere by Keanu Reeves and China Miéville
-* Listened: Red Mars by Kim Stanley Robinson
+* Listened: [The Gold Coast](https://openlibrary.org/works/OL81663W/The_Gold_Coast) by [Kim Stanley Robinson][KSR]
+* Listened: [The Wild Shore](https://openlibrary.org/works/OL81666W/The_Wild_Shore) by [Kim Stanley Robinson][KSR]
+* Listened: [The Book of Elsewhere](https://openlibrary.org/works/OL37623744W/The_Book_of_Elsewhere) by [Keanu Reeves][KR] and [China Miéville][CM]
+* Listened: [Red Mars](https://openlibrary.org/works/OL81665W/Red_Mars) by [Kim Stanley Robinson][KSR]
 
 ### Non-fiction
 
@@ -49,7 +50,13 @@ I've tried to list them in reverse chronological order.
 
 ### Learning
 
-* MacSparky Productivity Field Guide
-* MacSparky OmniFocus Field Guide
+* [MacSparky OmniFocus Field Guide](https://learn.macsparky.com/p/of4-standard)
 
-
+[CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
+[CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
+[KR]: https://openlibrary.org/authors/OL7472608A/Keanu_Reeves
+[KSR]: https://openlibrary.org/authors/OL19986A/Kim_Stanley_Robinson
+[NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
+[NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
+[SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
+[SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
