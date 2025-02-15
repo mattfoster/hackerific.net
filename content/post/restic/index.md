@@ -14,11 +14,12 @@ tags:
 I was thinking about DIY backups recently and found
 [restic](https://restic.net/), a modern backup program which seems pretty
 good. One interesting thing about it is that unlike borg -- which might be
-the market leader in this space currently --there aren't that many tools,
-suggesting you're expected to set it up yourself.  Well, I did that on my
-Debian VPS, and here's what I ended up with.
+the market leader in this space currently -- there aren't that many ready-made
+tools, suggesting you're expected to set it up yourself (and that maybe it's a
+fairly young project). Well, I did that on my Debian VPS, and here's what I
+ended up with.
 
-First off, I'm using Debian 12 and installed the latest available version,
+First off, I'm using Debian 12 and installed the latest available restic version,
 which was 0.14 (so a few releases behind as you'd expect from a stable distro):
 
 ```
@@ -33,11 +34,12 @@ and set a password, and you can pass these two parameters using environment
 variables or command line arguments. I decided to use
 [BorgBase](https://www.borgbase.com/) to store my backups meaning my
 repositories would be remote, and so I just needed to write some systemd units
-and add some health monitoring.
+and add some health monitoring. I'm a big believer in paying for important
+things I can't easily do better myself, and borgbase is a bargain.
 
 ### Units 
 
-systemd units are the main reason I like using it. As someone who has written
+systemd's units are the main reason I like using it. As someone who has written
 their fair share of init scripts over the years I really appreciate the
 simplicity and feature richness I can get with zero faff. I ended up with this:
 
@@ -77,18 +79,18 @@ include in my backup. I'll explain the `%d` parts below:
 
 ### Storing Secrets
 
-Most articles I found about setting this up used convoluted scripts or
-environment variables to pass the repo and password to restic, even the [Arch
-Wiki](https://wiki.archlinux.org/title/Restic#Systemd_service) but I'd been
-eyeing up `systemd-creds` for a while and knew there was a better way using
-that. `systemd-creds` is specifically designed to pass credentials to units,
-via files, and restic's support for files containing these meant it was ready
-to go. This is documented in [CREDENTIALS](https://systemd.io/CREDENTIALS/).
+While researching this project, most articles I found about setting this up
+used convoluted scripts or environment variables to pass the repo and password
+to restic, even the [Arch Wiki](https://wiki.archlinux.org/title/Restic#Systemd_service) 
+but I'd been eyeing up `systemd-creds` for a while and knew there was a better
+way using that. `systemd-creds` is specifically designed to pass credentials to
+units, via files, and restic's support for files containing these meant it was
+ready to go. This is documented in [CREDENTIALS](https://systemd.io/CREDENTIALS/).
 
 Debian 12 ships with `systemd-creds` which means there's no need to mess about
 with storing keys in variables as you can encrypt them on disk (on something
-other than a VPS that storage might ultimately be backed by a TPM, but on my
-Linode it wasn't).
+other than a VPS -- or on a better VPS -- that storage might ultimately be
+backed by a TPM, but on my Linode it wasn't).
 
 ```
 ~ % systemd-creds has-tpm2
