@@ -1,7 +1,7 @@
 ---
 title: "Restic on Linux"
-date: 2025-01-22T21:00:00Z
-created: 2025-01-22
+date: 2025-02-15T10:00:00Z
+created: 2025-02-15
 keywords:
 - linux
 - systemd
