@@ -1,0 +1,27 @@
+name: Mastodon Archive
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch:      # Allows manual triggering
+
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Set up Go
+        uses: actions/setup-go@v4
+        with:
+          go-version: '1.21'
+
+      - name: Install Mastodon Archive Tool
+        run: go install git.garrido.io/gabriel/mastodon-markdown-archive@latest
+      
+      - name: Run Mastodon Archive Tool
+        run: ./cmd/archive-last-toots.sh
+        env:
+          MASTODON_SERVER: "mastodon.radio"
+          MASTODON_USER: "m0puh"
+
+      - name: Show changes
+        run: git status
