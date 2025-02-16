@@ -10,11 +10,13 @@ them all!
 
 ## Completed
 
+* `badges`: I made PCB badges for a Chistmas party in [2023 and 2024](https://hackerific.net/2024/12/17/christmas-badge-buildathon/). 
+* `pcb-toaster`: I added a PID controller to a toaster oven to let me [bake PCBs](https://hackerific.net/2021/11/13/pcb-toaster/). 
 * `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
   This is a combined audio and USB-serial interface for controlling ham radios.
   I built cables for use with my FT818ND and it works.
 * `sofle`: I built a
-  [SofleKeyboard](http://localhost:1313/2021/04/08/building-a-sofle-keyboard/)
+  [SofleKeyboard](http://hackerific.net/2021/04/08/building-a-sofle-keyboard/)
   in early 2021.
 * `so239 patch panel`: I made an SO239 patch panel using a chunk of rectangular
   section aluminium.
