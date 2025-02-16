@@ -1,6 +1,4 @@
-#!/bin/bash
-
-set -e
+#!/bin/bash -e
 
 cursor_file="./data/mastodon-post-cursor"
 
