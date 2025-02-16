@@ -19,6 +19,8 @@ jobs:
       
       - name: Run Mastodon Archive Tool
         run: |
+          pwd
+          ls -al
           mastodon-markdown-archive \
             --user=https://${MASTODON_SERVER}/${MASTODON_USER} \
             --dist=./content/toot/ \
