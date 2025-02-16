@@ -22,8 +22,6 @@ jobs:
       
       - name: Run Mastodon Archive Tool
         run: |
-          pwd
-          ls -al
           mastodon-markdown-archive \
             --user=https://${MASTODON_SERVER}/${MASTODON_USER} \
             --dist=./content/toot/ \
@@ -41,5 +39,15 @@ jobs:
           MASTODON_USER: "m0puh"
           cursor_file: "./data/mastodon-post-cursor"
 
-      - name: Show changes
-        run: git status
+      - name: Commit changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update Mastodon archive" || echo "No changes to commit"
+          
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ github.ref }}
