@@ -1,0 +1,12 @@
+---
+date: 2025-01-29 21:03:59.374 +0000 UTC
+post_uri: https://mastodon.radio/users/m0puh/statuses/113913668525983000
+post_id: 113913668525983000
+---
+On my way from a work event at Glaziers Hall in London where I saw this amazing stained glass panel depicting Faraday and Newton. It’s the coat of arms of “The worshipful company of scientific instrument makers”.
+
+I found some interesting information at [https://wcsim.co.uk](https://wcsim.co.uk)
+
+
+![A stained glass coat of arms depicting a man in red robes on the left and a man in dark robes on the right. The man on the left is Faraday and is holding an inductor. The man on the right is Newton holding a telescope. In the centre at the top is a depiction of Minerva, in gold and in the centre under miners a is a knight’s helmet on top of a shield with a picture of a stack of blue and yellow cubes. Finally across the bottom is the motto “Sine Nobis Scientia Languet”](113913668306272327.jpeg)
+
