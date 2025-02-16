@@ -18,10 +18,23 @@ jobs:
         run: go install git.garrido.io/gabriel/mastodon-markdown-archive@latest
       
       - name: Run Mastodon Archive Tool
-        run: ./cmd/archive-last-toots.sh
+        run: |
+          mastodon-markdown-archive \
+            --user=https://${MASTODON_SERVER}/${MASTODON_USER} \
+            --dist=./content/toot/ \
+            --threaded=true \
+            --exclude-replies=true \
+            --exclude-reblogs=true \
+            --persist-first=${cursor_file} \
+            --since-id=$(test -f $cursor_file && cat $cursor_file || echo "") \
+            --limit=40 \
+            --download-media=bundle \
+            --visibility=public
+
         env:
           MASTODON_SERVER: "mastodon.radio"
           MASTODON_USER: "m0puh"
+          cursor_file: "./data/mastodon-post-cursor"
 
       - name: Show changes
         run: git status
