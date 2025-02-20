@@ -1,16 +1,16 @@
-baseurl = "https://hackerific.net/"
+baseurl = "https://blog.hackerific.net/"
 title = "Hackerific"
 copyright = "(c) 2015-2019 Matt Foster."
 metaDataFormat = "yaml"
 theme = "hugo-theme-slim"
 
-# Pagination
-paginate = 10
-paginatePath = "page"
-
 enableEmoji  = true
 
 ignoreLogs = ['warning-goldmark-raw-html']
+
+[ pagination ]
+    pagetSize = 10
+    Path = "page"
 
 [permalinks]
     post = "/:year/:month/:day/:title/"
