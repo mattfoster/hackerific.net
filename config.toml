@@ -59,7 +59,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
 
     author = "Matt Foster"
 
-    logo = "/images/logo.png"
+    logo = "/images/logo-black.svg"
 
     mainsections = ["post"]
 
