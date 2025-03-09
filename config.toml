@@ -52,8 +52,8 @@ ignoreLogs = ['warning-goldmark-raw-html']
     flickr = "mattfoster"
     # lastfm = "mattfoster"
     callsign = "M0PUH"
-    mastodonid = "https://mastodon.radio/@m0puh"
-    qrzid = "M0PUJH"
+    mastodonid = "@m0puh"
+    qrzid = "M0PUUH"
 
     rss = true
 
