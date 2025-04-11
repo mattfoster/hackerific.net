@@ -12,6 +12,29 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+## March 2025
+
+### Speaking
+
+* Presented: [Ham Radio: Not just (for) old men](https://blog.hackerific.net/2025/03/29/ham-radio-not-just-for-old-men/)
+
+### Fiction
+
+* Reading: [Mirrored Heavens](https://rebeccaroanhorse.com/2024/06/09/mirrored-heavens-is-here/) by [Rebecca Roanhorse][RR]
+* Read: [Beyond the Light Horizon]() by [Ken Macleod][KM].
+* Read: Saturation Point by [Adrian Tchaikovsky][AT].
+* Read: Future's Edge by [Gareth L Powell][GP].
+* Read: The Instruments of Darkness by John Connolly.
+
+### Non-fiction
+
+* Listening: When the Moon Hits Your Eye by [John Scalzi][JS]
+* Listened: Careless People by Sarah Wynn-Williams
+
+### Learning
+
+* Learning about [self-hosting audiobooks](https://github.com/seanap/Plex-Audiobook-Guide) with Plex and [Prologue](https://prologue.audio/).
+
 ## February 2025
 
 ### Fiction
@@ -92,7 +115,9 @@ I've tried to list them in reverse chronological order.
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
 [CW]: https://openlibrary.org/authors/OL20934A/Connie_Willis
 [JSAC]: https://openlibrary.org/authors/OL6982995A/James_S._A._Corey
+[JS]: https://whatever.scalzi.com/
 [JV]: https://openlibrary.org/authors/OL359235A/Jeff_VanderMeer
+[KM]: https://kenmacleod.blogspot.com/
 [CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
 [GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
@@ -102,5 +127,6 @@ I've tried to list them in reverse chronological order.
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
+[RR]: https://rebeccaroanhorse.com/
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
