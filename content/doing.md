@@ -30,6 +30,16 @@ I've either done or started.
 
 * Listened: [Is a River Alive?](https://www.penguin.co.uk/books/455147/is-a-river-alive-by-macfarlane-robert/9780241624814) by [Robert Macfarlane][RM]
 
+### Watching
+
+* Watched: [Coding with AI: The End of Software Development as We Know It](https://learning.oreilly.com/live-events/coding-with-ai-the-end-of-software-development-as-we-know-it/0642572171612/) - O'Reilly online conference
+* AWS Summit (in person)
+
+### Learning
+
+* General background learning on MCPs
+* [MacSparky Alfred Field Guidle](https://learn.macsparky.com/p/alfred-5)
+
 ## March 2025
 
 ### Speaking
