@@ -12,6 +12,24 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+
+
+## April/May 2025
+
+### Fiction 
+
+* Read: Titanium Noir by [Nick Harkaway][NH]
+* Read: Human Resources by [Adrian Tchaikovsky][AT]
+* Read: Katalyst Gate by [Megan E O'Keefe][MEO]
+* Read: Beyond the Hallowed Sky by [Ken Macloed][KM]
+* Listened: What moves the dead by [T. Kingfisher][TK]
+* Listened: What feeds in the night [T. Kingfisher][TK]
+* Listened: Edgar Allen Poe complete works 
+
+### Non-fiction
+
+* Listened: [Is a River Alive?](https://www.penguin.co.uk/books/455147/is-a-river-alive-by-macfarlane-robert/9780241624814) by [Robert Macfarlane][RM]
+
 ## March 2025
 
 ### Speaking
