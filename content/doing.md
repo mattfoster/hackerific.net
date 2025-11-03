@@ -12,6 +12,28 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+## November 2025
+
+* Reading: Halcyon Years by [Alistair Reynolds][AR]
+
+## October 2025
+
+* Read: On Vicious Worlds by [Bethany Jacobs][BJ]
+* Read: Childred of Eden by [John Connolly][JC]
+* Read: Forty Signs of Rain by [Kim Stanley Robinson][KSR]
+* Listened: Shroud by [Adrian Tchaikovsky][AT]
+
+## September 2025
+
+* Read: Theese Burning Stars by [Bethany Jacob][BJ]
+* Read: The two lies of Faven Sythe by [Megan E. O'Keefe][MEO]
+
+## August 2025
+
+* Read: The Ministry of Time by [Kaliane Bradley][KB]
+* Read: Hungry Gods by [Adrian Tchaikovsky][AT]
+* Read: Rapport by [Martha Wells][MW]
+
 ## July 2025
 
 ### Fiction
