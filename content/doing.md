@@ -186,25 +186,35 @@ I've tried to list them in reverse chronological order.
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+[AR]: https://www.alastairreynolds.com/
 [AT]: https://openlibrary.org/authors/OL10838244A/Adrian_Tchaikovsky
 [BA]: https://openlibrary.org/authors/OL2702374A/Ben_Aaronovitch
 [BC]: https://openlibrary.org/authors/OL7387940A/Becky_Chambers
+[BJ]: https://openlibrary.org/authors/OL10523542A/Bethany_Jacobs
 [CB]: https://openlibrary.org/authors/OL1481445A/Chris_Beckett
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
+[CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
 [CW]: https://openlibrary.org/authors/OL20934A/Connie_Willis
+[EB]: https://www.elizabethbear.com/
+[GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
+[IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
+[IG]: http://www.ianthegreen.com/
+[JC]: https://www.johnconnollybooks.com/
 [JSAC]: https://openlibrary.org/authors/OL6982995A/James_S._A._Corey
 [JS]: https://whatever.scalzi.com/
 [JV]: https://openlibrary.org/authors/OL359235A/Jeff_VanderMeer
+[KB]: https://openlibrary.org/authors/OL13515159A/Kaliane_Bradley
 [KM]: https://kenmacleod.blogspot.com/
-[CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
-[GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
-[IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
 [KR]: https://openlibrary.org/authors/OL7472608A/Keanu_Reeves
 [KSR]: https://openlibrary.org/authors/OL19986A/Kim_Stanley_Robinson
 [MA]: https://openlibrary.org/authors/OL7339495A/Madeline_Ashby
+[MEO]: https://www.meganokeefe.com/
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
+[RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
 [RR]: https://rebeccaroanhorse.com/
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
+[SG]: https://www.sierragreerwriter.com/
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
+[TK]: https://openlibrary.org/authors/OL7442286A/T._Kingfisher
