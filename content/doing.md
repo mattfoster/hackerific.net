@@ -15,6 +15,7 @@ I've either done or started.
 ## November 2025
 
 * Reading: Halcyon Years by [Alistair Reynolds][AR]
+* Listened: What stalks the deep by [T. Kingfisher][TK]
 
 ## October 2025
 
