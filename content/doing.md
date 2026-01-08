@@ -12,15 +12,28 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+## January 2026
+
+* Reading: Exodus by [Peter F Hamilton]
+* Listening: The Old Ways by [Robert Macfarlane][RM]
+
+## December 2025
+
+* Read: This Brutal Moon by [Bethany Jacobs][BJ]
+* Read: Shards of Earth by [Adrian Tchaikovsky][AT]
+* Read: Sixty Days and Counting by [Kim Stanley Robinson][KSR]
+
+
 ## November 2025
 
-* Reading: Halcyon Years by [Alistair Reynolds][AR]
+* Read: Fifty Degrees Below by [Kim Stanley Robinson][KSR]
+* Read: Halcyon Years by [Alistair Reynolds][AR]
 * Listened: What stalks the deep by [T. Kingfisher][TK]
 
 ## October 2025
 
 * Read: On Vicious Worlds by [Bethany Jacobs][BJ]
-* Read: Childred of Eden by [John Connolly][JC]
+* Read: Children of Eve by [John Connolly][JC]
 * Read: Forty Signs of Rain by [Kim Stanley Robinson][KSR]
 * Listened: Shroud by [Adrian Tchaikovsky][AT]
 
