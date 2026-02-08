@@ -12,9 +12,14 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+## February 2026
+
+* Reading: The Archimedes Engine by [Peter F. Hamilton][PFH]
+
 ## January 2026
 
 * Reading: Exodus by [Peter F. Hamilton][PFH]
+* Listened: [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
 * Listening: The Old Ways by [Robert Macfarlane][RM]
 
 ## December 2025

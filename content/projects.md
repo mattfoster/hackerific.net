@@ -10,7 +10,7 @@ them all!
 
 ## Completed
 
-* `badges`: I made PCB badges for a Chistmas party in [2023 and 2024](https://hackerific.net/2024/12/17/christmas-badge-buildathon/). 
+* `badges`: I made PCB badges for a Chistmas party in [2023, 2024 and 2025](https://hackerific.net/2024/12/17/christmas-badge-buildathon/). 
 * `pcb-toaster`: I added a PID controller to a toaster oven to let me [bake PCBs](https://hackerific.net/2021/11/13/pcb-toaster/). 
 * `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
   This is a combined audio and USB-serial interface for controlling ham radios.
