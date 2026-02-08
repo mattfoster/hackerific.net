@@ -14,7 +14,7 @@ I've either done or started.
 
 ## January 2026
 
-* Reading: Exodus by [Peter F Hamilton]
+* Reading: Exodus by [Peter F. Hamilton][PFH]
 * Listening: The Old Ways by [Robert Macfarlane][RM]
 
 ## December 2025
@@ -39,7 +39,7 @@ I've either done or started.
 
 ## September 2025
 
-* Read: Theese Burning Stars by [Bethany Jacob][BJ]
+* Read: These Burning Stars by [Bethany Jacobs][BJ]
 * Read: The two lies of Faven Sythe by [Megan E. O'Keefe][MEO]
 
 ## August 2025
@@ -53,7 +53,7 @@ I've either done or started.
 ### Fiction
 
 * Reading: Bee Speaker by [Adrian Tchaikovsky][AT]
-* Read: Annie Bot by [Sierra Green][SG]
+* Read: Annie Bot by [Sierra Greer][SG]
 * Read: Extremophile by [Ian Green][IG]
 
 ### Podcasts
@@ -85,10 +85,10 @@ I've either done or started.
 * Read: Titanium Noir by [Nick Harkaway][NH]
 * Read: Human Resources by [Adrian Tchaikovsky][AT]
 * Read: Katalyst Gate by [Megan E O'Keefe][MEO]
-* Read: Beyond the Hallowed Sky by [Ken Macloed][KM]
+* Read: Beyond the Hallowed Sky by [Ken Macleod][KM]
 * Listened: What moves the dead by [T. Kingfisher][TK]
-* Listened: What feeds in the night [T. Kingfisher][TK]
-* Listened: Edgar Allen Poe complete works 
+* Listened: What Feeds in the Night by [T. Kingfisher][TK]
+* Listened: Edgar Allan Poe complete works 
 
 ### Non-fiction
 
@@ -102,7 +102,7 @@ I've either done or started.
 ### Learning
 
 * General background learning on MCPs
-* [MacSparky Alfred Field Guidle](https://learn.macsparky.com/p/alfred-5)
+* [MacSparky Alfred Field Guide](https://learn.macsparky.com/p/alfred-5)
 
 ## March 2025
 
@@ -113,7 +113,7 @@ I've either done or started.
 ### Fiction
 
 * Reading: [Mirrored Heavens](https://rebeccaroanhorse.com/2024/06/09/mirrored-heavens-is-here/) by [Rebecca Roanhorse][RR]
-* Read: [Beyond the Light Horizon]() by [Ken Macleod][KM].
+* Read: Beyond the Light Horizon by [Ken Macleod][KM].
 * Read: Saturation Point by [Adrian Tchaikovsky][AT].
 * Read: Future's Edge by [Gareth L Powell][GP].
 * Read: The Instruments of Darkness by John Connolly.
@@ -133,7 +133,7 @@ I've either done or started.
 
 * Read: [A Conventional](https://openlibrary.org/works/OL42402127W/Conventional_Boy) Boy by [Charles Stross][CS]
 * Reading: [BRZRKR Deluxe Edition](https://www.amazon.co.uk/BRZRKR-Deluxe-dlx-Keanu-Reeves/dp/B0CVFTYLXH) by [Keanu Reeves][KR] et al.
-* Listened: [Absolution](https://openlibrary.org/works/OL38119014W/Absolution) by [Jeff VenderMeer][JV]
+* Listened: [Absolution](https://openlibrary.org/works/OL38119014W/Absolution) by [Jeff VanderMeer][JV]
 
 ### Non-fiction
 
@@ -156,7 +156,7 @@ I've either done or started.
 
 ## Late 2024 - January 2025
 
-I can't actually remember how far back this goes, probably from Autumn 2025.
+I can't actually remember how far back this goes, probably from Autumn 2024.
 I've tried to list them in reverse chronological order.
 
 ### Fiction
@@ -185,7 +185,7 @@ I've tried to list them in reverse chronological order.
 ## Favourites
 
 * [Doomsday Book](https://openlibrary.org/works/OL14858406W/Doomsday_book) by [Connie Willis][CW]
-* The Algabraist by [Iain M Banks][IB]
+* The Algebraist by [Iain M Banks][IB]
 * The Expanse series by [James S. A. Corey][JSAC]
 * Revelation Space series
 * Aurora Rising series
@@ -194,7 +194,7 @@ I've tried to list them in reverse chronological order.
 * Murderbot series by [Martha Wells][MW]
 * Monk and Robot and other work by [Becky Chambers][BC]
 * New York 2140 by [Kim Stanley Robinson][KSR]
-* Borne by [Jeff VenderMeer][JV]
+* Borne by [Jeff VanderMeer][JV]
 * Children of Eden series by [Chris Beckett][CB]
 * Termination Shock by [Neal Stephenson][NS]
 * Rivers of London series by [Ben Aaronovich][BA]
@@ -226,6 +226,7 @@ I've tried to list them in reverse chronological order.
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
+[PFH]: https://openlibrary.org/authors/OL218891A/Peter_F._Hamilton
 [RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
 [RR]: https://rebeccaroanhorse.com/
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
