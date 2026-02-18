@@ -14,7 +14,17 @@ I've either done or started.
 
 ## February 2026
 
-* Reading: The Archimedes Engine by [Peter F. Hamilton][PFH]
+### Fiction
+
+* Reading: [Dead Astronauts](https://openlibrary.org/works/OL20605856W/Dead_Astronauts) by [Jeff VanderMeer][JV]
+* Read: The Shattering Peace by [John Scalzi][JS]
+* Read: The Archimedes Engine by [Peter F. Hamilton][PFH]
+
+### Music
+
+* The Broken Oar - WEFT
+* Normal Isn't - Puscifer
+* CONFLICT DLC - HEALTH
 
 ## January 2026
 
@@ -57,7 +67,7 @@ I've either done or started.
 
 ### Fiction
 
-* Reading: Bee Speaker by [Adrian Tchaikovsky][AT]
+* Read: Bee Speaker by [Adrian Tchaikovsky][AT]
 * Read: Annie Bot by [Sierra Greer][SG]
 * Read: Extremophile by [Ian Green][IG]
 
@@ -81,7 +91,7 @@ I've either done or started.
 ### Watching 
 
 * Watched: [Building Secure Code in the Age of Vibe Coding: Steve Wilson Live with Tim O’Reilly, presented by Tim O'Reilly, Steve Wilson](https://learning.oreilly.com/live-events/building-secure-code-in-the-age-of-vibe-coding-steve-wilson-live-with-tim-oreilly/0642572189716/0642572189709/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
-* Watched: [https://learning.oreilly.com/live-events/chelsea-troy-live-with-tim-oreilly/0642572203368/](https://learning.oreilly.com/live-events/chelsea-troy-live-with-tim-oreilly/0642572203368/)
+* Watched: [Chelsea Troy Live with Tim O'Reilly](https://learning.oreilly.com/live-events/chelsea-troy-live-with-tim-oreilly/0642572203368/)
 
 ## April/May 2025
 
@@ -117,7 +127,7 @@ I've either done or started.
 
 ### Fiction
 
-* Reading: [Mirrored Heavens](https://rebeccaroanhorse.com/2024/06/09/mirrored-heavens-is-here/) by [Rebecca Roanhorse][RR]
+* Read: [Mirrored Heavens](https://rebeccaroanhorse.com/2024/06/09/mirrored-heavens-is-here/) by [Rebecca Roanhorse][RR]
 * Read: Beyond the Light Horizon by [Ken Macleod][KM].
 * Read: Saturation Point by [Adrian Tchaikovsky][AT].
 * Read: Future's Edge by [Gareth L Powell][GP].
@@ -125,7 +135,7 @@ I've either done or started.
 
 ### Non-fiction
 
-* Listening: When the Moon Hits Your Eye by [John Scalzi][JS]
+* Listened: When the Moon Hits Your Eye by [John Scalzi][JS]
 * Listened: Careless People by Sarah Wynn-Williams
 
 ### Learning
