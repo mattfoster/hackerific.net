@@ -10,7 +10,7 @@ them all!
 
 ## Completed
 
-* `badges`: I made PCB badges for a Chistmas party in [2023, 2024 and 2025](https://hackerific.net/2024/12/17/christmas-badge-buildathon/). 
+* `badges`: I made PCB badges for a Christmas party in [2023 and 2024](https://hackerific.net/2024/12/17/christmas-badge-buildathon/) and [2025](https://hackerific.net/2025/12/29/2025-electronic-badge/). 
 * `pcb-toaster`: I added a PID controller to a toaster oven to let me [bake PCBs](https://hackerific.net/2021/11/13/pcb-toaster/). 
 * `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
   This is a combined audio and USB-serial interface for controlling ham radios.
@@ -31,11 +31,11 @@ them all!
   GH-60 Satan boards, some gherkins and a gherkin express.
 * `PowerPole PDUs`: I made some Anderson PowerPole PDUs for my gear, using kits
   from [sotabeams](https://www.sotabeams.co.uk/powerpole-fused-dc-connector-box/).
-* `EFHW` `: I made a 40m EFHW antenna from a [sotabeams](https://www.sotabeams.co.uk) kit.
+* `EFHW`: I made a 40m EFHW antenna from a [sotabeams](https://www.sotabeams.co.uk) kit.
 * `QRP Labs 50W PA`: I made a [QRP Labs](http://shop.qrp-labs.com/50wpa) power
   amplifier kit. It was hard work because `g0upl` loves really compact boards.
 * `pi timeserver`: I made a Raspberry Pi into an NTP server by connecting a GPS
-  receiver and using it's PPS output as an accurace time pulse. Basic config is
+  receiver and using it's PPS output as an accurate time pulse. Basic config is
   in [GitLab](https://gitlab.com/-/snippets/1867454).
 * `morse key`: I made a Morse key from
   [qrphamradiokits](https://www.qrphamradiokits.com/cw-keyers/tkey-0-touch-keyer/#cc-m-product-12376892149),
@@ -43,7 +43,7 @@ them all!
 * `cordwood puzzle 1`: I did [Cordwood puzzle
   1](https://boldport.com/shop/cordwood-puzzle-1) without cheating!
 * `tape antenna`: I made a direction finding antenna out of tape measures. It
-  used a gamma match and parameters from a yagi calcualtor I had to run in
+  used a gamma match and parameters from a yagi calculator I had to run in
   wine. I made some FT8 QSOs with it.
 * `wobbulator`: I made a pi wobbulator. [It was
   fun](http://asliceofraspberrypi.blogspot.com/2013/10/raspberry-pi-wobbulator-introduction.html)
@@ -51,7 +51,7 @@ them all!
 * `RSGB Centenary Receiver`: I made an [RSGB Centenary
   Receiver](https://www.rsgbshop.org/acatalog/PDF/RSGB%20Centenary%20Receiver%20Building%2020m%20Instructions%20V1-5.pdf)
   a few years ago. It was fun and works!
-* `oscillator`: I made a basic [Colpits
+* `oscillator`: I made a basic [Colpitts
   oscillator](https://en.wikipedia.org/wiki/Colpitts_oscillator) for my
   intermediate amateur radio practical. 
 
