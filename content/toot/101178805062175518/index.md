@@ -7,4 +7,3 @@ Looks pretty cosy in there!
 
 
 ![](13418.png)
-

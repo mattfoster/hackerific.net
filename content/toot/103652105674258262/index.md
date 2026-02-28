@@ -7,4 +7,3 @@ Spotted in Bath. The new Tesla trip hazard... or solution to charging when you h
 
 
 ![A Tesla parked outside of a house in bath. There's a plastic cable protector over the pavement and the car is being charged. The protector is yellow on top but is pretty tall and easy to trip over.](167916.jpeg)
-

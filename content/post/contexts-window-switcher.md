@@ -15,7 +15,7 @@ type: post
 
 I'm at the end of a trial of [Contexts](https://contexts.co) an interesting
 window switching app for macOS (ooh, new style naming!), and I'm enjoying using
-it so decided to write a review. 
+it so decided to write a review.
 
 From its homepage, the core idea of Contexts is to improve `Command + Tab`
 functionality and make it a lot more flexible. In my view it definitely
@@ -68,7 +68,7 @@ dragging your finger vertically along the side of your trackpad. Doing this
 makes it pop out, and show a narrow version of the window list (although you
 can change this to the full list). Dragging down the side of the pad selects
 between the listed windows, although in practice I found that I could only
-reach the top 70% or so of the list because my trackpad isn't big enough! 
+reach the top 70% or so of the list because my trackpad isn't big enough!
 
 ![Contexts' side panel](/images/posts/contexts-panel.png)
 
@@ -88,5 +88,3 @@ nifty application switcher.
 Contexts is currently priced
 [£7.07](https://sites.fastspring.com/contextsformac/instant/contexts), so
 probably $10 in post-brexit UK. I'd say its worth a look.
-
-

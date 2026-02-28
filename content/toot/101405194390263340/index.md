@@ -13,4 +13,3 @@ Super happy the repair worked and there doesn’t seem to have been anything els
 ![A multimeter plugged into a PSU. The voltage reads 13.79 Vdc](20093.jpg)
 
 ![Inside a linear PSU. There’s a large transformer a large heat sink and a PCB](20094.jpg)
-

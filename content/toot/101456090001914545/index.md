@@ -15,4 +15,3 @@ The altitude made it hard work, but it was totally worth it.
 ![Rocks, snow and mountains. This is the view from the top of Mount Toubkal](21741.jpeg)
 
 ![The author standing next to a metal signpost. This is at the top of Mount Toubkal.](21742.jpeg)
-

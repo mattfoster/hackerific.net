@@ -9,4 +9,3 @@ Naturally, the writing on it is only the right way up when it’s in your right 
 
 
 ![An engineer solder sucker. A small metal tube with a plunger on one end and a silicone plastic nozzle on the other.](18738.jpg)
-

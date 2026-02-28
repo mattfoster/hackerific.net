@@ -18,8 +18,8 @@ For a home user who just wants to monitor my router, power usage, and the odd ar
 
 * Cacti is buggy – really buggy. I've seen it totally eat the device/graph tree when adding a new node, and had to restore the database table from a backup to fix it :S.
 * Cacti is [pretty insecure](http://www.cvedetails.com/vendor/7458/Cacti.html "Cacti : Products and vulnerabilities"), there was even an SQL injection on the [login page](http://www.cvedetails.com/vulnerability-list/vendor_id-7458/year-2011/opsqli-1/Cacti.html "Cacti : Security vulnerabilities")!
-* Cacti is written in PHP. 
-* Cacti uses a central server, with a poller that runs out of a 5 minutely cronjob (by default). 
+* Cacti is written in PHP.
+* Cacti uses a central server, with a poller that runs out of a 5 minutely cronjob (by default).
 * Cacti is really hard to set up.
 
 This contents of list are definitely enough to make me want to find an alternative.
@@ -30,7 +30,7 @@ collectd doesn't really replace [Cacti](http://www.cacti.net/ "Cacti: The Comple
 
 I haven't written about setting up monitoring with cacti in past, but actually grabbing data from something is usually the easy bit. To do that, you just need to write a script which outputs the information you want cacti to consume. The hard part is jumping through the hoops of adding your script to cacti. [Here's](https://gist.github.com/377704) an example script; you'll need to read cacti's docs to see how to hook your own scripts up.
 
-Getting data into collectd can be a little more complex if you use the network plugin, because it expects you to use its own protocol. Thankfully, the [docs](http://collectd.org/documentation.shtml "Documentation &ndash; collectd &ndash; The system statistics collection daemon") are pretty good, and the [language and plugin](http://collectd.org/wiki/index.php/Table_of_Plugins "Table of Plugins - collectd Wiki") support is even better. 
+Getting data into collectd can be a little more complex if you use the network plugin, because it expects you to use its own protocol. Thankfully, the [docs](http://collectd.org/documentation.shtml "Documentation &ndash; collectd &ndash; The system statistics collection daemon") are pretty good, and the [language and plugin](http://collectd.org/wiki/index.php/Table_of_Plugins "Table of Plugins - collectd Wiki") support is even better.
 
 ## CurrentCost monitoring
 
@@ -46,7 +46,7 @@ My script uses `rexml/document` to parse this, on the off-chance that some of th
 
     xml.elements['//tmpr'].text.to_f
     xml.elements['//ch1/watts'].text.to_f
-	
+
 The final step is sending the data to collectd, with the ruby-collectd gem. Thankfully, the gem has decent documentation, but if you've not done much with collectd you might find the examples frustrating, because they don't actually work! This is because the method call is dynamically converted to the type you want to record (using `method_missing`), and _not__ arbitrary. For example, in the expression:
 
     Stats.my_counter(:my_sleep).counter = 0
@@ -55,13 +55,13 @@ The final step is sending the data to collectd, with the ruby-collectd gem. Than
 
     power                   value:GAUGE:0:U
 	temperature             value:GAUGE:-273.15:U
-	
+
 Which looks perfect! So to stream the data to my collectd, I use:
 
     Collectd.add_server(interval=10)
     stats = Collectd.current_cost(:reader)
     stats.with_full_proc_stats
-  
+
     stats.temperature(:temperature).gauge = xml.elements['//tmpr'].text.to_f
     stats.power(:power).gauge = xml.elements['//ch1/watts'].text.to_f
 
@@ -71,7 +71,7 @@ That covers most of the interesting parts of my monitoring script. Daemons is re
 To run it, use:
 
     ruby current_cost.rb start
-	
+
 And the magic of the Daemons library will be invoked. Finally, check your collectd's rrd directory to see if the data is being collected, then use something like the `collection3` frontend, or `rrdtool` to view some graphs!
 
 <a href="http://www.flickr.com/photos/mattfoster/8235410040/" title="collection.cgi-version-3 by mattfoster, on Flickr"><img src="http://farm9.staticflickr.com/8480/8235410040_bbc5550679.jpg" width="500" height="303" alt="collection.cgi-version-3"></a>

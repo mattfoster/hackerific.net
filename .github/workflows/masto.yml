@@ -19,7 +19,7 @@ jobs:
 
       - name: Install Mastodon Archive Tool
         run: go install git.garrido.io/gabriel/mastodon-markdown-archive@latest
-      
+
       - name: Run Mastodon Archive Tool
         run: |
           mastodon-markdown-archive \
@@ -45,7 +45,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add .
           git commit -m "Update Mastodon archive" || echo "No changes to commit"
-          
+
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:

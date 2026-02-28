@@ -10,7 +10,7 @@ title: 'Screencast: Using the Gnuplot TextMate Bundle '
 url: /2008/11/09/screencast-using-the-gnuplot-textmate-bundle/
 ---
 
-I had so much fun making my previous screencast, on installing the Gnuplot TextMate bundle, that I decided to make another one. This one is about _using_ the bundle. It includes info on snippets and commands, as well as the `TM_GNUPLOT` variable I introduced. Setting this variable allows you to choose the gnuplot executable. 
+I had so much fun making my previous screencast, on installing the Gnuplot TextMate bundle, that I decided to make another one. This one is about _using_ the bundle. It includes info on snippets and commands, as well as the `TM_GNUPLOT` variable I introduced. Setting this variable allows you to choose the gnuplot executable.
 
 View it below, on [Vimeo](http://www.vimeo.com/2195460 "Using the Gnuplot TextMate Bundle on Vimeo") directly, or [download](http://www.vimeo.com/download/video:86076589?e=1226262331&amp;h=4f1bb01b0cdbe49822acc1dcef48cbc8) it.
 

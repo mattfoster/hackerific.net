@@ -7,4 +7,3 @@ Almost finished building my “HF Swiss Army Knife” at the GQRP buildathon! Su
 
 
 ![](1516.jpg)
-

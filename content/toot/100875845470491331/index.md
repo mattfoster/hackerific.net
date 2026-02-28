@@ -7,4 +7,3 @@ This super high res (8k!) SpaceX launch footage is amazing: [https://youtu.be/xN
 
 
 ![](6954.png)
-

@@ -17,7 +17,7 @@ It's probably impossible to go to a conference without picking up some kind of i
  * [Kriging](http://en.wikipedia.org/wiki/Kriging "Kriging - Wikipedia, the free encyclopedia") -- less mentioned, but heavily used.
  * [Pan-sharpening](http://www.geosage.com/highview/imagefusion.html "Image fusion and pan-sharpening: the big picture")
  * [mathematical morphology](http://en.wikipedia.org/wiki/Morphological_image_processing "Mathematical morphology - Wikipedia, the free encyclopedia") - Although interestingly, nothing as modern as attribute morphology.
- 
+
 And trendy instrument types:
 
  * [Hyperspectral](http://en.wikipedia.org/wiki/Hyperspectral "Hyperspectral imaging - Wikipedia, the free encyclopedia")-anything!

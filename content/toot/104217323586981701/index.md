@@ -13,4 +13,3 @@ These things are so expensive, but look gorgeous. 1.5kW ATU anyone?
 
 
 ![](221735.png)
-

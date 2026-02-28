@@ -15,7 +15,7 @@ type: post
 
 I've seen a couple of miserable sounding posts suggesting that there's not been
 much good dark music this month, and I have to say that I disagree! For me, the
-month started with Supernormal festival, where I saw some amazing bands, like 
+month started with Supernormal festival, where I saw some amazing bands, like
 Ashtray Navigations, The Cush, Tomaga and Heather Leigh, and then when I got
 back from that cool bands kept releasing cool albums. This post is about a few of them.
 
@@ -49,7 +49,7 @@ this is a [band](https://subrosa.cc/bio/) calling itself:
 > bleak, and beautiful.
 
 This is what would happen if My Dying Bridge went sludgy and ditched the clean
-(male) vocals. 
+(male) vocals.
 
 Listen on:
 
@@ -81,7 +81,7 @@ black metal, doom and sludge, the closing track is epic, so watch it below.
 
 {{< youtube n8vATlfgwP4 >}}
 
-Listen on: 
+Listen on:
 
 * [Bandcamp](https://moloken.bandcamp.com/)
 * {{< apple_music "https://geo.itunes.apple.com/gb/album/all-is-left-too-see/id1034996134?at=1000ldrw" >}}

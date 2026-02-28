@@ -13,4 +13,3 @@ I think adding limit switches is a must and to do anything more than simple engr
 ![](13303.jpg)
 
 ![](13304.jpg)
-

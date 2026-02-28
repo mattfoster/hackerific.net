@@ -11,11 +11,11 @@ type: post
 
 Changes to Apple Music have had more of an adverse affect on my discovery process
 than I hoped, and so this post has been a long time coming. In writing this, I've
-delved through my own discoveries as well as a some of my favourite musical blogs, 
+delved through my own discoveries as well as a some of my favourite musical blogs,
 [Dark Hemyspheres](http://music.thedigitalfix.com/content/id/22053/dark-hemyspheres-january-2017.html),
 [Doom charts](https://doomcharts.com/2017/02/01/the-doom-charts-for-january-2017/)
 and [Stoned Meadow of Doom](https://www.youtube.com/channel/UCknVpWR6m2Ijzkqo-aPXs_g).
-The result is a mix of albums which came out in December 2017 and January 2017. Enjoy! 
+The result is a mix of albums which came out in December 2017 and January 2017. Enjoy!
 
 ## Dopelord – Children Of The Haze
 

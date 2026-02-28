@@ -11,4 +11,3 @@ The blue board on the right is a DDS module which it uses to generate a sweep of
 
 
 ![](2987.jpeg)
-

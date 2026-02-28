@@ -33,7 +33,7 @@ and deciding it would be a fun thing to use to play with some test gear.
 I ended up making a couple of board iterations, due to some small footprint
 mistakes, and because of that I now have a lot of cheap boards from [JLCPCB](https://jlcpcb.com/).
 Of course this made me think about speeding up manufacture for no other
-reasons than I love to automate things, and I used 1608 footprints, so 
+reasons than I love to automate things, and I used 1608 footprints, so
 most of the parts are 1.6 by 0.8 mm in size. As it happens, both versions have
 some annoying footprint problems, but nothing insurmountable, in the second
 version I accidentally used a tiny pin header, but the rest is fine:
@@ -65,7 +65,7 @@ a bimetallic strip (suggesting the enclosure behind the switch gets hot...
 which it does). These were connected by wires sheathed with flame retardant
 tubing, and followed by wires going to the elements. I ripped the timer and
 thermostat out, but left the bulb in place, then connected the solid state
-relay where those had been. 
+relay where those had been.
 
 {{< figure src="images/overview.jpg"
 alt="Toaster over with electrics replaced with a PID controller"
@@ -79,12 +79,12 @@ to wire in. Then I did some quick tests to see how hot the thing could get
 around 300 C, which is plenty! I also checked the PID controller worked as I
 expected and found that it did, but that the thermocouple it comes with lags
 the temperature of the unit by quite a lot, presumably because of its thermal
-mass. 
+mass.
 
 Finally, with my plan tested and validated, I use snips to cut a hole in the
 front of the panel and pushed the PID controller through before neatening
 everything up (and holding it away from the hot side as much as possible) and
-putting the lid on. 
+putting the lid on.
 
 ## The moment of truth
 
@@ -98,7 +98,7 @@ built version one of the PCB as a test, and the process was complicated by the
 relatively large nozzle on the paste tube. I ended up using cotton buds to clean
 up as I went along and by the time the board was laid out it was a mess. I was
 entirely sure the result would be awful, but decided to see what would happen
-anyway! 
+anyway!
 
 {{< figure src="images/cooking.jpg"
 alt="A modified toaster oven with a small PCB inside."
@@ -112,7 +112,7 @@ where I applied the paste badly. A couple of capacitors needed to be moved and
 tacked down, and a few blobs of solder needed cleaning, but on the whole the
 process worked despite my messy paste application! I used a toothbrush and some
 isopropanol to clean the board when it was cool, and checked the joints, then I
-powered it up and attached my 'scope to see if the board worked, and it did! 
+powered it up and attached my 'scope to see if the board worked, and it did!
 
 {{< figure src="images/finished-board.png"
 alt="A populated circuit board."
@@ -123,7 +123,7 @@ caption="Finished reflowed and then touched up circuit board. Not pretty but not
 
 This was a fun and simple project. There's mains voltage and a potential for
 fire, so it's not necessarily super safe, but I'm glad I did it and I feel like
-this might be a useful tool. I'm also keeping an extinguisher nearby! 🧯 
+this might be a useful tool. I'm also keeping an extinguisher nearby! 🧯
 
 {{< figure src="images/testing.jpg"
 alt="A circuit board being tested with an oscilloscope in the background"
@@ -137,11 +137,11 @@ in the side/top cover and use a small PC fan.
 
 If I really get into making loads of PCBs I might invest in a more intelligent
 controller, or look at using an ESP32 (or something) and relay to allow for PC
-control using MQTT (Tasmota might make this pretty easy). 
+control using MQTT (Tasmota might make this pretty easy).
 
 By far the most frustrating thing was applying the solder paste, and because of that I ordered
 [this](https://www.tindie.com/products/avandalen/spoty-micro-dot-solder-paste-syringe-dispenser/)
 great looking solder dispenser (more info
 [here](https://avdweb.nl/tech-tips/pcb/solder-paste-dispenser). I'm looking
 forward to that arriving so I can try it, and hoping brexit means I
-don't get lots of import fees (:angry: brexit). 
+don't get lots of import fees (:angry: brexit).

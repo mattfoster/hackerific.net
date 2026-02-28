@@ -21,8 +21,8 @@ I used [BeautifulSoup](http://crummy.com/software/BeautifulSoup "Beautiful Soup:
 
 I'm running it in a simple shell loop:
 
-      while true; do sleep 60; python heist_parse.py >> heist_countdown; done 
-	
+      while true; do sleep 60; python heist_parse.py >> heist_countdown; done
+
 Which is collecting the width every minute (that doesn't seem too often).
 
 Now that I've had this loop running for a while I've got 34 data points, so I can do a bit of simple linear regression, with [scipy](http://www.scipy.org/ "SciPy -"). Here's a graph:
@@ -34,7 +34,7 @@ And here's the code used to do the regression, and generate the plot.
 <script src="http://gist.github.com/59382.js"></script>
 
 It's important to remember that this is based on the assumption that the bar is full up at **500** pixels wide. This may or may not be reasonable.
- 
+
 If it is though, I'd tentatively estimate that the bundle will be release at **3AM (GMT) on the 7th Feb 2009**. You read it here first!
 
 **Update:** Well, it looks like they cheated! Here's a graph of the bar's length with time:

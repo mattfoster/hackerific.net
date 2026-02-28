@@ -7,4 +7,3 @@ Took two of these tiny diodes out of my Icom 706mkII to get access to 60m. It wo
 
 
 ![](1048.jpg)
-

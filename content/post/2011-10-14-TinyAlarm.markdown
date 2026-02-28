@@ -7,7 +7,7 @@ date: 2011-10-14T00:00:00Z
 title: TinyAlarm - a simple ATTiny45 based alarm
 ---
 
-The TinyAlarm came about because my brother needed a simple alarm for his drum practice garage - something which will scare someone away, but not go off all night, as he doesn't live near it.  
+The TinyAlarm came about because my brother needed a simple alarm for his drum practice garage - something which will scare someone away, but not go off all night, as he doesn't live near it.
 
 I decided to use an ATTiny45 chip as I had some spare, and thought it was high time I wrote some proper (non-arduino) microcontroller code. Naturally, I decided to use avr-gcc (and [friends](http://www.nongnu.org/avr-libc/ "AVR Libc Home Page")!).
 
@@ -19,16 +19,16 @@ The behaviour I decided on can be summed up as follows:
 
  * On power up, beep for a while, but don't go off.
  * When triggered, beep for a while before going off.
- * If warnings are allowed, check the input after the initial beep before going off. 
+ * If warnings are allowed, check the input after the initial beep before going off.
  * Only go off for a short time, and light an indicator LED once the alarm has gone off.
  * If multiple alarms are allowed, ensure there's a wait before going off again.
  * And don't go off too many times!
 
-As well as that, I wanted the system to keep its power usage low, by sleeping as much as possible. In order to do that, I decided to base as much of the system functionality as possible based on interrupts. 
+As well as that, I wanted the system to keep its power usage low, by sleeping as much as possible. In order to do that, I decided to base as much of the system functionality as possible based on interrupts.
 
 ## Interrupts
 
-Interrupts are events which are triggered by the hardware, and have attached code. In this case, I used them to monitor the alarm's input (PCINT0), and generate a useful clock signal (WDIE) without having to use one of the devices timer units. 
+Interrupts are events which are triggered by the hardware, and have attached code. In this case, I used them to monitor the alarm's input (PCINT0), and generate a useful clock signal (WDIE) without having to use one of the devices timer units.
 
 To generate the clock signal, I used the system's watchdog timer (WDT), and configured it to generate an interrupt every 0.5 seconds. Using the WDT instead of one of the system timers give a lot of flexibility when you want fairly long time period interrupts, as it's clocked internally at 128Khz, rather than using the much faster system clock. To set up the WDT for 0.5 s intervals, I used:
 
@@ -47,7 +47,7 @@ I decided to use a hardware debouncing circuit, to remove the need for any delay
 
 ## Alerting
 
-Rather than allow the MCU to power the alarm siren, I opted to use a very simple transistor switch. The main advantage of this is that I'm powering the circuit from a 9 volt battery, via a regulator, so using a switch allows me to use the whole 9v for the siren, instead of the regulated 5v supply used by the chip. 
+Rather than allow the MCU to power the alarm siren, I opted to use a very simple transistor switch. The main advantage of this is that I'm powering the circuit from a 9 volt battery, via a regulator, so using a switch allows me to use the whole 9v for the siren, instead of the regulated 5v supply used by the chip.
 
 ## Schematic and Code
 
@@ -55,8 +55,8 @@ Putting all this together leads to a fairly simple circuit, so using schematic c
 
 ![gEDA Schematic](https://github.com/mattfoster/TinyAlarm/raw/master/schematic/geda/alarm.png)
 
-## Construction 
+## Construction
 
-I built myself a TinyAlarm using veroboard and a small plastic siren from [maplin](http://www.maplin.co.uk). Veroboard is not pretty, and it can be surprisingly difficult to squeeze circuits onto. I recommend using squared paper and a pencil! 
+I built myself a TinyAlarm using veroboard and a small plastic siren from [maplin](http://www.maplin.co.uk). Veroboard is not pretty, and it can be surprisingly difficult to squeeze circuits onto. I recommend using squared paper and a pencil!
 
 ![veroboard build](/images/posts/tinyalarm.png)

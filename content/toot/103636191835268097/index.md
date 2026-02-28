@@ -9,4 +9,3 @@ I need to get my antenna pole down to free a stick pulley but I can’t do that 
 
 
 ![Two kayaks on a concrete bar. There is a weird on the right and fast moving water in front of the weir. ](166516.jpg)
-

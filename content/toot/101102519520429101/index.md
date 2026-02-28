@@ -9,4 +9,3 @@ The breakdown by software at the bottom shows a few people using WSJT-X RC5 as w
 
 
 ![](12172.png)
-

@@ -13,4 +13,3 @@ I'm building an N7DDC ATU kit from eBay.
 
 
 ![PICkit 3 programmer software on windows. Some device information at the top (PIC16F1938) some hex in the middle and some more hex (EEPROM data) below.](104865058395470732.png)
-

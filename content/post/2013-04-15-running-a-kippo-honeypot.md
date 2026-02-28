@@ -9,7 +9,7 @@ title: 'Running a Kippo Honeypot: Part one. Odd passwords'
 url: /2013/04/15/running-a-kippo-honeypot/
 ---
 
-[Bed Against The Wall][1] inspired me to try running [kippo][2], an SSH honeypot on a spare CentOS VPS I ended accidentally paying for. 
+[Bed Against The Wall][1] inspired me to try running [kippo][2], an SSH honeypot on a spare CentOS VPS I ended accidentally paying for.
 
 So far, I've completed a very basic installation by using an iptables rule to redirect traffic from kippo's default port of 2222 to 22 on the VPS' second IP address, created an unprivileged user to run the kippo scripts then started `kippo.sh` as that user.
 
@@ -22,7 +22,7 @@ Point one isn't much of a surprise when you consider how much Chinese culture re
 
 However, point two is more interesting because of what I think it means. The most commonly attempted passwords are things you might expect, such as:
 
-	  11 111111     
+	  11 111111  
 	  11 abc123
 	  11 p@ssw0rd
 	  16 password
@@ -38,11 +38,11 @@ Where counts are shown on the left -- as you can see I haven't seen a huge numbe
 	  Th3Bu1ES@VaDCuMm3RgeLak3T3LL1!!!
 	  @#$%TheInfinit0fLife@#$%
 
-Which I think are pretty odd. I haven't managed to find much on these passwords (it's dead easy to find lists of attempted password, but not a lot of analysis), but I suspect that they're either passwords which are typically set by exploits or perhaps [root kits][3] or by other script kiddies' attacks. It's hard to imagine that anyone would actually choose to set their root password to `Th3Bu1ES@VaDCuMm3RgeLak3T3LL1!!!`. 
+Which I think are pretty odd. I haven't managed to find much on these passwords (it's dead easy to find lists of attempted password, but not a lot of analysis), but I suspect that they're either passwords which are typically set by exploits or perhaps [root kits][3] or by other script kiddies' attacks. It's hard to imagine that anyone would actually choose to set their root password to `Th3Bu1ES@VaDCuMm3RgeLak3T3LL1!!!`.
 
-I also wouldn't be surprised if some of these are tried because initial attacks work by spraying and praying masses of servers with one tool and then scanning with a second in order to exploit the potential success of the first. 
+I also wouldn't be surprised if some of these are tried because initial attacks work by spraying and praying masses of servers with one tool and then scanning with a second in order to exploit the potential success of the first.
 
-Naturally, my interpretation could be totally off the mark but it looks as though most people even semi-diligent VPS-owners have nothing to worry about from this type of attack… and surely nobody actually uses the password from Space Balls? 
+Naturally, my interpretation could be totally off the mark but it looks as though most people even semi-diligent VPS-owners have nothing to worry about from this type of attack… and surely nobody actually uses the password from Space Balls?
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/a6iW-8xPw3k?rel=0" frameborder="0" allowfullscreen></iframe>
 

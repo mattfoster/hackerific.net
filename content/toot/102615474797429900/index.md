@@ -16,4 +16,3 @@ Shame all the most user friendly and feature rich software is Windows only. I’
 
 
 ![](86727.jpg)
-

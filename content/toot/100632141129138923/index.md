@@ -9,4 +9,3 @@ I highly recommend signing up to Hot Iron magazine, at [http://www.walfords.net/
 ![](944.png)
 
 ![](945.png)
-

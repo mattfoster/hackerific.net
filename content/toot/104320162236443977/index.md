@@ -11,4 +11,3 @@ Here's Kin the golden retriever. About .9.5 weeks old and made of teeth....
 
 
 ![A pale golden retriever puppy chewing a bit of wood.](232147.jpeg)
-

@@ -7,4 +7,3 @@ Latest kit acquisition is a SMD Practice board. £1.72 from eBay and took about 
 
 
 ![](4549.jpeg)
-

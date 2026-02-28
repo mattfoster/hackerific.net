@@ -11,9 +11,9 @@ type: post
 
 Well, it's taken an embarrassingly long time to finish writing about it, but
 here's the final post on my [Exist](https://exist.io) plugin for
-[Slogger](https://github.com/ttscoff/Slogger). 
+[Slogger](https://github.com/ttscoff/Slogger).
 
-If you've not seen the other sections, you'll want to start by reading 
+If you've not seen the other sections, you'll want to start by reading
 [Part 1](https://hackerific.net/2016/05/29/writing-an-exist-importer-for-day-one---part-1-authentication/)
 and
 [Part
@@ -29,7 +29,7 @@ picking a name for it. I close `existlogger` for the filename, and
 `ExistLogger` for the class name.
 
 I then populated the `config` block in the class with the constants needed to
-authenticate with Exist. 
+authenticate with Exist.
 
 ```
 config = {
@@ -86,7 +86,7 @@ seems too, so that's cool.
 
 ![](/images/exist-log.png)
 
-Here's the current code: 
+Here's the current code:
 
 ```
 =begin
@@ -103,10 +103,10 @@ Notes:
   - Downloads your Exist data for today, and saves all attributes.
 =end
 
-config = { 
+config = {
   'description' => [
     'Exist.io Logger',
-    'https://exist.io' 
+    'https://exist.io'
   ],
   'redirect_uri'  => "https://hackerific.net/slogger/exist/",
   'client_id'     => 'd26998cab3eaa34d5aca',
@@ -170,7 +170,7 @@ END
   end
 
   def user_auth
-    # Start by asking the user to authorise the client. 
+    # Start by asking the user to authorise the client.
     print "Please copy the code from your web browser, and then paste it below:\n>>";
     %x{open "#{auth_url}"}
 
@@ -187,8 +187,8 @@ END
 
     # And exchange it for a token
     response = RestClient.post(
-      token_url, 
-      { 
+      token_url,
+      {
         'grant_type'    => 'authorization_code',
         'code'          => code,
         'client_id'     => @exist_config['client_id'],
@@ -234,4 +234,3 @@ If I tweak this in future, changes will be on
 So, there you have it, a slightly waffly drawn out journey through building a
 command line based script which can authenticate with oAuth 2, and then convert
 JSON data to Markdown. I hope you've enjoyed it!
-

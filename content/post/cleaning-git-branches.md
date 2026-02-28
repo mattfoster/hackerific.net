@@ -119,7 +119,7 @@ function get_branches {
 }
 
 function filter_by_date {
-  while read branch date zone; do 
+  while read branch date zone; do
     if [[ "$date" -le "$LIMIT" ]]; then
       echo $branch
     fi
@@ -142,7 +142,7 @@ function delete_branches {
   while read branch; do
     if [[ "$LIVE" -eq "1" ]]; then
       git push origin --delete $branch
-    else 
+    else
       echo git push origin --delete $branch
     fi
   done

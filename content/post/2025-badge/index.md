@@ -16,7 +16,7 @@ tags:
 
 I started making badges for a Christmas party a few years ago, and each year
 I've upped the complexity and cost, as my confidence in my own skills and my
-mates' construction skills grew. 
+mates' construction skills grew.
 
 My first badge was a simple multivibrator powering some LEDs, the
 [next](https://blog.hackerific.net/2024/12/17/christmas-badge-buildathon/) was
@@ -30,7 +30,7 @@ build and program. Here's the back story.
 
 One click quick disclaimer: I used Amp to help with the programming, so if that
 stuff annoys you, skip the section marked :robot::gun: (but don't, it's
-actually interesting)! 
+actually interesting)!
 
 ## Parts
 
@@ -38,15 +38,15 @@ I got pretty obsessed designing this badge in late summer, and back in August I
 started looking at displays. I knew these would be the core of the device but I
 wanted to keep the cost *relatively* low, so I scoured AliExpress until I found
 some reasonably priced round TFT LCDs ([GC9A01](https://www.aliexpress.com/item/1005008146886636.html
-)), for about £2. Plenty of Arduino projects used these, so they seemed like a good choice. 
+)), for about £2. Plenty of Arduino projects used these, so they seemed like a good choice.
 
 I ordered a bunch then started thinking about physical designs and looking
-through my boxes of parts and sketching ideas. 
+through my boxes of parts and sketching ideas.
 
 After a while I settled on something that looks a bit like a game controller,
 with switches towards the edges and knew I wanted to use cheap ESP32-C3
 modules, so bought a few from amazon. As you'll see later I didn't end up using
-these, but they were a good start. 
+these, but they were a good start.
 
 {{< figure src="macro-pad-sketch.png" alt="Macro pad sketch" caption="Original rough design sketch - such skill and beauty" >}}
 
@@ -54,7 +54,7 @@ When the displays arrived I was *eventually* able to get them working using
 the Arduino IDE and the bodmer [TFT_eSPI](https://github.com/Bodmer/TFT_eSPI)
 library, provided I pinned an old version of the esp32 board library. In
 retrospect using eTFT_SPI was a mistake, and I should really have used
-something else, but I didn't know this at the time. 
+something else, but I didn't know this at the time.
 
 It's really not easy for a relative beginner to pick the best Arduino
 libraries, and a lot of the time the best information on what's available is
@@ -72,11 +72,11 @@ and started looking for battery charge controller chips. Everything I could
 find was pretty expensive, but eventually I realised that Seeed Studio's XIAO
 ESP32-C3s have battery charging chips build-in, so I ordered a bunch of them to
 act as the brains of the badges. I paid about $28 for 6 by ordering direct
-during a sale (and later ordered more from the UK, for a bit more). 
+during a sale (and later ordered more from the UK, for a bit more).
 
 The XIAO devices have plenty of [great docs](https://wiki.seeedstudio.com/XIAO_ESP32C3_Getting_Started/
 ) and decent support, so they were a good choice. However, the battery pads are
-on the base of the device, meaning some SMD soldering would be needed! 
+on the base of the device, meaning some SMD soldering would be needed!
 
 {{< figure src="xiao-esp32c3-battery-pads.png" alt="XIAO ESP32-C3 battery pads" >}}
 
@@ -99,7 +99,7 @@ so I moved to schematic capture and then PCB design.
 I drew up my circuit idea into KiCad, using plenty of labels to reduce the
 number of interconnecting wires. I also left myself a bunch of notes in the
 schematic, including some extra unused circuitry for measuring battery voltage
-(omitted out because if complexity) and a couple of extra LEDs I didn't need. 
+(omitted out because if complexity) and a couple of extra LEDs I didn't need.
 
 {{< figure src="kicad-schematic.png" alt="KiCad schematic" >}}
 
@@ -124,7 +124,7 @@ I don't let that stop me, and you shouldn't either!
 
 After importing the footprints from my schematic I set about adding the board
 edges and laying things out. As with the schematic capture this is hard work
-and if you're new to it should should watch some tutorials. 
+and if you're new to it should should watch some tutorials.
 
 I found lining everything up pretty painful, but it turned out really well. I
 remembered to enlarge a lot of the pads on the board to make soldering them
@@ -142,15 +142,15 @@ The physical design of the battery connections is something I really wasn't
 happy with. I added a hole through the board to allow some surface mounted
 wires through, and then some pads to connect those to the front, but I put the
 associated labels on the back of the board (doh!). Construction of this part
-was hard work. 
+was hard work.
 
 Ordering PCBs is pretty simple, KiCad has third-party packages which will
 automatically export a zip ready to upload to manufacturers, and I used JLCPCB
 for this. You can also find articles about the design rules each manufacturer
 requires you to follow (things like hole sizes, tolerances, silk screen
-resolution, etc.), and plug these into KiCad. 
+resolution, etc.), and plug these into KiCad.
 
-The final boards look great, and I got some in red and some in white. 
+The final boards look great, and I got some in red and some in white.
 
 {{< figure src="pcb-design-kicad.png" alt="PCB design in KiCad" >}}
 
@@ -171,20 +171,20 @@ The main features I wanted this badge to have were:
 I also toyed with the idea of having proper BLE services, and maybe having the
 board work as a macropad, but ultimately I knew these things would be untouched
 after the day of our Christmas party so I didn't go too far (who am I kidding,
-I spent bloody ages on this! I just didn't go as far as I could have!). 
+I spent bloody ages on this! I just didn't go as far as I could have!).
 
 As I said earlier, I spent a good while messing with the screen, pinning
 library dependencies and getting charlieplexing working. I also spent a lot of
 time on graphics, to get the radar style display working properly. I did all
 this by hand (and brain) and with those bits working, I started looking at
-Bluetooth Low Energy. 
+Bluetooth Low Energy.
 
 BLE is something I know very little about, and I started by messing with
 [NimBLE](https://h2zero.github.io/NimBLE-Arduino/)
 examples but quickly got tripped up by trying to get the badge acting as both a
 client and server. I repeatedly saw crashes, regardless of what I tried, and it was at
 this point I dropped the intellectual challenge of trying to get this done
-purely by hand and fired up [Amp's](https://ampcode.com) CLI. 
+purely by hand and fired up [Amp's](https://ampcode.com) CLI.
 
 This helped enormously, as I was able to bounce ideas off the tool and have it
 do the bulk of the work. I would say that there was no point at which I didn't
@@ -199,12 +199,12 @@ libraries. However, I was able to solve these issues with an
 [AGENTS](https://github.com/mattfoster/wukkta25/blob/main/AGENTS.md) file (see
 [AGENTS.md](https://ampcode.com/manual#AGENTS.md), by
 listing common corrections and documentation URLs. I only scratched the surface
-with Amp, but found it really powerful, largely accurate and very fast. 
+with Amp, but found it really powerful, largely accurate and very fast.
 
 The end result was that I got what I wanted, by having it write most of the
 code and by removing the server code, and related functionality there. In an
 ideal world I'd have had the badges act as both clients and servers but even
-with Amp I wasn't able to get that going with the time I had. 
+with Amp I wasn't able to get that going with the time I had.
 
 ### Later hacks
 
@@ -223,7 +223,7 @@ LVGL, for another project, and this did a great job (when I pasted the error
 messages from Arduino IDE to amp). I'm pretty sure that with some basic poking
 about it could automatically attempt compilation directly, but I've not looked
 at that
-yet. 
+yet.
 
 ## Construction
 
@@ -231,7 +231,7 @@ Badge building is the point of the whole project, and I always try to write
 some decent instructions by thinking about the best order
 to build my projects, and this year I had the bright idea to put the URL to the
 instructions on the actual board. So you can find those at:
-https://wukk.me/badges/25/. 
+https://wukk.me/badges/25/.
 
 The actual construction was pretty straight-forward, but not that easy for the
 reasons I mentioned earlier.
@@ -246,11 +246,11 @@ reasons I mentioned earlier.
 ## Conclusions
 
 This was another super-fun project that my friends and I enjoyed making and
-playing with. 
+playing with.
 
 I've been using the board for some other simple projects at home and I really
 like the design and layout. The battery sits neatly behind the screen and the
-buttons feel great to click on. 
+buttons feel great to click on.
 
 The end of my previous post on badges works just as well today as it did last year:
 
@@ -275,4 +275,3 @@ this time, but totally worth it for all these fun features and re-flashability.
 | 7 Pin Socket (2.54mm pitch) | 2        | 10p         |
 | GC9A01 Display              | 1        | £2          |
 | 500 mAh lithium battery     | 1        | £5          |
-

@@ -11,4 +11,3 @@ I made a couple of footprint mistakes but didn't need any bodge wires! I spent a
 
 
 ![A small dark blue printed circuit board resting on an LCD display. The board has SMA connectors on the top left and right and three wires on the left. On the board are two almost identical circuits made of 0603 surface mount components and SOT 23 transistors. ](107090545874993436.png)
-

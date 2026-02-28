@@ -9,4 +9,3 @@ Really tempted to get a decent SDR at some point... also surgery on my only prop
 
 
 ![](5457.jpeg)
-

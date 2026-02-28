@@ -35,7 +35,7 @@ pretty.
 One of Exist's killer features is mood tracking. Rather than just consuming
 outside sources of data, its mood tracking is built-in, and done via its
 mobile apps which pop up a notification at 9pm asking you to rate your day.
-Ratings are out of 5, and you can optionally add a sentence as an overview. 
+Ratings are out of 5, and you can optionally add a sentence as an overview.
 
 While it doesn't sound like much, if I take a little time to think about my day,
 I usually find I'm much more likely to focus on all the good things that
@@ -51,7 +51,7 @@ what I use least. That's not really any fault of Exist's because the cool
 graphs are figures can be really interesting. For example, there's a graph of
 the average 'global mood', which clearly shows that people feel better during
 weekends, and there's an interesting page showing my averages by day (I walk
-furthest on Wednesdays on average, and tweet most on Fridays). 
+furthest on Wednesdays on average, and tweet most on Fridays).
 
 ![Exist global mood](https://files.hackerific.net/mood.png)
 
@@ -66,4 +66,3 @@ One item on my ever-growing todo list is writing a
 [Slogger](https://github.com/ttscoff/Slogger) plugin using the Exist API to
 pull my data into Day One automatically so this might be a topic I mention
 again in future.
-

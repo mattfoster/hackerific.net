@@ -16,4 +16,3 @@
     Name = "Categories"
     Title = "Show list of blog categories"
     URL = "/categories"
-

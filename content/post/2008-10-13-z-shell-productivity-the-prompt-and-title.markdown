@@ -23,7 +23,7 @@ default. Here's a screenshot of my new prompt and title:
 
 ![Minimalist Prompt](http://img.skitch.com/20081012-m21ferbnp6b9bmu5trga8abjsj.jpg)
 
-The top line shows the prompt when outside of a 
+The top line shows the prompt when outside of a
 [git](http://git.or.cz/ "Git - Fast Version Control System") repository and the bottom shows how it looks
 from within one. Normally, it shows the current directory on the left and the
 last command's exit status (a yellow `$` means a failure). When I'm inside a
@@ -37,7 +37,7 @@ My prompt is it github, with everything else:
   * [`prompt_git_setup`](http://github.com/mattfoster/zshkit/tree/63d38051352965db063f7495818bef5905cfa7a4/func/prompt_git_setup "func/prompt_git_setup at 63d38051352965db063f7495818bef5905cfa7a4 from mattfoster's zshkit &mdash; GitHub")
   * to use it, you need something like this: [`git-prompt`](http://github.com/mattfoster/zshkit/tree/63d38051352965db063f7495818bef5905cfa7a4/06_git "06_git at 63d38051352965db063f7495818bef5905cfa7a4 from mattfoster's zshkit &mdash; GitHub")
   * and something like this in your rc files:
-  
+
         autoload promptinit && promptinit && prompt git
- 
+
 It's probably easier to [fork your own zshkit](http://github.com/bkerley/zshkit/fork) and go from there.

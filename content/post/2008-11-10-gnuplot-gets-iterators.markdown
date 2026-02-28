@@ -8,7 +8,7 @@ title: Gnuplot gets iterators
 url: /2008/11/10/gnuplot-gets-iterators/
 ---
 
-Whilst looking at the [gnuplot website](http://www.gnuplot.info/ "gnuplot homepage"), I discovered the [demo page](http://gnuplot.sourceforge.net/demo_4.3/ "Demo scripts for gnuplot CVS version"), which shows, amongst other things, new features in the CVS version. 
+Whilst looking at the [gnuplot website](http://www.gnuplot.info/ "gnuplot homepage"), I discovered the [demo page](http://gnuplot.sourceforge.net/demo_4.3/ "Demo scripts for gnuplot CVS version"), which shows, amongst other things, new features in the CVS version.
 
 The main that caught my eye was the plot on the right, which shows a few overlaid sinusoids, with the code used to generate them as the key. Here's the code:
 

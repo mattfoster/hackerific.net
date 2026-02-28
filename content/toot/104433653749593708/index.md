@@ -15,4 +15,3 @@ which also lists the days a few cool things happened.
 
 
 ![A false colour image of the sun when interesting things were happening . There are coronal holes and loops visible on the surface. This is a screenshot of the NASA video mentioned in the toot](242840.png)
-

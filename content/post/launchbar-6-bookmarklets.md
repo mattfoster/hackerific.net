@@ -29,7 +29,7 @@ my own. This post covers my mini AppleScript adventure using Launchbar 6's cool
 
 I don't really use the bookmark functionality built into web browsers, instead
 opting to either just search the web for sites I need to revisit, or store them in
-[Pinboard](https://pinboard.in/u:mattfoster), an online bookmarking service. 
+[Pinboard](https://pinboard.in/u:mattfoster), an online bookmarking service.
 
 I also use [Launchbar](https://www.obdev.at/products/launchbar/index.html), a
 highly-extensible launcher and general purpose app for doing **things** on Macs.
@@ -50,7 +50,7 @@ the Pinboard [howto page](https://pinboard.in/howto/). i.e., this:
 ![Pinboard popup](/images/posts/pinboard_popup.png)
 
 So I set about trying to open the bookmarklet in Safari, using AppleScript.
-The first useful resource I found, was 
+The first useful resource I found, was
 [Die, bookmarks bar, die](http://www.robjwells.com/2013/11/die-bookmarks-bar-die/)
 which is a post about opening bookmarklets using older versions of Launchbar.
 In fact, the post talks about adding a folder of AppleScript files to
@@ -73,7 +73,7 @@ containing the URL of the page loaded in Safari's frontmost tab. Perfect.
 
 The next step was to work out how to do this with the Pinboard bookmarklet,
 using Launchbar. Luckily, LB6's [developer docs](https://developer.obdev.at/launchbar-developer-documentation/#/implementing-actions-applescript)
-are comprehensive and useful, so I quickly figured out I needed a `run` handler, 
+are comprehensive and useful, so I quickly figured out I needed a `run` handler,
 the example in the docs is:
 
 ```
@@ -101,9 +101,9 @@ end run
 ```
 
 Which worked from in Launchbar! So, my next step was to work out how to add
-support for Chrome too. 
+support for Chrome too.
 
-I found [an article](http://daringfireball.net/2009/01/applescripts_targetting_safari_or_webkit) 
+I found [an article](http://daringfireball.net/2009/01/applescripts_targetting_safari_or_webkit)
 on Daring Fireball, about generalising AppleScripts to work with both WebKit
 and Safari. The post was a bit dated, but still had some usable info which I
 was able to use in my script. Unfortunately, Chrome is no longer based on WebKit
@@ -139,9 +139,9 @@ on run
 		tell application "Google Chrome"
 			execute front window's active tab javascript bookmarklet
 		end tell
-		
+
 	end if
-	
+
 	return [{title:"Saved in " & _browser}]
 end run
 ```
@@ -149,7 +149,7 @@ end run
 This works by using either Safari or Chrome (or trying the default if neither
 is in focus). It notably won't do anything in Firefox or Opera though. So now,
 when I want to save a bookmark in Pinboard, if I'm in either Chrome or Safari,
-I can just start typing `Save Link`, and select it to save it. 
+I can just start typing `Save Link`, and select it to save it.
 
 As an aside, it also contains the interesting perl snippet:
 

@@ -7,4 +7,3 @@ Also this whole Flickr group of control panels! [https://www.flickr.com/groups/c
 
 
 ![](4761.png)
-

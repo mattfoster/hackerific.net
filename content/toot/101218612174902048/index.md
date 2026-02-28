@@ -19,4 +19,3 @@ I don't know when this magical feature appeared but it beats messing with dev ru
 ![/dev/serial/by-id showing some persistently named devices. ](14550.png)
 
 ![WSJT-X showing serial-by-id names in the Radio settings](14551.png)
-

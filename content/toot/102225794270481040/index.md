@@ -21,4 +21,3 @@ Looking forward to it!
 Frank (G4YXS) holding a t shaped wooden antenna. The antenna is a dipole made of coax!
 
 Whoops, that last but was supposed to be the image description. Not sure what I did there.
-

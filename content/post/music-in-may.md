@@ -23,11 +23,11 @@ Hearts](https://geo.itunes.apple.com/gb/album/the-fall-of-hearts/id1092145426?at
 While Katatonia's last few albums were on the softer side, this album really
 shakes things up a bit. It's still relatively chilled, but with a hard and
 slightly foreboding edge. Even if you don't dog 'new' style Katatonia I'm sure
-you'll agree that the vocal and guitar harmonies are amazing. 
+you'll agree that the vocal and guitar harmonies are amazing.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/P_o_j6v3PGE" frameborder="0" allowfullscreen></iframe>
 
-Listen on: 
+Listen on:
 
 * <a href="https://geo.itunes.apple.com/gb/album/the-fall-of-hearts/id1092145426?at=1000ldrw&mt=1&app=music" style="display:inline-block;overflow:hidden;background:url(https://linkmaker.itunes.apple.com/images/badges/en-us/badge_music-sm.svg) no-repeat;width:80px;height:15px;"></a>
 * [CD from Amazon](http://amzn.to/1PAHXbh)
@@ -78,5 +78,5 @@ Listen on:
 
 ## The end
 
-This month I added Apple Music and Amazon affiliate links. Hopefully that won't offend anyone! 
+This month I added Apple Music and Amazon affiliate links. Hopefully that won't offend anyone!
 If anyone has any recommendations for new music I should listen to, let me know in the comments.

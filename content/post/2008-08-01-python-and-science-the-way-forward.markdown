@@ -23,16 +23,15 @@ and try not to embark on projects I don't have time for.
 
 To give some idea of what I need, here's an example of typical workflow, with
 MATLAB:
-  
+
   * Create or load up some image data. This gives me matrices out.
   * Do some processing, using image processing toolbox, including image morphology etc.
   * Extract boundaries, and convert them into some handy spline representation for manipulation.
   * Plot some image data with overlaid boundaries.
   * etc…
-  
-Whilst I realise that nothing here is particularly complex, it's fairly fast to do in MATLAB, and very slow to do in compiled languages. Things like [ruby-gsl](http://rb-gsl.rubyforge.org/ "Ruby/GSL") are starting to close the gap, in terms of scientific functionality for ruby, but there are still big gaps in other functionality. Gaps that seem to have been filled by [python](http://www.python.org/ "Python Programming Language -- Official Website"). 
+
+Whilst I realise that nothing here is particularly complex, it's fairly fast to do in MATLAB, and very slow to do in compiled languages. Things like [ruby-gsl](http://rb-gsl.rubyforge.org/ "Ruby/GSL") are starting to close the gap, in terms of scientific functionality for ruby, but there are still big gaps in other functionality. Gaps that seem to have been filled by [python](http://www.python.org/ "Python Programming Language -- Official Website").
 
 So maybe it's time for me to look at python, and [sage](http://www.sagemath.org/ "Sage: Open Source Mathematics Software"), which already has these things.
 
 I'll report back if anything happens!
-  

@@ -27,9 +27,9 @@ Like on all modern Linux systems, if a filesystem check fails you'll be dropped
 into a Maintenance Shell (or rather, prompted for the root password, and then
 given a shell). This shell is designed to let you do some diagnostics and in
 the case of filesystem problems the main thing you’re going to want to do is
-run `fsck`. 
+run `fsck`.
 
-On CentOS 7 systems, you’re dropped into something called 
+On CentOS 7 systems, you’re dropped into something called
 [rescue mode](https://access.redhat.com/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/System_Administrators_Guide/sec-Terminal_Menu_Editing_During_Boot.html),
 which is a systemd unit that does almost everything you want, except:
 

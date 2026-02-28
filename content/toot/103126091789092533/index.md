@@ -11,4 +11,3 @@ Lost a UV-5R in the snow but I hope someone else will pick it up and have some f
 ![Me! Scrambling up a rocky mountain with a snowy field of scree behind. ](122417.jpeg)
 
 ![Gylder Fawr and Bristly Ridge during sunrise. This is a fairly prominent rocky outcrop with snow and ice covering most of it.](122419.jpg)
-

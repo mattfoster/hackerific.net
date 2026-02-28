@@ -16,4 +16,3 @@ Crimp connectors are great once you get the hang of them!
 
 
 ![Two BNC plugs crimped onto coax cable, the ends are held by crocodile clips. ](52107.jpeg)
-

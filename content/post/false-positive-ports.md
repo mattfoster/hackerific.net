@@ -61,7 +61,7 @@ tcp        0      0 0.0.0.0:1883            0.0.0.0:*               LISTEN      
 tcp        0      0 0.0.0.0:993             0.0.0.0:*               LISTEN      1/init
 ```
 
-So I was pretty much convinced my server was fine. Naturally, I decided to dig a little deeper. 
+So I was pretty much convinced my server was fine. Naturally, I decided to dig a little deeper.
 
 # More scanning
 
@@ -122,13 +122,13 @@ Nmap done: 1 IP address (1 host up) scanned in 138.55 seconds
 ```
 
 I also cut down the number of open ports, but left a genuine port in the list
-for comparison. 
+for comparison.
 
 The `reason` argument adds an extra column to the results which can help you
 determine why nmap decided the port was open. So, interpreting the results, we
 can see that the legitimate port has a TTL of 53, and that the others have a
 TTL of 64. All were reported as being open because they responded with SYN-ACK
-(the second phase of the TPP three way handshake). 
+(the second phase of the TPP three way handshake).
 
 The difference in TTL strongly suggests that the strange responses come from a
 different host than my VPS. Adding `--packet-trace` gives a full debugging
@@ -271,6 +271,6 @@ I hope you've found this quick journey though nmap results interesting, and
 didn't find the ending a let down!  Hopefully this illustrates some of the ways
 you can use nmap's output to help you do some network detective work.
 
-I use nmap at quite a lot and I've found the [Nmap Network Scanning](http://a-fwd.com/asin=0979958717) 
+I use nmap at quite a lot and I've found the [Nmap Network Scanning](http://a-fwd.com/asin=0979958717)
 guide indispensable, as well as being a decent read. I recommend giving it a
 read if you want to know more about how nmap and other scanning tools work.

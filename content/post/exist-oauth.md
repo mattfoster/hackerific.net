@@ -46,7 +46,7 @@ I decided to go with the more complex scheme, and use oAuth2, which I
 think will end up being more scalable and simpler to setup for people who end
 up using the plugin.
 
-So, my first step was to register an application at: 
+So, my first step was to register an application at:
 [https://exist.io/account/apps/](https://exist.io/account/apps/). Initially, I
 used a local callback URL, like `http://localhost:3333/callback`, but found two
 problems with that which led to me using a simple page on my main domain. The
@@ -85,7 +85,7 @@ auth_url      = "https://exist.io/oauth2/authorize?response_type=code&client_id=
 This command causes the user's web browser to open, and ask the user to authorise the app:
 I used `%x`, because I originally captured the output of the `open` command,
 but quickly realised it wasn't useful, so using `system` would have been
-cleaner. 
+cleaner.
 
 Incidentally, I really dislike using backticks in any kind of scripting
 language as I think they look too much like single quotes. Because of that, I
@@ -126,7 +126,7 @@ code = code ? code : 'No code in URL.';
 document.getElementById('code').innerHTML = code;
 ```
 
-*Note*: It's possible to automatically put things in user's clipboards using JS, in 
+*Note*: It's possible to automatically put things in user's clipboards using JS, in
 [most browsers](https://developer.mozilla.org/en-US/docs/Web/Events/copy), but
 I decided against doing that for now, to keep things as simple as possible.
 
@@ -158,7 +158,7 @@ response = RestClient.post(
     'redirect_uri'  => redirect_uri,
   }
 )
-``` 
+```
 
 It would have been fairly simple to use `Net::HTTP` instead, but since we'll be
 making other requests down the line I decided to use this library to simplify
@@ -198,7 +198,7 @@ just too much data.
 ## The final prototype
 
 Here's my final prototype script. It's not exactly pretty, but it does the job
-and it should be nice and easy to chop up and make into a plugin. 
+and it should be nice and easy to chop up and make into a plugin.
 
 Hopefully this post has demonstrated that you can use web based technologies
 like oAuth2 to get things done in CLI apps.
@@ -220,7 +220,7 @@ scope         = 'read'
 auth_url      = "https://exist.io/oauth2/authorize?response_type=code&client_id=#{client_id}&redirect_uri=#{redirect_uri}&scope=#{scope}"
 token_url     = "https://exist.io/oauth2/access_token"
 
-# Start by asking the user to authorise the client. 
+# Start by asking the user to authorise the client.
 print "Please copy the code from your web browser, and then paste it below:\n>>";
 %x{open "#{auth_url}"}
 
@@ -237,8 +237,8 @@ end
 
 # And exchange it for a token
 response = RestClient.post(
-  token_url, 
-  { 
+  token_url,
+  {
     'grant_type'    => 'authorization_code',
     'code'          => code,
     'client_id'     => client_id,

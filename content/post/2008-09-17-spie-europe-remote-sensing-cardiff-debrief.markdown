@@ -21,7 +21,7 @@ I made a quick pie chart to illustrate:
 
 <img src="http://img.skitch.com/20080917-1x2qkxpmbnitbc7kurpa2edypu.jpg" alt="skitched-20080917-163152.jpg"/>
 
-I'm pretty sure I'm in that teeny slice! He also gave a quick breakdown of the number of abstract submitted (63), along with how many oral presentations there were (31, minus a few who weren't there), and how many posters (11). 
+I'm pretty sure I'm in that teeny slice! He also gave a quick breakdown of the number of abstract submitted (63), along with how many oral presentations there were (31, minus a few who weren't there), and how many posters (11).
 
 I've put my slides online at [Slideshare](http://www.slideshare.net/mattpfoster/segmentation-and-tracking-of-ionospheric-storm-enhancements-presentation) so if you're so inclined you can have a look (no audio).
 

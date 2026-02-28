@@ -7,4 +7,3 @@ Yay Sprat! I have a nice stack of radio magazine now, perfect for when I start t
 
 
 ![](187636.jpeg)
-

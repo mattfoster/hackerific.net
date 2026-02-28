@@ -19,7 +19,7 @@ Now enter [qt_tools](http://www.omino.com/sw/qt_tools/ "qt_tools"). a pretty nif
 
 `qt_thing --type='imco'`
 
-If your system's anything like mine, the list will be pretty large (30 entries for me). As well as choosing image compression, you can pick your favourite audio compression (I see 16, try `qt_thing --type='scom'`), and finally the type of container to put it all in (I see 28 with `qt_thing --type='spit'`). Wrapping all of this usefulness together, I ended up with a command line like this: 
+If your system's anything like mine, the list will be pretty large (30 entries for me). As well as choosing image compression, you can pick your favourite audio compression (I see 16, try `qt_thing --type='scom'`), and finally the type of container to put it all in (I see 28 with `qt_thing --type='spit'`). Wrapping all of this usefulness together, I ended up with a command line like this:
 
 `qt_export --sequencerate=1 interesting_image_01.png --video=png,1 --audio=0 --replacefile interesting_movie.mov`
 

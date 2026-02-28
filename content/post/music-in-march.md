@@ -25,7 +25,7 @@ read on for the details, and feel free to feed me suggestions!
 
 This album is seriously awesome, when I first heard it I was surprised I'd not
 come across these guys previously, but then I discovered that they're pretty
-new, and their only past release is an [EP](https://itun.es/gb/pl4g9). 
+new, and their only past release is an [EP](https://itun.es/gb/pl4g9).
 The EP has an excellent cover of
 [Solitude](https://www.youtube.com/watch?v=e91SnsQS1O8), by Candlemass, so
 check it out!
@@ -36,9 +36,9 @@ Listen to Winter on [Apple Music](https://itun.es/gb/KWHQ_), and follow up with
 ### Magnetic Seasons - Mugstar
 
 I don't usually read [The Quietus](http://thequietus.com/), but it can be a
-great place to discover new music, and it's how I found Mugstar. 
+great place to discover new music, and it's how I found Mugstar.
 The Quietus' review is literally a track-by-track description, which is a
-little odd if you ask me, but you can [stream the album there](http://thequietus.com/articles/19797-listen-new-mugstar-album), 
+little odd if you ask me, but you can [stream the album there](http://thequietus.com/articles/19797-listen-new-mugstar-album),
 so it's worth a look.
 
 This is an excellent instrumental psychedlic rock album, with an old-school

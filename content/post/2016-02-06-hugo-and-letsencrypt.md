@@ -16,7 +16,7 @@ type: post
 This is a quick post on the static site generator Hugo, which I'm now using to
 power hackerific.net, with a little bit tacked on the end about how quick and
 easy it was to start using Let's Encrypt to get working SSL certificates for
-this site, for free! 
+this site, for free!
 
 These are both excellent projects, definitely work a look.
 
@@ -48,7 +48,7 @@ there almost certainly won't be a [debian](https://www.debian.org/) package, so
 I'll have to build it from source, or grab a binary.
 
 After the install, I moved onto site creation. To do
-this, I used the `import` tool you can find mentioned in the 
+this, I used the `import` tool you can find mentioned in the
 [Hugo docs](https://gohugo.io/commands/hugo_import_jekyll/). This was largely
 painless, with the exception of a few odd posts where it choked on some broken
 Markdown, and where I had improperly formatted dates by omitting leading zeros
@@ -57,15 +57,15 @@ is that its error messages can be a bit cryptic, but it's nothing google can't
 handle!
 
 By this time, I had an almost working site, and it was time to start
-configuring and styling things. 
+configuring and styling things.
 
 Hugo has a great [theme library](http://themes.gohugo.io/), but I couldn't find
-exactly what I wanted. In the end, I modified the [Hyde Y](http://themes.gohugo.io/hyde-y/) 
-theme, which is itself a fork of another theme, which is actually ported from Jekyll. 
+exactly what I wanted. In the end, I modified the [Hyde Y](http://themes.gohugo.io/hyde-y/)
+theme, which is itself a fork of another theme, which is actually ported from Jekyll.
 
 My tweaks returned some of the styling from the previous generation of my site,
 like the circuit board background, white, semi transparent backreound, and added another couple of extra
-[Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons to the top bar. 
+[Font Awesome](http://fortawesome.github.io/Font-Awesome/) icons to the top bar.
 Being lazy, I didn't properly fork the theme's repo, so you can find my modded
 version in with the rest of the [site's config and posts](https://github.com/mattfoster/hackerific.net).
 
@@ -87,9 +87,9 @@ Let's Encrypt has done such an excellent job with its tools that it's too
 simple to be worthwhile.
 
 I installed the [client](https://letsencrypt.org/howitworks/) and within about 10 minutes I had a working SSL
-configuration which scores A+ on the industry standard 
+configuration which scores A+ on the industry standard
 [SSL Labs](https://www.ssllabs.com/ssltest/analyze.html?d=hackerific.net&s=178.79.182.85&latest)
-test site. That's pretty amazing! 
+test site. That's pretty amazing!
 
 The only functionality currently missing is code for automatic renewals, which
 are necessary because Let's Encrypt

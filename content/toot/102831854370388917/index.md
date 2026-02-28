@@ -16,4 +16,3 @@ I also have a load of other random connectors, just nothing particularly common,
 
 
 ![RP-SMA plugs and sockets. In small polythene bags with cardboard top. ](101427.jpeg)
-

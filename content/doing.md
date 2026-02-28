@@ -93,14 +93,14 @@ I've either done or started.
 * Coretex Podcast (various episodes)
 * [The Omni Show](https://theomnishow.omnigroup.com/)
 
-### Watching 
+### Watching
 
 * Watched: [Building Secure Code in the Age of Vibe Coding: Steve Wilson Live with Tim O’Reilly, presented by Tim O'Reilly, Steve Wilson](https://learning.oreilly.com/live-events/building-secure-code-in-the-age-of-vibe-coding-steve-wilson-live-with-tim-oreilly/0642572189716/0642572189709/?utm_medium=email&utm_source=platform+b2c&utm_campaign=engagement&utm_content=lot+recording)
 * Watched: [Chelsea Troy Live with Tim O'Reilly](https://learning.oreilly.com/live-events/chelsea-troy-live-with-tim-oreilly/0642572203368/)
 
 ## April/May 2025
 
-### Fiction 
+### Fiction
 
 * Read: Titanium Noir by [Nick Harkaway][NH]
 * Read: Human Resources by [Adrian Tchaikovsky][AT]
@@ -108,7 +108,7 @@ I've either done or started.
 * Read: Beyond the Hallowed Sky by [Ken Macleod][KM]
 * Listened: What moves the dead by [T. Kingfisher][TK]
 * Listened: What Feeds in the Night by [T. Kingfisher][TK]
-* Listened: Edgar Allan Poe complete works 
+* Listened: Edgar Allan Poe complete works
 
 ### Non-fiction
 

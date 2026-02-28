@@ -9,10 +9,10 @@ url: /2012/01/28/Spectrum-Tools-and-Ubertooth-One/
 
 In the last year or so there's been a fair amount of coverage of the excellent
 [Ubertooth](http://ubertooth.sourceforge.net/ "Project Ubertooth - Home")
-project. 
+project.
 
 Ubertooth One is an open source 2.4 GHz experimentation device, designed for
-messing with <a href="/tags.html#bluetooth">bluetooth</a>, but with a lot of 
+messing with <a href="/tags.html#bluetooth">bluetooth</a>, but with a lot of
 flexibility which gives rise some other very cool features, like spectrum
 monitoring.
 
@@ -20,29 +20,29 @@ I installed the Kismet [Spectrum-Tools](http://www.kismetwireless.net/spectools/
 
 ## Building
 
-Spectrum-Tools is available via apt, but as is often the case, the available version is too old to have Ubertooth support. 
+Spectrum-Tools is available via apt, but as is often the case, the available version is too old to have Ubertooth support.
 
 So, first off, let's install a recent version of the Spectrum-Tools. Running
 
-    svn co https://www.kismetwireless.net/code/svn/tools/spectools 
+    svn co https://www.kismetwireless.net/code/svn/tools/spectools
 
-Will grab the latest version of the source code from Kismet's subversion repository. 
+Will grab the latest version of the source code from Kismet's subversion repository.
 Next, check the [README](https://www.kismetwireless.net/code/svn/tools/spectools/README), for information on dependencies, and install them. On BT5, I ran:
 
     apt-get install libgtk2.0-dev libusb-dev
-	
+
 On Debian-based systems you'll probably need to prefix that with `sudo`. You'll also need a working build environment, so run:
 
-    apt-get install build-essential 
-	
+    apt-get install build-essential
+
 To install a pretty useful meta-package containing most build tools you're likely to need.
 
 Now, `cd` into the `spectools` directory, then type go through the standard (ageless) build process, of:
 
     ./configure
     make
-    make install 
-   
+    make install
+
 To build and install the software. On my BT5 system, the final command installed the binaries into `/usr/local`, which seems to be where most of backtrack's special software ends up.
 
 ## Playing
@@ -67,7 +67,7 @@ If you're trying to decide on a channel to use for you wireless network, you'll 
 
 Right clicking on these two graphs lets you toggle a few options. If your
 Planar View, is looks too busy, for example, it can be useful to switch of the
-current values. 
+current values.
 
 The Planar View also supports markers, and can show channel masks.  Markers
 aren't very well documented (and so this took me a while to work out!). To

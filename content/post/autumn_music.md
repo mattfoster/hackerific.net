@@ -40,7 +40,7 @@ Listen on:
 
 OK, so I"m getting a bit more poncy here, but I always think there"s something
 deliciously understated about CBP releases, like Greaves is
-holding back a bit from the vocals -- on purpose of course -- and maybe he"s 
+holding back a bit from the vocals -- on purpose of course -- and maybe he"s
 secretly in a death metal band. Anyway, this is pretty standard Crippled Black
 Phoenix fayre, which means it"s full of interesting samples, and that amazing
 signature guitar sound. I love it!
@@ -67,8 +67,8 @@ Listen on:
 This is a bit of an experimental electro-acoustic masterpiece, which stands
 alone in its awesomeness but still reminds me of Godspeed and acts of that ilk.
 Full of rich drones and layered strings that anyone who likes things like [Dead
-Flag Blues](https://www.youtube.com/watch?v=XVekJTmtwqM) will love, but with 
-extra experimental insanity sprinkled throughout. 
+Flag Blues](https://www.youtube.com/watch?v=XVekJTmtwqM) will love, but with
+extra experimental insanity sprinkled throughout.
 I can"t find any videos of this, but check out
 http://cstrecords.com/jason-sharp,  where you"ll see that he"s from Montreal,
 home of a rather large amount of epic electro-acoustic goodness!
@@ -108,8 +108,8 @@ Then, listen on:
 ## Jinnwoo - Strangers Bring me No Light
 
 Here"s an amazing singer with an excellent acoustic sound, reminiscent of
-[Martin Grech](https://en.wikipedia.org/wiki/Martin_Grech#Discography), but 
-much more folky, and with an even more distinctive voice. 
+[Martin Grech](https://en.wikipedia.org/wiki/Martin_Grech#Discography), but
+much more folky, and with an even more distinctive voice.
 
 {{< youtube IAaaKJ8LYv4 >}}
 
@@ -122,8 +122,8 @@ Listen on:
 ## Khemis - Hunted
 
 To wrap up, here"s some pretty epic doom metal from Khemmis. This is a slow and
-sludgy beast of a record with some tremendous riffs, and generally clean vocals. 
-If you enjoy doom with a bit of an old school feel you need this in your ears. 
+sludgy beast of a record with some tremendous riffs, and generally clean vocals.
+If you enjoy doom with a bit of an old school feel you need this in your ears.
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="http://bandcamp.com/EmbeddedPlayer/album=4010644090/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://listen.20buckspin.com/album/hunted-2">Hunted by Khemmis</a></iframe>
 

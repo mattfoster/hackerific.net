@@ -21,7 +21,7 @@ but the [main website](https://unsigned.io/openmodem/) has some great content.
 The actual device is €89 from
 [unsigned.io](https://unsigned.io/product/openmodem/), where you can also pick
 up some other interesting gear, like the
-[Rnode](https://unsigned.io/projects/rnode/), a LoRa compatible TNC. 
+[Rnode](https://unsigned.io/projects/rnode/), a LoRa compatible TNC.
 
 Actually, reading about Rnode, that's actually more exciting that the modem!
 Definitely worth a look! (Schematics and docs on
@@ -56,4 +56,3 @@ There are some really cool events in here, like some massive solar storms, the
 transit of Venus and some big sunspots (remember those?!)
 
 {{< youtube l3QQQu7QLoM >}}
-

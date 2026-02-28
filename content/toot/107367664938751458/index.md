@@ -18,4 +18,3 @@ There are some odd design decisions (9V power and USB type B) but it's cool and 
 ![A constructed QDX board with connectors on the right and various components visible, including several inductors. ](107367630645818433.jpeg)
 
 ![A QDX circuit in an enclosure with the top panel off. There are connectors on the right and several visible components like coils and transistors. ](107367630722818259.jpeg)
-

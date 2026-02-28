@@ -14,7 +14,7 @@ I'm fairly sure that aesthetics play a large part in how people view your work
 *wrong* results. Aesthetics must play a fairly big role in how people perceive
 your work.
 
-I've just finished generating a lot of *quiver* plots for my thesis. A quiver plot is a graph of vectors, illustrating a flow field. My results typically show an image with motion vectors overlaid, all plotted with [Matlab](http://www.mathworks.com/ "The MathWorks - MATLAB and Simulink for Technical Computing"), a piece of software which is very heavily used in academia in the UK (and probably all over the world). 
+I've just finished generating a lot of *quiver* plots for my thesis. A quiver plot is a graph of vectors, illustrating a flow field. My results typically show an image with motion vectors overlaid, all plotted with [Matlab](http://www.mathworks.com/ "The MathWorks - MATLAB and Simulink for Technical Computing"), a piece of software which is very heavily used in academia in the UK (and probably all over the world).
 
 Matlab quiver plots are ugly, and all of my plotting got me wondering how other system's quiver plots look. In particular, I've started playing with numpy and scipy, so I decided to do a quick comparison between matlab, and [matplotlib](http://matplotlib.sourceforge.net/ "Overview &mdash; Matplotlib v0.98.3 documentation"), the python close of matlab's plotting tools. The results are very interesting.
 

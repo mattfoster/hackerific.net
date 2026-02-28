@@ -11,4 +11,3 @@ Still, it worked once I filed the connector down! Instructions etc. at: [https:/
 ![A credit card sized unpopulated PCB sitting on top of the left half of a split ergonoic keyboard.](105922507118054080.jpeg)
 
 ![A PCB the size of a credit card with small pushbutton switches and a USB cable on the top left. ](105922507339119001.jpeg)
-

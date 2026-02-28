@@ -18,8 +18,8 @@ Sometimes, after seeing a few things, concepts collide (like icebergs, perhaps),
 For those of you who prefer some code, say you have a big long ugly line of code. You know it's bad, but it works and you don't want to break it. Here's an example, very, very loosely based on some Matlab code I saw at work:
 
 <script src="http://gist.github.com/27893.js"></script>
- 
-The obvious thing to do, is pull out that evil range `-pi:0.1:pi`. With the new 'Introduce variable' command (bound to `⌃⇧C`, by default), you can do this be selecting any on of them, and running the command.  
+
+The obvious thing to do, is pull out that evil range `-pi:0.1:pi`. With the new 'Introduce variable' command (bound to `⌃⇧C`, by default), you can do this be selecting any on of them, and running the command.
 
 You'll see a dialogue box asking you for a name for you new variable, and after you press OK, you'll see the following:
 

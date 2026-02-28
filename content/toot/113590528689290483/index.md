@@ -20,4 +20,3 @@ I found [https://lora-aprs.live/](https://lora-aprs.live/) pretty useful while s
 ![A small rectangular circuit board with a display on the left an antenna attached vertically to the middle and a couple of visible modules on the right (a GPS and one marked LILYGO). The display reads M0PUH-7 and had a date, time and battery voltage, among other details.](113590528105660297.jpeg)
 
 ![A screenshot of a section of a map from aprs.fi. The map shows a short route along a canal, tracking M0PUH-7 on the 3rd December 2024.](113590528482364007.png)
-

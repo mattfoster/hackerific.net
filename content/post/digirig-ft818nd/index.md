@@ -11,11 +11,11 @@ tags:
 Back in January 2021, [KN4LIA](https://mastodon.radio/@KN4LIA) tooted about the
 [digirig](https://digirig.net/), a single-box data connection for ham radios,
 being developed by Denis KW0X. I was intrigued and decided to join the mailing
-list, then decided to buy one of the first batch when they became available. 
+list, then decided to buy one of the first batch when they became available.
 I made my order on the 29th March, and received it on the 7th April, which is
 not bad for post from the USA! I was eager to give it a go with my Yaesu
 FT-818ND, so as soon as I got time I made up some cables. Here's how I did that
-and my first impressions after using it with WSJT-X. 
+and my first impressions after using it with WSJT-X.
 
 The main attraction for me was replacing a chunky bundle of cables with one
 tiny box and three small cables! I've never really done any portable
@@ -51,7 +51,7 @@ Which won't change if the order of plugged-in USB devices differs so will be han
 
 Inside it looked like all the pics on the website:
 
-{{< figure src="digirig-guts.png" 
+{{< figure src="digirig-guts.png"
 alt="The circuit board from inside the digirig"
 caption="Inside the digirig"
 >}}
@@ -74,10 +74,10 @@ caption="FT-818ND cable pinouts. Check the manual for more detail."
 
 The highlights show how the TRS (tip, ring, sleeve aka headphone) plugs connect
 to the rig, as described on the [digirig
-site](https://digirig.net/digirig-mobile-rev-1-3-pinout/). 
+site](https://digirig.net/digirig-mobile-rev-1-3-pinout/).
 There are some better images on the [digirig
 site](https://digirig.net/yaesu-ft-8xx-cables-build/), which I found while I
-was still writing this post. 
+was still writing this post.
 
 To make my cables, I
 chopped a normal stereo audio cable in half, used a meter's continuity mode to work out
@@ -115,7 +115,7 @@ pi@raspberrypi:/dev $ ls /dev/serial/by-id/
 usb-Silicon_Labs_CP2102N_USB_to_UART_Bridge_Controller_48eb59d7ba57eb118418ff58fdb0f8d5-if00-port0
 ```
 
-The FT-818ND supports CAT controlled PTT (push to talk), so set that appropriately. 
+The FT-818ND supports CAT controlled PTT (push to talk), so set that appropriately.
 Incidentally, I hadn't noticed that was even a thing and had been using a
 dedicated serial to PTT box. Cool!
 
@@ -125,7 +125,7 @@ there in the drop down, and leave the other settings at their defaults. If you
 have problems you could lower this on the radio and in the setting menu.
 
 Finally, in the audio tab you'll want set both the Input and Output fields to
-`plughw:CARD=Device,DEV=0`, assuming you have no other external audio devices, 
+`plughw:CARD=Device,DEV=0`, assuming you have no other external audio devices,
 then set up your call sign and reporting settings as normal. With that, you should
 be done and you get get playing.
 
@@ -133,7 +133,7 @@ be done and you get get playing.
 
 Well, there's no a lot to say here. It works exactly as advertised. I've been
 playing with 2m FT8 and not had a lot of luck, but that's my fault, I keep
-missing everyone by not paying attention and my antenna is too low! 
+missing everyone by not paying attention and my antenna is too low!
 
 Overall, this is a great value and compact way to connect your rig and computer
 and I definitely prefer it to my previous setup.
@@ -141,14 +141,10 @@ and I definitely prefer it to my previous setup.
 I might add a USB isolator, like the [digirig
 store](https://digirig.net/product/usb-isolator/) sells, and I'll probably
 rebuild my serial cable with a nicer (less melted) connector but I have nothing
-bad to say about this. 
+bad to say about this.
 
 For rigs without CAT controlled PTT it would be cool to have an extra line
 available, but that's not an issue for the FT818.
 
 [^1]: A better alternative would be a clean configuration profile, but I had a
   clean install ready.
-
-
-
-

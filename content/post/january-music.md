@@ -19,7 +19,7 @@ pseudo-reviews I'll try to wrap up with a short rant about something related,
 and see how that goes. This month, I'll talk about why I think that artists
 need to stop moaning and get on streaming services!
 
-### Ulver - ATGCLVLSSCAP 
+### Ulver - ATGCLVLSSCAP
 
 Don't be put of by the stupid name, as this
 [album](http://houseofmythology.com/releases/view/ulver-atgclvlsscap) is
@@ -30,13 +30,13 @@ progressive, drone and electronic elements. I'm fairly sure that like
 favourite albums.
 
 Be sure to check out the [Dark Hemyspheres review](http://music.thedigitalfix.com/content/id/21465/dark-hemyspheres-january-2016.html),
-and then either grab it, or [stream it](https://itun.es/gb/jxo6_). 
+and then either grab it, or [stream it](https://itun.es/gb/jxo6_).
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9UkJWIfPp_4" frameborder="0" allowfullscreen></iframe>
 
 ### Steven Wilson - 4½
 
-In many people's eyes, prog god [Steven Wilson](http://stevenwilsonhq.com/) can do no wrong. 
+In many people's eyes, prog god [Steven Wilson](http://stevenwilsonhq.com/) can do no wrong.
 Well, I don't entirely agree with that (more below!) but this is a great, if
 somewhat short, album. It's a collection of unreleased tracks from around the
 time of his last couple of solo albums, and because of that it lacks a bit of
@@ -44,7 +44,7 @@ coherence in my opinion, but if you like his other work, you will love
 [this](http://stevenwilsonhq.com/sw/new-steven-wilson-album-4-%C2%BD-available-now/).
 
 Kscope hasn't done an amazing job of promoting this album, so I can't even link
-to an official lyric video, instead download 
+to an official lyric video, instead download
 [Kscope's newest sampler](http://noisetrade.com/kscopemusic/volume-7)
 from [noisetrade](http://noisetrade.com/).
 
@@ -55,8 +55,8 @@ in October 2015, so isn't new, but is still worth a mention as
 I don't think that Antimatter gets the attention it deserves and I only
 discovered it this month.  I really enjoy Mick Moss' vocals and the darkness
 that lingers behind the otherwise fairly chilled arty rock sounds, so I'd
-recommend checking out the few tracks you can 
-[stream online](https://itun.es/gb/0hGG9), and buying it if you like it, as 
+recommend checking out the few tracks you can
+[stream online](https://itun.es/gb/0hGG9), and buying it if you like it, as
 this is one of those strange artists whose work isn't all available to stream.
 
 ## The war on streaming
@@ -71,10 +71,9 @@ enjoyed in full (as Steven Wilson is on record as saying) -- it sucks for
 consumers who pay for streaming in order to get access to more of the music
 they love. Antimatter and Steven Wilson's albums would surely get more new
 listeners if they were available online, and surely more listeners can only be
-good in the long run. 
+good in the long run.
 
 It's my view that, like it or not, music streaming is going to be the standard
 way of listening, assuming it isn't already, and artists who "don't believe" in
 it are going to seriously lose out. Instead, I'd try to de-emphasise the role
 of jumbled up playlists, and encourage listeners to stick to whole albums.
-

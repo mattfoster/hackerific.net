@@ -7,4 +7,3 @@ Just caught some of the SpaceX/NASA Dragon docking webcast. Totally mind blowing
 
 
 ![A view of the Dragon capsule from the ISS. The capture is a round white object in top right, and a small indistinct second of the ISS in in the bottom left. The capsule has a bulge on top, which is the open nose cone, and several small apertures in a ring, which are part of the docking system.](30430.png)
-

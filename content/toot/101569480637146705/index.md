@@ -14,4 +14,3 @@ Managed to record some of the ISS’s warblings using my phone’s voice recorde
 ![A noisy and grainy image of some machinery and a dark panel. The bottom of the image has a date written on it, but it’s too noisy to read. ](25632.jpeg)
 
 When my pi is less busy I’ll try QSSTV, This decoded pretty fast so I must be missing part of it!
-

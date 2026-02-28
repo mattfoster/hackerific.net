@@ -17,11 +17,11 @@ has struck a chord with the TextMate wielding, IPython hacking community, I
 decided that now might be a good time to sum up a few of my ideas for the
 future.
 
-I've really been heartened by the response and enthusiasm of the IPython community, and of particular note is the work by Brain Granger. [Brian](https://launchpad.net/~ellisonbg) is currently working on a [Twisted](http://twistedmatrix.com/trac/ "Twisted") based editor server for TextMate (and other editors too), with a block based protocol for robust communications. You can find some initial work in [Launchpad](https://code.launchpad.net/~ellisonbg/ipython/textmate-server), and grab it using bazaar using: 
+I've really been heartened by the response and enthusiasm of the IPython community, and of particular note is the work by Brain Granger. [Brian](https://launchpad.net/~ellisonbg) is currently working on a [Twisted](http://twistedmatrix.com/trac/ "Twisted") based editor server for TextMate (and other editors too), with a block based protocol for robust communications. You can find some initial work in [Launchpad](https://code.launchpad.net/~ellisonbg/ipython/textmate-server), and grab it using bazaar using:
 
     lp:~ellisonbg/ipython/textmate-server
 
-Just be aware that this branch/link might not be around for long. 
+Just be aware that this branch/link might not be around for long.
 
 My top priority for the bundle with regards to this is the creation of a client library, probably also based on Twisted. It would be great to have this core library included in IPython, so it can be called on by other editors.
 

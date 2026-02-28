@@ -23,7 +23,7 @@ comprised of old guys chatting, and I hoped that showcasing some alternative
 things I've found interesting might encourage my friends and colleagues to be
 more interested.
 
-I've tagged the all images that aren't OC, and this work is licensed under 
+I've tagged the all images that aren't OC, and this work is licensed under
 [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 
 ---
@@ -36,7 +36,7 @@ code. I think this is a shame because there's much more to it than that, and I
 wanted to spend a while explaining why the hobby might be of interest to
 engineers, by talking about a few things I've found interesting, and giving you
 a bit of background. I'll also talk a bit about how to get a license, and what
-you can do with one. 
+you can do with one.
 
 ---
 
@@ -47,9 +47,9 @@ about thousand of things people spend countless hours on. There are literally
 lifetimes of content I could have included here.
 
 First off, to deal with the demographics - ham radio is absolutely mainly older
-men, and there are really two (or maybe three) main reasons for this. 
+men, and there are really two (or maybe three) main reasons for this.
 
---- 	
+---
 
 ![](slide-3.png)
 
@@ -66,7 +66,7 @@ before then - often people who worked in radio or broadcasting.
 
 Back when they were licensed being able to chat on a radio with your mates was
 unique, which is totally unlike now, where it sometimes feels like it's almost
-impossible to escape endless chats. 
+impossible to escape endless chats.
 
 I also saw a recent mastodon thread talking about how more women would get into
 radio if widows were encouraged to start using their husband's radio gear,
@@ -90,14 +90,14 @@ Image from icom website.
 So, the traditional view of a radio operator is an older man, sitting behind a
 desk of expensive gear with either a Morse code key or an expensive microphone.
 And this is probably fairly accurate in many cases, but it's really the tip of
-the iceberg. 
+the iceberg.
 
 As you might expect you can buy extremely expensive radios, antennas,
 amplifiers, power supplies and everything, and some people do just that. A lot
 of people are happy to use off the shelf "appliances" and spend money at what
 they enjoy without doing anything else, but in my experience this represents a
 minority of people, and actually the hobby is really broad, and a lot of us
-don't operate like that at all because there's so much other stuff to do. 
+don't operate like that at all because there's so much other stuff to do.
 
 ---
 
@@ -111,10 +111,10 @@ will see and a lot of people are using relatively good kit that's super cheap.
 So, before I start talking about other things, I will say that if you are
 interested in talking with mainly local friends, a Foundation license will get
 you the ability to use a radio like this, which will have a fairly limited
-range, but you can use on local repeaters to improve coverage. 
+range, but you can use on local repeaters to improve coverage.
 
 In fact, for most people these days a foundation license is probably really all
-you need. 
+you need.
 
 ---
 
@@ -133,17 +133,17 @@ It also lets you communicate with satellites, and gear on spacecraft like the
 ISS. Other people bounce signals off the moon, meteor trails, rain, aircraft,
 the structure of the troposphere, and of course the ionosphere, which people
 are finding very exciting currently because of where we are in the sun's 11-ish
-year cycle. 
+year cycle.
 
 The license allows you to build equipment to operate on these band, experiment
 pretty widely, and communicate. And there's a license to make sure you know
 what you're doing, primarily so that you don't interfere with other spectrum
 users (which is everyone and everything at this point). It also gives you a
 callsign which you can use to identify yourself, and which contains a bit of
-info on your location and license type. 
+info on your location and license type.
 
 So, as you can hopefully see, you don't just have to buy a radio and chat with
-other people and there's a lot of interesting things to mess with. 
+other people and there's a lot of interesting things to mess with.
 
 ---
 
@@ -151,7 +151,7 @@ other people and there's a lot of interesting things to mess with.
 
 My callsign is M0PUH. The M means I'm in England, or more strictly now in the
 UK. MW would be Wales, MM Scotland, and there are a few others. Other countries
-have different letters, like F for France, EA for Spain, etc. 
+have different letters, like F for France, EA for Spain, etc.
 
 0 means I have a full license, I start with 6 for foundation, then at
 intermediate you currently get the weird 2E0 prefix for England. As you might
@@ -174,11 +174,11 @@ build progressively to give you a decent understanding of what's required to
 build and operate radio gear safely and legally. This includes things like some
 electronics, how radios work and are designed, antennas, how to use test gear,
 and so on. Recent changes to licensing in the UK mean that for most people who
-want to mess about, just having a foundation license is probably enough. 
+want to mess about, just having a foundation license is probably enough.
 
 Often, people who just want to chat find it annoying that you have to learn so
 much more than that, but a lot of people find it super interesting, because it
-means you can build things. 
+means you can build things.
 
 ---
 
@@ -187,13 +187,13 @@ means you can build things.
 One thing that a lot of people do is build some or part of a system they can
 use to transmit. For example, I got hold of an old radio from my Dad, then
 built an antenna system in my garden by attaching a scaffolding pole to my
-house and hanging a huge wire as high as I could get it. 
+house and hanging a huge wire as high as I could get it.
 
 Then I used an antenna tuner I bought from a radio rally (basically a car boot
-sale) to connect the radio to the antenna system. 
+sale) to connect the radio to the antenna system.
 
 And then I got quite obsessed a data mode called FT8 which I talk about in a
-bit. 
+bit.
 
 ---
 
@@ -201,12 +201,12 @@ bit.
 
 Other things people make include literally thousands of kits you can buy and
 build yourself, ranging from full radios, through to giant power amplifiers and
-dishes. 
+dishes.
 
 This is an amplifier from QRP labs, which is a shop run by a radio amateur that
 makes loads of fun kits, including super light weight trackers you could put in
 a balloon, and full radio systems you can build yourself and use to transmit
-and receive signals from across the world. 
+and receive signals from across the world.
 
 ---
 
@@ -221,7 +221,7 @@ own designs.
 Essentially, you split things down into blocks (amplifiers, filters, mixers,
 audio, mixers, etc), work out what each block needs to do, and then tackle them
 one at a time. Some of the pics on this slide are my attempts at tackling
-blocks. 
+blocks.
 
 ---
 
@@ -230,7 +230,7 @@ blocks.
 Buildathons can be a fun way to meet people, here's one I went to run by a
 national club. In these events, everyone builds the same kit, which is
 generally supplied and designed by the organised, and then gets to test it and
-get help. 
+get help.
 
 The image here is the G-QRP club buildathon, showing my dad. I'll admit I was
 the youngest person there but it was good fun.
@@ -243,20 +243,20 @@ Raspberry Pi hats have made building complex gear way easier, by giving access
 to decent hardware as well as allowing people to build useful UIs. I've built a
 few different hats over the last few years, ranging from test gear (like a
 device called a Wobbulator) to things like this, which is a modem called a TNCPi,
-for use with packet radio modes like APRS (more on that in a bit). 
+for use with packet radio modes like APRS (more on that in a bit).
 
 ---
 
 ![](slide-14.png)
 
 Of course, things have to move past the build stage at some point, and you
-should probably use what you've built or bought. 
+should probably use what you've built or bought.
 
 Options for doing this without actually speaking are pretty numerous, thanks to
-_data modes_. 
+_data modes_.
 
 The screenshot shows a program called WSJT-X, which was up and coming when I
-got my license in 2017 but quickly became one of the most used data modes. 
+got my license in 2017 but quickly became one of the most used data modes.
 
 This is a modern digital communication mode which lets you easily transmit low
 power signals which can be received around the world. It was designed by Joe
@@ -265,7 +265,7 @@ recently.
 
 It sounds pretty weird, but with this mode you don't really talk, so much as
 make semi automated contacts. It actually takes a bit of skill to do it
-successfully. 
+successfully.
 
 ---
 
@@ -275,16 +275,16 @@ There are literally hundreds of data modes, including some which have been
 around since the 1920s (RTTY) and others which are still being developed now.
 Moderns modes tend to require less power, as they use modern encoding
 techniques (like FT-8) and there's a lot of decent software you can use to play
-with them. 
+with them.
 
 But as well as digital data modes there are also analog modes, like SSTV (slow
-scan TV) - here's an image I received a few years back. 
+scan TV) - here's an image I received a few years back.
 
 As well as analogue images, like this, people do experiment with digital TV,
 including terrestrially, and with drones and satellites. In fact there's a
 Qatari geostationary satellite called ES'HAIL which has an amateur payload
 people can use for a load of different things, and I've seen a few talks on
-people modifying satellite TV gear for transmitting and receiving using this. 
+people modifying satellite TV gear for transmitting and receiving using this.
 
 If you like the idea of TV, check out BATC, and if you think satellites sound
 fun, look at AMSAT.
@@ -306,10 +306,10 @@ get whole of an entire class A block of IP addresses - 44. 44net makes chunks
 of addresses available to licensed amateurs all over the world and you can use
 it for basically anything. A few years ago, ARDC, who runs 44net sold a block
 of 44net and now use it to provide grants for interesting tech and radio
-projects. 
+projects.
 
 Ham radio workbench 229 has a great intro to this, and the modern ham has some
-great posts on this. 
+great posts on this.
 
 ---
 
@@ -317,34 +317,34 @@ great posts on this.
 
 These days, when people talk about packet radio they almost always mean APRS.
 APRS is widely used for telemetry, and supported by a load of radios, phone
-apps and projects. 
+apps and projects.
 
 This system works by people running receivers called iGates which listen on a
 specific frequency for APRS packets and then send them to the net, or
-rebroadcast them to other receivers. 
+rebroadcast them to other receivers.
 
 The transmitters are either built into radios, small trackers you can buy or
 build, or things that connect to a phone using an audio cable or bluetooth and
-then use a cheap walkie talkie to transmit. 
+then use a cheap walkie talkie to transmit.
 
 ---
 
 ![](slide-18.png)
 
 As well as APRS, people are using more modern communications schemes and
-hardware to build networks and systems. 
+hardware to build networks and systems.
 
 One popular example at the moment is meshtastic. This uses LoRa hardware (which
 is cheap and you don't need a license for) to build a mesh network which you
-can then use for off grid comms (text messaging etc). 
+can then use for off grid comms (text messaging etc).
 
 The left image here shows a tracker which transmits in the hand band and uses
-APRS over LoRa. 
+APRS over LoRa.
 
 There are also some attempts to reinvent things like APRS using more modern
 tools. One project, cats.radio has firmware written in rust, and uses cheap
 Chinese radio modules. The image on the right shows a Pi had for CATS, next my
-list is building a tracker board, but I've not had time to get to that yet. 
+list is building a tracker board, but I've not had time to get to that yet.
 
 Other similar projects include NPR (new packet radio) which bridges and
 ethernet interface over a radio link.
@@ -356,7 +356,7 @@ ethernet interface over a radio link.
 Note: this is as far as I got in 30 mins. Also note this image is from LAB401.
 
 Software defined radios started transforming how people build radio almost 20
-years ago, by removing the need for a lot of single purpose hardware. 
+years ago, by removing the need for a lot of single purpose hardware.
 
 I expect some people here have used cheap RTL SDR dongles for some things like
 receiving aircraft transponders, and there are hundreds of web SDRs online
@@ -366,7 +366,7 @@ to numbers stations.
 As well as that you can buy tools like the HackRF which let you transmit as
 well as receive, and give you full control over the software. GNU Radio is one
 project that gets heavy use in this space, as it lets you build full radio
-systems in software, but there are also loads of desktop listening apps. 
+systems in software, but there are also loads of desktop listening apps.
 
 ---
 
@@ -386,7 +386,7 @@ I booked and passed the exam in the first half of December and enrolled
 immediately onto a distance learning intermediate course which had already
 started. I also found this pretty straight forward and interesting, and the
 intermediate exam in mid January (this also had a practical element at the
-time, which I think disappeared in the pandemic - most exams are now remote). 
+time, which I think disappeared in the pandemic - most exams are now remote).
 
 Finally, I joined an "advanced" classroom course in Bath to study for a full
 license (it was a couple of hours a week, plus homework), this ran until June,
@@ -396,7 +396,7 @@ interesting, and the instructors were amazing.
 I found the process really fun fun and learned a lot about practical electronics
 (despite having an electronics degree!) and radios. You can probably tell I
 don't really do voice comms, but hopefully I've shown that there's masses of
-other things you can do as well. 
+other things you can do as well.
 
 As I said, I haven't even touched on so many things here, like radio astronomy,
 science, clubs, etc. It would have been great to go into more detail on so many
@@ -419,7 +419,3 @@ things but hopefully this has been interesting!
 * [Meshtastic](https://meshtastic.org/)
 * [Termination insensitive amplifier](https://w7zoi.net/bidirectional_matched_amplifier.pdf)
 * [TNCPi](https://www.tnc-x.com/TNCPi.htm)
-
-
-
-

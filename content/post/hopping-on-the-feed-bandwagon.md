@@ -11,13 +11,13 @@ title: Hopping on the JSON Feed bandwagon
 type: post
 ---
 
-Anyone who's tried to use RSS knows just how fiddly it is, and these days JSON is the _de facto_ format 
+Anyone who's tried to use RSS knows just how fiddly it is, and these days JSON is the _de facto_ format
 for most things on the web.
 So -- like a lot of people -- I read the announcement of
 [JSON Feed](https://jsonfeed.org/) with great interest and decided to add a
 new feed to my site.
 
-Like all good lazy engineers the first thing I did was search the web and find some decent resources, including 
+Like all good lazy engineers the first thing I did was search the web and find some decent resources, including
 a couple of blogs belonging to people who have already beaten me to it.
 
 * [Ascraeus - JSON Feed](https://ascraeus.org/jsonfeedarticle/)
@@ -52,4 +52,3 @@ everything, and my final action was to subscribe to my new feed in
 If you use a reader with JSON Feed support, feel free to subscribe using
 [https://hackerific.net/index.json](https://hackerific.net/index.json) but not
 that I might tweak things.
-

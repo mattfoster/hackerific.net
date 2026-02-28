@@ -10,8 +10,8 @@ them all!
 
 ## Completed
 
-* `badges`: I made PCB badges for a Christmas party in [2023 and 2024](https://hackerific.net/2024/12/17/christmas-badge-buildathon/) and [2025](https://hackerific.net/2025/12/29/2025-electronic-badge/). 
-* `pcb-toaster`: I added a PID controller to a toaster oven to let me [bake PCBs](https://hackerific.net/2021/11/13/pcb-toaster/). 
+* `badges`: I made PCB badges for a Christmas party in [2023 and 2024](https://hackerific.net/2024/12/17/christmas-badge-buildathon/) and [2025](https://hackerific.net/2025/12/29/2025-electronic-badge/).
+* `pcb-toaster`: I added a PID controller to a toaster oven to let me [bake PCBs](https://hackerific.net/2021/11/13/pcb-toaster/).
 * `digirig`: I bought a [digirig](https://digirig.net/category/hardware/), in March 2021.
   This is a combined audio and USB-serial interface for controlling ham radios.
   I built cables for use with my FT818ND and it works.
@@ -26,7 +26,7 @@ them all!
   I'm so bad at putting things in boxes!
 * `diode modulator`: I made a DIY diode modulator to experiment with. It was
   interesting to see the signals magically do what they were supposed to and to
-  learn how it works (hint: get the ARRL handbook). 
+  learn how it works (hint: get the ARRL handbook).
 * `mechanical keyboards`: I've made a few mechanical keyboards, including two
   GH-60 Satan boards, some gherkins and a gherkin express.
 * `PowerPole PDUs`: I made some Anderson PowerPole PDUs for my gear, using kits
@@ -53,14 +53,14 @@ them all!
   a few years ago. It was fun and works!
 * `oscillator`: I made a basic [Colpitts
   oscillator](https://en.wikipedia.org/wiki/Colpitts_oscillator) for my
-  intermediate amateur radio practical. 
+  intermediate amateur radio practical.
 
 ## Pending
 
-* `felinet boards`: I ordered some boards and parts to build [felinet](https://cats.radio) hardware. I've made a pi hat. 
+* `felinet boards`: I ordered some boards and parts to build [felinet](https://cats.radio) hardware. I've made a pi hat.
 * `open-sleeve`: I've started building an Open Sleeve dipole for the 10m and 6m
   bands, as detailed in RadCom April 2021. I've bought some metal poles, nylon
-  base and saddle clips, but I'm still awaiting part of the metal I need. 
+  base and saddle clips, but I'm still awaiting part of the metal I need.
 * `tnc-pi`: I bought a [TNC-pi](http://tnc-x.com/TNCPi.htm) ages ago. The kit
   is built and seems to work but I've not attached it to a radio. That sounds
-  like it should be easy but I fought with a baofeng for ages before giving up! 
+  like it should be easy but I fought with a baofeng for ages before giving up!

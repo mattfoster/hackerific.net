@@ -11,7 +11,7 @@ url: /2008/06/25/matlab/
 
 During the course of my PhD, and undergraduate degree, I've amassed quite a lot of MATLAB code, and knowledge.
 
-This page will be the where I try to share some of that knowledge and code. 
+This page will be the where I try to share some of that knowledge and code.
 
 ## Documents:
 
@@ -24,7 +24,7 @@ This page will be the where I try to share some of that knowledge and code.
 
 ## Code on the [Mathworks File Exchange](http://www.mathworks.com/matlabcentral/fileexchange/ "The MathWorks - MATLAB Central - File Exchange"):
 
-  * [`histoutline`](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=14702&objectType=FILE): Plot a histogram outline. 
+  * [`histoutline`](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=14702&objectType=FILE): Plot a histogram outline.
   * [`secplot`](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=14174&objectType=FILE): Plot given theta and phi values as a series of wedges of equal width.
   * [`plot_colorbar`](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=19591&objectType=FILE): Plot a colorbar as a figure for publication.
   * [`last_modified`](http://www.mathworks.com/matlabcentral/fileexchange/loadFile.do?objectId=14206&objectType=FILE): Return the last modified file(s) in a given directory or glob.

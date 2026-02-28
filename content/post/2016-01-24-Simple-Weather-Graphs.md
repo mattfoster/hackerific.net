@@ -10,7 +10,7 @@ title: Simple Weather Graphs
 
 In the beginning of 2013 I bought myself a Maplin USB Weather Station. Like
 lots of things in Maplin, it's produced by an OEM and then rebranded, and in
-this case the unit is a [Fine Offset WH1081](http://www.foshk.com/weather_professional/wh1081.htm), 
+this case the unit is a [Fine Offset WH1081](http://www.foshk.com/weather_professional/wh1081.htm),
 it consists of a pole which is stuck in the garden, and a 'touch screen' display and wireless reader.
 
 My original plan was to work out how to sniff the wireless signals from the
@@ -38,11 +38,11 @@ I have pywws on a raspberry pi model B, and the USB cable from the weather
 station plugged into it.
 
 On the Pi, I keep `pywws-livelog -vvv /home/pi/weather/data` running. This
-grabs weather data and stores it in `~pi/weather/data`. 
+grabs weather data and stores it in `~pi/weather/data`.
 
 I use a cron job and SSH with a passwordless key (yes, I'm bad, and you can
 configure pywws to do these things for you), to copy the
-contents of this directory to my web server every few minutes, and I end up with lots of 
+contents of this directory to my web server every few minutes, and I end up with lots of
 [files](https://graphs.hackerific.net/weather/data/raw/2016/2016-01/2016-01-19.txt) that look like this:
 
         2016-01-19 00:02:01,5,63,12.9,83,-1.3,1007.3,0.0,0.0,4,794.1,0
@@ -54,7 +54,7 @@ contents of this directory to my web server every few minutes, and I end up with
         2016-01-19 00:32:01,5,63,12.7,82,-1.9,1007.4,0.0,0.0,2,794.1,0
         2016-01-19 00:37:01,5,63,12.7,78,-2.1,1007.3,0.0,0.0,2,794.1,0
 
-This format of these files is described in the [online documentation](http://pythonhosted.org/pywws/en/html/api/pywws.DataStore.html#module-pywws.DataStore), 
+This format of these files is described in the [online documentation](http://pythonhosted.org/pywws/en/html/api/pywws.DataStore.html#module-pywws.DataStore),
 but includes various useful things like:
 
 * The time stamp,
@@ -74,19 +74,19 @@ I opted to start with displaying only temperature data, because I'm lazy, and
 decided to use [d3](http://d3js.org/) because it's flexible and fun, despite
 a steep learning curve.
 
-The guts of my graphs live in two files: [weather.js](https://graphs.hackerific.net/weather.js) 
-and [timeseries_line](https://graphs.hackerific.net/timeseries_line.js). 
+The guts of my graphs live in two files: [weather.js](https://graphs.hackerific.net/weather.js)
+and [timeseries_line](https://graphs.hackerific.net/timeseries_line.js).
 
 ### weather.js
 
-This file defines graph sizes, [custom time formats](https://github.com/mbostock/d3/wiki/Time-Formatting#format_multi) 
+This file defines graph sizes, [custom time formats](https://github.com/mbostock/d3/wiki/Time-Formatting#format_multi)
 for x-axis labels and grabs the text files I mentioned above using AJAX
 requests. It grabs several days worth of data and parses them into a
-format d3 can use. 
+format d3 can use.
 
 ## timeseries_line.js
 
-This file does the drawing. Based on [this post](http://bost.ocks.org/mike/chart/) 
+This file does the drawing. Based on [this post](http://bost.ocks.org/mike/chart/)
 I tried to abstract most of the settings out of the file and make it reusable, but didn't really succeed (or
 spend long enough trying).  When I add pressure and humidity graphs I'll probably update this.
 

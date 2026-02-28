@@ -15,4 +15,3 @@ I wrote about it here: [https://hackerific.net/2021/11/13/pcb-toaster/](https://
 
 
 ![A modified toaster oven. There's a controller on the right where the dials would be. It has two temperature readouts. Inside is a small PCB. There's a metal wire going through the door. ](107271369173673628.jpeg)
-

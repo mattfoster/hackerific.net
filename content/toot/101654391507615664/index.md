@@ -13,4 +13,3 @@ Actually I’m pretty happy with that list of stuff!🤔
 ![A cheap eBay crystal analyser. This is a small PCB with a row of five seven-segment displays, a PIC chip and a few other components.](29233.jpg)
 
 ![This shows a cable winder with some green antenna wire, some black feeder (a thin coax) and a small capsule of plastic pipe. The pipe contains a small tuned circuit. ](29234.jpg)
-

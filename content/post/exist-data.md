@@ -13,7 +13,7 @@ type: post
 
 In my [last post](https://hackerific.net/2016/05/29/writing-an-exist-importer-for-day-one---part-1-authentication/)
 I worked out how to grab data from [Exist](https://exist.io), using oAuth 2. In
-this post, I'll take the data from the Exist API, convert it into markdown, ready for 
+this post, I'll take the data from the Exist API, convert it into markdown, ready for
 integrating into a Slogger plugin. Unfortunately, due to me running out of time
 contracting the plugin will have to wait until part three!
 
@@ -30,7 +30,7 @@ interested in as markdown.
 ## Grabbing data
 
 To start with, I downloaded and saved a copy of the JSON data so I won't need
-to pound the API while playing. 
+to pound the API while playing.
 
 Basically, in place of the HTTP request with the `Bearer` token, I can just use
 `File.open(filename, 'r').read` when
@@ -40,12 +40,12 @@ testing.
 
 Next, to keep dependencies to a minimum, I decided to use
 [ERB](http://ruby-doc.org/stdlib-2.3.0/libdoc/erb/rdoc/ERB.html), which is part
-of the standard library. 
+of the standard library.
 
 Template libraries are on of my all time favourite things in software. They're
 so awesomely useful! My favourite is probably [Template
 Toolkit](http://template-toolkit.org/), but ERB is extremely powerful, and will
-suit us fine for this project. To help keep everything small, I'm going to store the 
+suit us fine for this project. To help keep everything small, I'm going to store the
 template in the same file as the source, and use the `DATA` object to read it.
 
 In ruby `DATA` is an instance of the `File` class, with the `lineno` parameter
@@ -69,8 +69,8 @@ discovered that `JSON.parse` can take a [default
 class](http://ruby-doc.org/stdlib-2.0.0/libdoc/json/rdoc/JSON.html#method-i-parse)
 for the objects it creates. To keep things nice and easy to access within the
 template, I'm going to use
-[OpenStruct](http://ruby-doc.org/stdlib-2.3.0/libdoc/ostruct/rdoc/OpenStruct.html), 
-and using that option I can parse the JSON data directly into one. 
+[OpenStruct](http://ruby-doc.org/stdlib-2.3.0/libdoc/ostruct/rdoc/OpenStruct.html),
+and using that option I can parse the JSON data directly into one.
 
 ```
 today = File.open(filename, 'r').read

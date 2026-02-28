@@ -137,12 +137,3 @@ Congratulations! You're done!
 ![](/images/posts/patch-lead.jpg)
 
 ## Other plug types
-
-
-
-
-
-
-
-
-

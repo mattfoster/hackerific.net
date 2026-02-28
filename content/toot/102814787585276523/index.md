@@ -15,4 +15,3 @@ Definitely worth joining the G-QRP club if you aren’t already a member.
 
 
 ![](100132.jpg)
-

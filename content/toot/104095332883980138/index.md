@@ -7,4 +7,3 @@ Just setting up my newest Pi! These things feel so fast, I’m hoping I can get 
 
 
 ![A monitor showing WSJT-X and a glowing mechanical keyboard underneath. ](210542.jpg)
-

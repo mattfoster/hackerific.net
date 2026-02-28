@@ -15,22 +15,22 @@ displays -- the small number of IO lines required by I2C makes it an excellent
 bus for embedded stuff, and I love things with blue LEDs so backing the project
 was a no-brainer :)
 
-The boards just arrived, so I decided to have a play by wiring one up to an Arduino and giving it a poke. 
+The boards just arrived, so I decided to have a play by wiring one up to an Arduino and giving it a poke.
 
-First, I grabbed the code samples from the [Sabernetic site](http://sabernetics.com/store/0-84-oled-display-96x16/), 
-and after a quick look I noticed that it's based on Adafruit's 
+First, I grabbed the code samples from the [Sabernetic site](http://sabernetics.com/store/0-84-oled-display-96x16/),
+and after a quick look I noticed that it's based on Adafruit's
 [OLED Display Library](https://github.com/adafruit/Adafruit_SSD1306).
 
 One of the things I like about the demo code is that it draws bitmap
 icons, as well as circles, lines and rectangles. Icons are particularly cool so
 I immediately decided to make my own and set about understanding how they're constructed.
 
-Adafruit has some great tutorials on using OLED displays including how to create icons using 
-[LCD Assistant](http://ladyada.net/products/oled12864/), but after seeing the example code I 
-wanted to try create my own without using Windows, so decided to have a go at hacking up a 
+Adafruit has some great tutorials on using OLED displays including how to create icons using
+[LCD Assistant](http://ladyada.net/products/oled12864/), but after seeing the example code I
+wanted to try create my own without using Windows, so decided to have a go at hacking up a
 script to do it for me.
 
-Here's my first attempt. The result is not even close to being as complete as Adafruit's 
+Here's my first attempt. The result is not even close to being as complete as Adafruit's
 screenshots suggest that LCD Assistant is, but it seems to work fine for 16 x 16 pixel
 images. I'll need to put some work into dealing with other images sizes, and to
 do that I'll probably end up rewriting it using the Ruby
@@ -52,7 +52,7 @@ system's package manager if you can), then call it with something like:
 and paste the resulting output into an array in the Arduino environment. The
 OLED examples use something like this:
 
-        static unsigned char __attribute__ ((progmem)) twitter_bmp[]={  
+        static unsigned char __attribute__ ((progmem)) twitter_bmp[]={
             0xff,0xff,0xff,0xff,0xff,0x0f,0x3f,0xbf,0xbf,0xbf,0xbf,0xff,0xff,0xff,0xff,0xff,
             0xff,0xff,0xff,0xff,0xff,0xf0,0xf7,0xe7,0xe7,0xe7,0xe7,0xff,0xff,0xff,0xff,0xff,
         };
@@ -66,4 +66,4 @@ and then code like this to do the actual drawing:
 I had some interesting problems with PNGs which hadn't been processed by
 ImageMagick's convert utility before use, and I haven't attempted to handle
 images whose sizes aren't multiples of 8 pixels. Still, you may find this
-script useful in your hackery. 
+script useful in your hackery.

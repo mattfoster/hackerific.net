@@ -20,7 +20,7 @@ discovered in the last year.
 ## TLS Prober
 
 One of my favourite security projects last year was undoubtedly [TLS
-Prober](https://github.com/WestpointLtd/tls_prober). 
+Prober](https://github.com/WestpointLtd/tls_prober).
 
 This is a great recon tool which attempts to identify a given SSL stack by
 examining its behaviour. For full details, see the
@@ -50,12 +50,12 @@ new signatures. It could also prove you with inspiration to help writing tools o
 tool, designed to identify web application firewalls. It does this by making
 various HTTP requests and then examining the responses for telltale signs that
 certain WAFs are present. Things like cookies, headers, and other responses to
-certain stimuli. 
+certain stimuli.
 
 Check it out and submit any handy improvements you might have in mind -- the
 developers are [open to pull requests](https://github.com/sandrogauci/wafw00f/commit/cd50b3ada9eb3f839707322875001e79e161580d).
 
-## ncat 
+## ncat
 
 I said I wouldn't mention nmap, but I'll mention one of its projects, ncat.
 [ncat](https://nmap.org/ncat/) is the [nmap](https://nmap.org/) project's reimagined
@@ -75,9 +75,9 @@ have it installed.
 ## Finally
 
 There are lots of blogs which cover security tools. One I particularly like is
-[darknet.org.uk](http://www.darknet.org.uk/), and I'd recommend giving their post 
+[darknet.org.uk](http://www.darknet.org.uk/), and I'd recommend giving their post
 [A Look Back At 2015 – Tools & News Highlights](http://www.darknet.org.uk/2016/01/a-look-back-at-2015-tools-news-highlights/)
-a look. 
+a look.
 
 This is a really short list of interesting things I found last year. Please
 leave a comment if I'm missing a handy tool you've found useful.

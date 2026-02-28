@@ -9,4 +9,3 @@ What a beast this is! It has more in it than I would have thought possible and n
 
 
 ![The cover of Rothammel’s Antenna book. This is the first edition in English.  ](82274.jpg)
-

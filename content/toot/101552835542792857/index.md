@@ -11,4 +11,3 @@ I’ve learned a lot about how it works and think I might almost be ready to use
 ![A stepper motor on top of a 3D printed cage. The motor drives a small gantry with a motor inside, which is just out of shot. ](24952.jpg)
 
 ![A wider view of the 3D printed z-axis of the machine. There’s a stepper motor at the top and a gantry holding a motor. The housing has a sticker of a man with a comically large tongue (it’s a friend of mine)](24953.jpg)
-

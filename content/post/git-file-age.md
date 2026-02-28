@@ -14,7 +14,7 @@ type: post
 
 Here's a script which prints a sorted list of the files in a git repository,
 but sorted by when their last commit occurred, rather than the standard
-modification, creation or access times you'd see from `ls`. 
+modification, creation or access times you'd see from `ls`.
 This will form the bases of another script in future, which will give me a list
 of files that haven't been updated in git for a certain amount of time, but I
 think this might be useful as-is to some people.
@@ -22,7 +22,7 @@ think this might be useful as-is to some people.
 The script works by passing a list of files (currently supplied by
 [ack](http://beyondgrep.com), which nicely filters out VCS files and
 directories), through `xargs` to a non-standard `git log` line, which gets the
-single most recent commit for the last file, along with the commit timestamp, and 
+single most recent commit for the last file, along with the commit timestamp, and
 abbreviated hash:
 
 ```
@@ -58,7 +58,7 @@ the output looks like this:
 
 Finally, I added a few arguments to reverse the sort order (`-r`), set a custom
 time format (`-f`), and enable debug mode (`-d`). Using the `-f` argument, you
-can set both commit and author times, for example `%cr` or `%ar`. See the 
+can set both commit and author times, for example `%cr` or `%ar`. See the
 PRETTY FORMAT section of `git help log` for more examples.
 
 Here's the full script:
@@ -68,7 +68,7 @@ Here's the full script:
 
 function main {
     local reverse=false format='%cr'
-    DEBUG=false 
+    DEBUG=false
     local helpstring="List files in a git repo along with when they were last updated.\n\t-d\tdebug mode (truncate input)\n\t-r\treverse sort order (default oldest first)\n\t-f\tset git date format string (e.g. %cr, %cd, etc.)\n\t-h\tdisplay this help.\n"
 
     OPTIND=1
@@ -86,9 +86,9 @@ function main {
     readonly DEBUG
 
     # If debug is only process 50 filenames
-    if $DEBUG; then 
+    if $DEBUG; then
         FILTER='head -n 50'
-    else 
+    else
         FILTER='tee'
     fi
 
@@ -109,13 +109,13 @@ function ack_file_info {
 # its newlines when it's piped through a filter. So replace ; with \n as a
 # bodge to fix this.
 function clean_input {
-    tr ';' '\n' 
+    tr ';' '\n'
 }
 
 function sort_cleaned_input {
     local reverse="$1"
 
-    if $reverse; then 
+    if $reverse; then
         sort -r
     else
         sort

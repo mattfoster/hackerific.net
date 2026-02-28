@@ -7,4 +7,3 @@ New WSJT-X, new colours! I should stop messing about and install the hupRF PAT b
 
 
 ![](5409.png)
-

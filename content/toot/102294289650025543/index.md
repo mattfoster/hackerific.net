@@ -15,4 +15,3 @@ I think it'll be cool to add a little display with position/clock info.
 ![Output of chronyc sources -v, showing various time sources. PPS0 is being used to set the system clock.](65626.png)
 
 ![GPS information from a small python script. Included is time, latitude, longitude, maidenhead grid square a few other bits.](65630.png)
-

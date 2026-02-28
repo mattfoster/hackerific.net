@@ -17,4 +17,3 @@ I don't think anyone would deny that it's a pretty weird way to communicate, sup
 ![A scary looking face with evil eyes and a menacinh grin. Text across the top reads CQ de OK1JMB. This is an SSTV CQ call.](42894.png)
 
 ![A roughly triangular, brightly colour, orchid. Text across the top reads RN3DL ALEX KO85UV. Another line reads RN3DL CQ. This is another SSTV CQ call. ](42895.png)
-

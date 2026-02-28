@@ -27,4 +27,3 @@ Here's a quick list of my top five tips:
   5. Use [zsh-lovers](http://grml.org/zsh/zsh-lovers.html) to find out more. There's far too much to zsh for me to be able to list it all here. My first stop is usually this man page, and it's usually all I need.
 
   * **Bonus!** Google for zshrc config files. Try [github](http://github.com/ "Secure Git hosting and collaborative development &mdash; GitHub") and [dotfiles](http://www.dotfiles.com/ "dotfiles.com: home") first.
-

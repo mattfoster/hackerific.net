@@ -11,7 +11,7 @@ url: /2008/05/09/meet-the-new-matlab-bundle-moderator/
 I've taken over maintainership of the TextMate Matlab bundle as of last week, after what seems to have been quite a long period without a maintainer. Hopefully, I can fix a few of the glitches (hopefully I already have), and I've got plans to add various bits of useful functionality.
 
 My current todo list includes:
-  
+
   * Updating the snippets to reflect TextMate conventions (work in progress).
   * Adding more snippets for useful functions to help speed up writing code.
   * Improving the language grammar.
@@ -25,5 +25,5 @@ If you don't have the bundle yet, grab it from subversion:
 
 <script src="http://gist.github.com/5020.js"></script>
 
-If you make any useful changes, follow the instructions on the 
+If you make any useful changes, follow the instructions on the
 [TextMate wiki](http://wiki.macromates.com/Bundles/HowToContribute), and send them to me!

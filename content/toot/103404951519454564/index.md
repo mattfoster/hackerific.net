@@ -17,4 +17,3 @@ Oh, and Happy New Year all!
 ![The same PCB from the side. There's a large LED on the bottom of the board and two resistors on the top. The resistors are connected with crocodile clips (to the positive supply rail which is not shown).](146015.jpeg)
 
 ![The completed puzzle: two PCBs, side-on, with 6 LEDs, 6 resistors on a plane parallel with the camera and another 6 behind. There are also standoffs connecting the boards and some jumpers running between them. ](146016.jpeg)
-

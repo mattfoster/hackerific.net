@@ -7,4 +7,3 @@ One day I will learn how to design PCBs, but until then I will find other things
 
 
 ![20m LPF](9916.jpeg)
-

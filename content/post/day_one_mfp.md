@@ -21,7 +21,7 @@ more calories I can eat, as well as keep track of exercise and weight.
 Now, it's great to be able to log stuff using an app with a barcode scanner,
 and then view stats and info online, but I don't like the idea of my data all
 being locked away and belonging to someone else, and what it I want to use a
-different service?  Basically, I want to feel like I own this data. 
+different service?  Basically, I want to feel like I own this data.
 
 My go to logging tool is [Brett Terpstra's](http://brettterpstra.com)
 [Slogger](https://github.com/ttscoff/Slogger), which scrapes various online
@@ -77,12 +77,12 @@ misspelling of 'excercise'!), and code like this will do it:
   exercise = doc.css('table#excercise').to_s
 ```
 
-This will save the tables, as HTML, into the `food` and `exercise` variables. 
+This will save the tables, as HTML, into the `food` and `exercise` variables.
 
 Next, I need to turn these tables into Markdown. Now, I could probably find a
 `gem` to do this for me, or implement something myself, but I decided that
 since I'm using one of Brett's tools I may as well also use another, and went
-with the online converter [Marky](http://fuckyeahmarkdown.com). 
+with the online converter [Marky](http://fuckyeahmarkdown.com).
 
 Basically, you pass its API an urlencoded string and it spits back markdown for
 you. So you can do this with a method like this:
@@ -96,12 +96,12 @@ you. So you can do this with a method like this:
   end
 ```
 
-The `open` function is part of 
+The `open` function is part of
 [open-uri](http://ruby-doc.org/stdlib-2.2.0/libdoc/open-uri/rdoc/OpenURI.html),
 which is in the standard library. It would be good practice to check the
 response code here, but I'm being lazy! Also, the docs for the library are
 really sparse, so if you're doing any Ruby programming do yourself a huge
-favour and buy 
+favour and buy
 [Programming Ruby](https://pragprog.com/book/ruby4/programming-ruby-1-9-2-0).
 
 Now, chaining these two together with a bit of other glue code gives me the
@@ -160,7 +160,7 @@ logs.each do |name, table|
 end
 ```
 
-Which prints something like this when run: 
+Which prints something like this when run:
 
 ```
 ## MyFitnessPal daily report
@@ -204,8 +204,8 @@ User: [mattpfoster877](http://www.myfitnesspal.com/food/diary/mattpfoster877)
 # A Plugin
 
 This is exactly what I'm looking for, so now I just need to plug my proof of
-concept into a Slogger plugin. To do that, I copied the 
-[plugin template](https://github.com/ttscoff/Slogger/blob/master/plugin_template.rb), 
+concept into a Slogger plugin. To do that, I copied the
+[plugin template](https://github.com/ttscoff/Slogger/blob/master/plugin_template.rb),
 and populated the comments and config sections. Then I added all my helper
 functions and instead of printing the markdown to stdout I pushed it all into a
 string which I then used to create a diary entry. The guts of the plugin

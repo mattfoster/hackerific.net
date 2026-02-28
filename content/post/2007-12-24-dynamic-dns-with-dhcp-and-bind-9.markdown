@@ -13,8 +13,8 @@ url: /2007/12/24/dynamic-dns-with-dhcp-and-bind-9/
 ---
 
 <div class="item">
-          
-        
+
+
             <p>Unfortunately, getting DHCP3 and BIND9 to work together is not quite
 	  as easy as it could/should be. I found it really difficult to find any
 	  decent examples, and the docs weren't much use. DHCP's man page fails to
@@ -26,10 +26,10 @@ url: /2007/12/24/dynamic-dns-with-dhcp-and-bind-9/
 	  <p>The main two config files are <code>dhcpd.conf</code> and
 	  <code>named.conf</code>. Here they are:</p>
 
-<pre>		
+<pre>
 
 # /etc/dhcp/dhcpd.conf
-################################################################## 
+##################################################################
 
 server-identifier 192.168.0.9; # Should be the IP address of the DHCP server
 # thanks to Aaron for pointing this out.
@@ -72,14 +72,14 @@ subnet 192.168.0.0 netmask 255.255.255.0 {
 	&nbsp;&nbsp;option smtp-server 192.168.0.9;
 	&nbsp;&nbsp;option netbios-name-servers 192.168.0.9;
 }
-################################################################## 
+##################################################################
 
 </pre>
 
-<pre>	
-////////////////////////////////////////////////////////////////// 
+<pre>
+//////////////////////////////////////////////////////////////////
 // /etc/bind/named.conf
-////////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////////
 
 // First off is the key. To modify the running DNS server you need
 // this, the same as in the dhcpd.conf file.
@@ -90,11 +90,11 @@ key mykey {
 // Next the access control section, we allow the 192.168.0.0-255
 // subnet, and localhost.
 acl "home" { 192.168.0.0/24; 127.0.0.1;};
-// Some general options, including who to forward queries you can't 
+// Some general options, including who to forward queries you can't
 // resolve to. (in this case they are claranet's dns servers.)
 options {
 &nbsp;&nbsp;directory "/var/bind/"; //Working directory
-&nbsp;&nbsp;pid-file "/var/run/named/named.pid"; 
+&nbsp;&nbsp;pid-file "/var/run/named/named.pid";
 
 &nbsp;&nbsp;allow-query { "home"; };
 &nbsp;&nbsp;forwarders { 195.8.69.7; 195.8.69.12; };
@@ -104,11 +104,11 @@ options {
 controls {
 &nbsp;&nbsp;inet 127.0.0.1 port 953
 
-&nbsp;&nbsp;allow { 127.0.0.1; 192.168.0.9; } keys { "mykey"; 
+&nbsp;&nbsp;allow { 127.0.0.1; 192.168.0.9; } keys { "mykey";
 };
 };
 // And then you have pretty much standard zones, except for the
-// fact that the key specified at the top is allowed to modify the 
+// fact that the key specified at the top is allowed to modify the
 // domain zone and reverse zone at the bottom.
 zone "0.0.127.in-addr.arpa" {
 &nbsp;&nbsp;type master;
@@ -134,12 +134,12 @@ zone "." {
 
 &nbsp;&nbsp;file "named.ca";
 };
-////////////////////////////////////////////////////////////////// 
+//////////////////////////////////////////////////////////////////
 </pre>
 
-<p>You can generate the keys with <code>dnssec-keygen</code>, 
-and you may well need to use 
-<code>rndc-confgen</code> to generate the config for rndc, the dns control 
+<p>You can generate the keys with <code>dnssec-keygen</code>,
+and you may well need to use
+<code>rndc-confgen</code> to generate the config for rndc, the dns control
 program.  You should make sure you use the same md5 key in that as well.</p>
 
 <h2>Zone Files</h2>
@@ -163,7 +163,7 @@ example.com.	IN SOA	example.com. nadir.example.com. (
 				86400      ; minimum (1 day)
 				)
 ;
-; Name servers: same domain name as origin. 
+; Name servers: same domain name as origin.
 ;
 				IN NS	nadir.example.com.
 
@@ -173,7 +173,7 @@ example.com.	IN SOA	example.com. nadir.example.com. (
 ;
 ; Put any addresses you want fixed here. Dynamically set addresses will appear
 ; below.
-; 
+;
 nadir.example.com	IN A	192.168.0.254
 </pre>
 
@@ -196,7 +196,7 @@ $TTL 86400  ; 1 day
 			IN NS	nadir.example.com.
 
 ;
-; Fixed addresses, followed by DDNS inserted mappings. 
+; Fixed addresses, followed by DDNS inserted mappings.
 ;
 254.0.168.192.in-addr.arpa. PTR nadir.example.com.
 
@@ -216,14 +216,14 @@ $TTL 86400  ; 1 day
 	line reading:
 	<pre>send host-name "hostname"</pre> in your <code>dhclient.conf</code>.</li>
   </ul>
-	
-  
+
+
   <h2>Finally</h2>
-  <p>I'm no expert, and I may well have done something very stupid, 
+  <p>I'm no expert, and I may well have done something very stupid,
   or missed something  altogether. Please tell me if I have, and I'll tweak this.
-  I used the domain example.com for security reasons, and because everyone else 
+  I used the domain example.com for security reasons, and because everyone else
   does. Have fun :-)</p>
 
-        
-          
+
+
             </div>

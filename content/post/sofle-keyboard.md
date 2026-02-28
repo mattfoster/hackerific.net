@@ -45,9 +45,9 @@ pro-micro clones and a braided USB cable from Amazon. Sourcing the bits from
 elsewhere might have saved a little, but not much (the original author provides
 full details). I also settled on Cherry Brown switches and bought them at the
 same time. Here's what I ended up with, if you're interested in more details,
-read on: 
+read on:
 
-{{< figure src="/images/posts/sofle.jpg" 
+{{< figure src="/images/posts/sofle.jpg"
     title="My custom Sofle keyboard"
     alt="My custom split keyboard"
 >}}
@@ -88,7 +88,7 @@ alt next.
 With all these seemingly arbitrary constraints in place I set about messing
 with the firmware, and came up with this:
 
-{{< figure src="/images/posts/soflekeyboard.png" 
+{{< figure src="/images/posts/soflekeyboard.png"
     title="My custom layout"
     link="http://www.keyboard-layout-editor.com/#/gists/d77a85b6a6c9bc1abefbb7531e7756f1"
     alt="My custom split keyboard layout, showing three layers"
@@ -123,7 +123,7 @@ then build/flash with `make sofle:lefty:flash` in the root.
 
 I built this a few weeks ago, and while I'm getting better, I'm still not used
 to using it! Mostly because I'm an awful touch-typist and use the wrong fingers
-for some letters, and partly because I use my left hand too much! 
+for some letters, and partly because I use my left hand too much!
 
 It's not quite my daily driver yet, and when work is not too busy I'm gradually
 ramping up my use, which is helping a lot, and I expect to be used to it soon.
@@ -136,4 +136,3 @@ options. Overall, I have no regrets, this has turned into a fun project.
 
 [^1]: actually now I've used the Sofle a bit I can see how the positioning on the Iris would be good.
 [^2]: I can and do use vim's movement keys a fair amount but only in `vim`. Outside I like `wasd`, since that's what I use when gaming.
-

@@ -8,10 +8,10 @@ url: /2010/04/19/bluetooth/
 
 During the middle of January 2010, I (inadvertently) left a bluetooth inquiry scanner running for about four days. I live on a fairly busy street in Bath, so during that time I collected information on almost 1500 bluetooth gadgets, ranging from headsets and car handsfree kits, to phones, PDAs and computers. This article is about some of the patterns I've found in the data. But first, some background.
 
-Bluetooth enquiry scans can provide a huge amount of information about discoverable bluetooth devices. I use 
-[btscanner](http://www.pentest.co.uk/cgi-bin/viewcat.cgi?cat=downloads&section=01_bluetooth "Downloads") for to look for bluetooth devices, and whilst it can sometimes be a little flakey, I've had good results. btscanner outputs one directory for each device is finds, inside each directory is a file containing useful information, and another containing the times at which the device was seen. Among the most useful information is the bluetooth address of the device. 
+Bluetooth enquiry scans can provide a huge amount of information about discoverable bluetooth devices. I use
+[btscanner](http://www.pentest.co.uk/cgi-bin/viewcat.cgi?cat=downloads&section=01_bluetooth "Downloads") for to look for bluetooth devices, and whilst it can sometimes be a little flakey, I've had good results. btscanner outputs one directory for each device is finds, inside each directory is a file containing useful information, and another containing the times at which the device was seen. Among the most useful information is the bluetooth address of the device.
 
-Bluetooth addresses look exactly like ethernet MAC addresses and serve the same purpose. They also use the same OUI, which I've talked about the OUI database in a [previous post](/2010/04/04/oui), so I won't go into any more detail here. 
+Bluetooth addresses look exactly like ethernet MAC addresses and serve the same purpose. They also use the same OUI, which I've talked about the OUI database in a [previous post](/2010/04/04/oui), so I won't go into any more detail here.
 
 I analysed the data I collected with some simple shell and (work in progress) ruby scripts. After that, I used Gnuplot to make some bar graphs. Here's the number of devices made by different manufacturers:
 

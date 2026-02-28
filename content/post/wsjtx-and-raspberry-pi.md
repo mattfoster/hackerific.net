@@ -269,4 +269,3 @@ only real tip is that you must **never** just click "Enable TX" and let things
 run their course. Always hunt around for an empty part of spectrum and hold
 your Tx frequency. Make sure you are an active participant and you will have a
 lot of fun, and see that it actually takes a bit of skill!
-

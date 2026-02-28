@@ -11,9 +11,9 @@ url: /2008/11/30/textmate-plain-text-wiki-as-an-exocortex/
 
 I got a copy of [Pragmatic Thinking and Learning](http://www.pragprog.com/titles/ahptl "The Pragmatic Bookshelf | Pragmatic Thinking and Learning") when it came out a while ago, and I just finished reading it. I really wish I'd read it *before* I embarked on a PhD!
 
-As my [girlfriend](http://charliebeldon.com) pointed out, it is basically a psychology textbook, with an onus on learning, but it's presented in that great informal, geek-accessible style that you'll probably only have come across in other pragmatic programmers books. 
+As my [girlfriend](http://charliebeldon.com) pointed out, it is basically a psychology textbook, with an onus on learning, but it's presented in that great informal, geek-accessible style that you'll probably only have come across in other pragmatic programmers books.
 
-I have to admit that reading it in bed probably wasn't the best place, since it made following the advice like "If your software isn't set up with a safety net (version control, unit testing and automation), you need to get that implemented right away. Put the book down. I'll wait." slightly harder to follow, but I still got a heck of a lot out of it, including the idea of an [exocortex](http://en.wikipedia.org/wiki/Exocortex "Exocortex - Wikipedia, the free encyclopedia"). 
+I have to admit that reading it in bed probably wasn't the best place, since it made following the advice like "If your software isn't set up with a safety net (version control, unit testing and automation), you need to get that implemented right away. Put the book down. I'll wait." slightly harder to follow, but I still got a heck of a lot out of it, including the idea of an [exocortex](http://en.wikipedia.org/wiki/Exocortex "Exocortex - Wikipedia, the free encyclopedia").
 
 An exocortex is basically an external information-processing memory device *thing* which augments your brain. Charles Stross' novel [Accelerando](http://www.accelerando.org/ "Accelerando!") (which is available online) will help explain, if you're interested. For now though, we have to make do with (normal) computers to augment us, so that basically means wikis.
 

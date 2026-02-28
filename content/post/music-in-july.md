@@ -37,7 +37,7 @@ Listen on:
 
 * [Apple Music](https://geo.itunes.apple.com/gb/album/paradise-gallows/id1098454047?at=1000ldrw&mt=1&app=music)
 * [CD from Amazon](http://amzn.to/29FQhZF)
-* [MP3 from Amazon](http://amzn.to/29QLmsr) 
+* [MP3 from Amazon](http://amzn.to/29QLmsr)
 
 While on the subject of stoner, I was lucky enough to see The Melvins play at
 the Exchange in Bristol last month.  The Melvins are a band I've been aware of
@@ -49,9 +49,9 @@ can see/feel them live 🤘🏼
 Listen on:
 
 * [Apple Music](https://geo.itunes.apple.com/gb/album/basses-loaded/id1090974583?at=1000ldrw&mt=1&app=music)
-* [CD from Amazon](http://amzn.to/29QLkR9) 
+* [CD from Amazon](http://amzn.to/29QLkR9)
 
-Finally, remember to check out [Radio Fenriz](https://soundcloud.com/heavytassen/radio-fenriz-22-june-2016) 
+Finally, remember to check out [Radio Fenriz](https://soundcloud.com/heavytassen/radio-fenriz-22-june-2016)
 for all your metal needs!
 
 *Note:* There are iTunes and Amazon affiliate links above, feel free to click

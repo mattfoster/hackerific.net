@@ -10,7 +10,7 @@ title: 'Screencast: Gnuplot TextMate Bundle '
 url: /2008/11/07/screencast-gnuplot-textmate-bundle/
 ---
 
-I proudly present: my first foray into screencasting! 
+I proudly present: my first foray into screencasting!
 
 After months of umming and ahhing I finally decided to get a copy of [screenflow](http://www.flip4mac.com/screenflow.htm "Flip4Mac - ScreenFlow") (partially for Christmas, and with a nice educational discount!).
 

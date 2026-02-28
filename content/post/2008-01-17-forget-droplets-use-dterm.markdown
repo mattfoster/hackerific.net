@@ -10,7 +10,7 @@ title: Forget droplets, use Dterm!
 url: /2008/01/17/forget-droplets-use-dterm/
 ---
 
-A few days ago, on one of my regular [del.icio.us/popular](http://del.icio.us/popular/ "Popular pages on del.icio.us") <strike>procrastination</strike> research trawls, I discovered [DTerm](http://www.decimus.net/dterm.php "DTerm"), a HUD style, context-sensitive, drop down command line thingemy. It's pretty cool, with useful features like 'insert selected items', and 'copy results' and after a couple of updates I can see it being totally great. 
+A few days ago, on one of my regular [del.icio.us/popular](http://del.icio.us/popular/ "Popular pages on del.icio.us") <strike>procrastination</strike> research trawls, I discovered [DTerm](http://www.decimus.net/dterm.php "DTerm"), a HUD style, context-sensitive, drop down command line thingemy. It's pretty cool, with useful features like 'insert selected items', and 'copy results' and after a couple of updates I can see it being totally great.
 
 Here's a quick screenshot:  ![Dterm](http://files.hackerific.net/2008-01-17_dterm1.jpg)
 
@@ -27,10 +27,10 @@ Here are a couple of other ideas I've had:
 
 Since I use zsh instead of bash, I found (after talking with Decimus' support) that I need to launch Dterm using:
 <pre>
-env SHELL=/bin/bash open /Applications/DTerm.app 
+env SHELL=/bin/bash open /Applications/DTerm.app
 </pre>
 Otherwise it'll use zsh, which stops tab completion from working properly. Using this method, you could also pass other options, such as `TERM`, which DTerm doesn't currently set itself. The command I'm using at the moment is:
 <pre>
-env SHELL=/bin/bash TERM=dterm open /Applications/DTerm.app 
+env SHELL=/bin/bash TERM=dterm open /Applications/DTerm.app
 </pre>
 Give it a try!

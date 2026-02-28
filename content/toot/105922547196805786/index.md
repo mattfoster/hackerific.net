@@ -11,4 +11,3 @@ Here's a pic with Royal Nave 2 caps.
 
 
 ![A sofle split keyboard with a braided cable connecting the left and right halves. It's approximately 60% sized with letters, numbers and the other "important" keys like ctrl, GUI, enter, space etc.](105922541123526339.jpeg)
-

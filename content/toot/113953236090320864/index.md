@@ -18,4 +18,3 @@ I didn't find build instructions but handily the kicad BOM has LCSC part numbers
 ![A metal raspberry pi case showing a hat circuit. It’s a metal rectangle, oriented vertically, on the right and a row of headers on the left. An antenna is connected on the bottom right](113953235108588903.jpeg)
 
 ![A small portion of a green printed circuit board showing some very small components next to an unpopulated SMA footprint. The components are in a cluster labelled L1, L2, C3, C4, C5 and are a mix of 0402 and 0603 sizes. ](113953235877355908.jpeg)
-

@@ -34,7 +34,7 @@ low cost, so with that in mind, I decided I'd use Atmel ATTiny45 MCUs, because:
 2. I like avr-libc
 3. They are relatively cheap and small.
 4. I had some I could play with.
-5. You can get a through-hole version for noobs. 
+5. You can get a through-hole version for noobs.
 
 The group reckoned that 15 or so components was manageable, so I decided to try
 to pack in as many LEDs as I could. While brainstorming, I remembered there's a
@@ -68,7 +68,7 @@ caption="LEDs connected to two ports"
 
 This is pretty simple for just two pins, but as I said before, you can control
 two LEDs with each *pair* of pins, and that's where the tri-state logic is
-useful. 
+useful.
 
 In a three pin set-up you can control 6 LEDs, like this:
 
@@ -86,20 +86,20 @@ By Charlieplexing five pins on an ATTiny45 I could control up to 20 LEDs (too
 many!), so I stuck to 12. I did some experiments on a breadboard and determined
 that I could just about get away without adding any current limiting resistors,
 meaning that I could probably use 12 LEDs, the chip, a battery holder, and then
-a switch for good measure, leading to a really low component count. 
+a switch for good measure, leading to a really low component count.
 
 With all this in mind, and using my breadboarded circuit to double-check
 details, I drew the circuit in [kicad](https://www.kicad.org/).  Finally, I
 assigned footprints to all the components, using the intersection of "cheap on
 mouser", "has a footprint in kicad already" and preferring compenents I've used
-before as my guide. 
+before as my guide.
 
 {{< figure src="images/circuit.png"
 alt="The full circuit with 12 LEDs, one microcontroller, a switch and a capacitor"
 caption="The full circuit"
 >}}
 
-### PCB 
+### PCB
 
 With the circuit drawn it mess about in
 [PcbNew](https://www.kicad.org/discover/pcb-design/), (kicad's board layout
@@ -132,7 +132,7 @@ pain)ki. The final result looked pretty cool in the 3D view, so I bought a
 bunch in blue from JLCPCB... worried because the crazy edge cuts didn't show in
 their viewer... and waited.  Thankfully when they arrived they looked great,
 and initial tests suggested no mistakes! Total cost for 15 boards was $38.86
-including fairly speedy shipping. 
+including fairly speedy shipping.
 
 {{< figure src="images/overview.png"
 alt="3D view of the full circuit"
@@ -143,7 +143,7 @@ caption="3D render"
 ### Code
 
 The last part of this project was writing code to generate cool patterns of
-lights and I spent ages messing with this! 
+lights and I spent ages messing with this!
 
 First, I wanted to use the button to switch mode, but I had forgotten that not
 all pins on the MCU are attached to the same internal components. Like a fool I
@@ -176,7 +176,7 @@ I was chuffed with this project. People seem to like making badges and there
 are a few things you can do to make them easier to make and wear. I'd encourage
 anyone interested in having a go to see what corners they can cut, resistors
 they can drop, pads they can expand, cheap components they can find and what
-they can mount on the back of the board to keep the sharp bits off clothes! 
+they can mount on the back of the board to keep the sharp bits off clothes!
 
 You can find all the design files in
 [GitHub](https://github.com/mattfoster/wukkta-badges), some instructions on my
@@ -196,4 +196,4 @@ Final bill of materials (BOM):
 
 
 Which gives a total cost of just under £2.50 per board, plus the PCBs at around £2
-per board (I bought 15). 
+per board (I bought 15).

@@ -27,13 +27,13 @@ To build the toolkit, you'll need a working build environment, with make, gcc an
 You'll probably need to tell make where your mex binary is (MEX is Matlab's external interface builder). To do this, run:
 
 	make MEX=/path/to/mex
-	
+
 You'll find mex inside your Matlab installation, under the `bin/` directory. On linux, it may be symlinked into `/usr/local/bin`.
 
 Once make has run, you'll find a directory called `toolkit`, which contains the interpolation toolkit. Copy this folder somewhere appropriate, and add it to your Matlab path, by running:
 
 	addpath('/path/to/toolkit')
-	
+
 Within Matlab. You can then run `help toolkit`, for some help and examples of how to test the methods.
 
 I'd recommend using natural neighbour interpolation everywhere you would previously have used matlab's `griddata` function. You can find more information on interpolation in my publications, which you can read and download [here](http://work.hackerific.net/papers.html "Matthew Foster's Publications").

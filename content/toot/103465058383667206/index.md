@@ -7,4 +7,3 @@ Got a lovely anodised red case for my new 60% keyboard. Really pleased with the 
 
 
 ![A 60% keyboard. There are no function or arrow keys and there’s no number pad. Instead the keyboard is smaller.](151267.jpeg)
-

@@ -7,4 +7,3 @@ Hahaha, the TLS 1.2 RFC was written by people from "RTFM, Inc." [https://www.iet
 
 
 ![The header of the TLS 1.2 RFC. Lists the company name as RTFM, Inc.](190771.png)
-

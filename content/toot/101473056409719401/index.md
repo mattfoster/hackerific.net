@@ -7,4 +7,3 @@ Chopped the top off the dead transistor from my PSU. There’s nothing obviously
 
 
 ![A large transistor with the top chopped off, showing the silicon die and wires.](22392.jpg)
-

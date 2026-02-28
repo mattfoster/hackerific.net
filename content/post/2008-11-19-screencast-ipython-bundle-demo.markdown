@@ -14,7 +14,7 @@ I'm very pleased to announce that the IPython TextMate bundle is in a state
 where it can actually be used – you can probably consider it to be a pre-beta.
 
 To celebrate this, I've made a simple [screencast][1] demoing some of the
-basic features. 
+basic features.
 
 <object width="600" height="376"><param name="allowfullscreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="movie" value="http://vimeo.com/moogaloop.swf?clip_id=2281439&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" /><embed src="http://vimeo.com/moogaloop.swf?clip_id=2281439&amp;server=vimeo.com&amp;show_title=1&amp;show_byline=1&amp;show_portrait=0&amp;color=00ADEF&amp;fullscreen=1" type="application/x-shockwave-flash" allowfullscreen="true" allowscriptaccess="always" width="600" height="376"></embed></object><br /><a href="http://vimeo.com/2281439">IPython TextMate Bundle Demo</a> from <a href="http://vimeo.com/user750148">Matt Foster</a> on <a href="http://vimeo.com">Vimeo</a>.
 

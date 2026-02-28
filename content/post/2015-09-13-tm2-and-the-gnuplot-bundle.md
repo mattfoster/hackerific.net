@@ -23,9 +23,9 @@ Please see the README for installation instructions.
 Converting the bundle wasn't too difficult, and most of the problems were caused by the fact that most of the 'Bundle Support' code is still written to use Ruby 1.8. Thankfully, there's a wrapper `ruby18` you can use, so many problems can be fixed by switching shebang lines from:
 
     #! /use/bin/env ruby
-	
+
 to
-	
+
     #! /use/bin/env ruby18
 
 as the Bundle Support `plist` adds the `ruby18` wrapper to TextMate's path.
@@ -34,6 +34,6 @@ The `TM_BUNDLE_PATH` variable seems to have been replaced, but you can now use p
 
 I also made a few changes to set the working directory used when running GnuPlot, and some miscellaneous other tweaks. The result is that most, but not all, of the functionality should now work.
 
-If you find something missing, or broken, please file an [issue](https://github.com/mattfoster/gnuplot-tmbundle/issues) on GitHub, and I'll look at sorting it. 
+If you find something missing, or broken, please file an [issue](https://github.com/mattfoster/gnuplot-tmbundle/issues) on GitHub, and I'll look at sorting it.
 
-The main thing I noticed while playing with this is that the community surrounding TextMate seems to have dissipated somewhat. This is probably because some many new and shiny editors have appeared, with Sublime Text and Atom among the most popular. 
+The main thing I noticed while playing with this is that the community surrounding TextMate seems to have dissipated somewhat. This is probably because some many new and shiny editors have appeared, with Sublime Text and Atom among the most popular.

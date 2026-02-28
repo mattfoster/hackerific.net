@@ -95,6 +95,5 @@ and up to the current version at the time of testing, which was 1.7.
 ## Timeline
 
 * **Originally discovered**: Feb 2015.  Attempted contact via email but didn't get anywhere for several months. Eventually, I was invited to join HackerOne and post there.
-* **Submitted to HackerOne**: 31st August 2015. From this point Ubiquiti's communications were excellent. 
+* **Submitted to HackerOne**: 31st August 2015. From this point Ubiquiti's communications were excellent.
 * **Fix released**: 26th February 2016: Ubiquiti released firmware version 1.8.0, which resolved the issue.
-

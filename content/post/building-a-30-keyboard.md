@@ -21,7 +21,7 @@ a cherry slimline board with ML switches which I’ve had for ages), but it was
 the sudden proliferation of fully-hipster keyboards at work, where everyone
 suddenly started getting [code](https://codekeyboards.com/) keyboards and
 things that made me start thinking about upgrading. There’s a very active and
-friendly seeming community (on [reddit](https://reddit.com/r/mechanicalkeyboards) 
+friendly seeming community (on [reddit](https://reddit.com/r/mechanicalkeyboards)
 and [geekhack](https://geekhack.org/) and
 [Deskthority](https://deskthority.net/)) and I quickly settled on DIY.
 
@@ -63,7 +63,7 @@ LED holes on the top of the switches.
 ## Getting started
 
 Building a keyboard is pretty easy if you've soldered before and have a decent iron with a small tip.
-The hardest thing to solder is the SMD MOSFET, which is tiny and must be properly oriented. 
+The hardest thing to solder is the SMD MOSFET, which is tiny and must be properly oriented.
 In my first build I hand-soldered this component in the second I used a frying
 pan to cook it into position, which works really well.
 
@@ -77,17 +77,17 @@ that value.
 
 With the top done (which will take a while!) it's time to think about the bottom.
 
-The main issue here is deciding what to do with the Arduino Micro. 
+The main issue here is deciding what to do with the Arduino Micro.
 I used a socket in my first build, but wired it directly in on the second, which made the
-build thinner over all but was much more fiddly. 
+build thinner over all but was much more fiddly.
 
 If you're using a socket, now is the time to solder it in place, as you'll need
 to access the top of the board to do this, so you won't want the switches in
 the way. See [this post](http://www.40percent.club/2016/09/dual-controller-dual-matrix.html) for
-some useful info on how to socket the pro micro. If you're not using a socket you might want to add 
+some useful info on how to socket the pro micro. If you're not using a socket you might want to add
 wires now, by pushing them through the holes in the micro and soldering them to
 the top of the board (but leaving them disconnected from the micro as you'll
-need to remove it to solder the switches and LEDs). 
+need to remove it to solder the switches and LEDs).
 
 After installing the Micro you can move onto the switches, which should be relatively
 easy to install. Start by pushing them through the top plate (with the plate
@@ -106,7 +106,7 @@ about flashing some firmware and running some tests!
 
 Before you can do anything else -- like check all the LEDs and switches are
 working properly -- you need some firmware. To flash firmware you need to
-'reset' the Micro, by shorting two of the broken out pins on the board. This enables the 
+'reset' the Micro, by shorting two of the broken out pins on the board. This enables the
 Arduino bootloader, which lets you write code to the board. See the
 [assembly page](http://www.40percent.club/2016/12/gherkin-assembly.html) for
 more info.
@@ -114,23 +114,23 @@ more info.
 40percent.club has instruction on easily creating firmware for the gherkin
 using an online tool, and includes a sadly incomplete config file to help you
 quickly create firmware (there are layers missing).  This is great for testing,
-but if you want to have a fully usable keyboard you’ll need to do more. 
+but if you want to have a fully usable keyboard you’ll need to do more.
 
 I decided to go the whole hog and build my own firmware using the author’s own
 [github
 repo](https://github.com/di0ib/tmk_keyboard/blob/master/keyboard/gherkin/actionmap_gherkin.c).
 
 To do this, I needed to get `avr-gcc`, which I did using homebrew, following
-the instructions here: 
-[GitHub - osx-cross/homebrew-avr: Homebrew AVR Toolchain](https://github.com/osx-cross/homebrew-avr). 
+the instructions here:
+[GitHub - osx-cross/homebrew-avr: Homebrew AVR Toolchain](https://github.com/osx-cross/homebrew-avr).
 
 Then I cloned https://github.com/di0ib/tmk_keyboard. And ran `make` in the
 `keyboard/gherkin` directory. The built me a hex file ready for flashing onto
-the pro micro. 
+the pro micro.
 
 With that done, I then needed to work out how to program the pro micro, which
 was super-easy. Just short the RST and GND pins for a second (or less), then
-use `avrdude` (which again I installed using homebrew). 
+use `avrdude` (which again I installed using homebrew).
 
 The command I ended up using was:
 
@@ -155,7 +155,7 @@ If any don't work it's likely that the legs are folded under the switch instead 
 I fixed this sort of problem using a thin knife to gently push things back into
 place, but it's much easier to prevent this than cure it.
 
-If you want to look at symbols and function keys, and are using the default layout, you'll need something 
+If you want to look at symbols and function keys, and are using the default layout, you'll need something
 [like this](http://www.keyboard-layout-editor.com/#/gists/7eac308ec268b36b0621bfca7500d20c)
 to show you the layout.
 To toggle between layers you need to *hold* the corresponding button on the bottom row.
@@ -178,7 +178,7 @@ of heft. The result, which I'm really pleased with, looks like this:
 {{< figure src="/images/posts/gherkin-base.jpg" caption="Gherkin with metal base" >}}
 {{< figure src="/images/posts/gherkin-complete.jpg" caption="Gherkin with metal base" >}}
 
-And if you use caps which work with a backlight, it'll look like this in the dark! 
+And if you use caps which work with a backlight, it'll look like this in the dark!
 
 {{< figure src="/images/posts/gherkin-backlight.jpg" caption="Gherkin with backlight" >}}
 
@@ -189,4 +189,4 @@ prefer a slightly larger ortholinear board, with punctuation on the top layer
 the very least, so I think that will be my next project.
 
 Hopefully there's some useful information in here which will
-compliment the many other builds guides you might find online. 
+compliment the many other builds guides you might find online.

@@ -18,7 +18,7 @@ I bought a couple of cheap NodeMCU dev boards from
 and decided to write turn them into simple remote thermometers. This post
 chronicles what I did, and how I did it. I won't describe my MQTT setup too
 much, as I think that's another post, and like most IoT manufacturers I've
-totally ignored security here! 
+totally ignored security here!
 
 I'm hoping that a couple of these devices will let me make an intelligent
 wireless thermostat system with multiple room thermometers.
@@ -32,7 +32,7 @@ a cool service, recommended on the
 I configured my firmware to have a few extra modules, like MQTT and I2C, which
 I knew I'd need.  Then, the build service was super-fast, so within a few
 minutes I had downloads of floating point and integer firmwares. I knew I'd need
-the floating point version for temperature measurements. 
+the floating point version for temperature measurements.
 
 Next, I grabbed [esptool](https://github.com/themadinventor/esptool), and flashed
 one of the devices with:
@@ -75,10 +75,10 @@ And to check you have working floating point arithmetic:
 
 I have a couple of [TMP102](https://www.sparkfun.com/products/11931)
 ([datasheet](http://www.ti.com/lit/ds/symlink/tmp102.pdf)) breakout boards left
-over from a previous project, so decided that would be a good place to start in 
+over from a previous project, so decided that would be a good place to start in
 the creation of my thermometer.
 These things are tiny, reasonably accurate and have a very low current draw.
-They also operate at 3.3V, which is the voltage the NodeMCU expects. 
+They also operate at 3.3V, which is the voltage the NodeMCU expects.
 So, I put my NodeMCU on a breadboard, and wired up the TMP102.
 
 ![Wired Board](https://files.hackerific.net/IMG_0748.JPG)
@@ -117,7 +117,7 @@ example code, and saw:
 Temperature Reading from TMP102: 23.5625
 ```
 
-Which means it works! 
+Which means it works!
 
 One thing I’ve noticed with these little devices before is that they seem to
 measure a little hotter than other thermometers, so I suspect something is
@@ -132,7 +132,7 @@ Once I had basic temperature readings, I wanted to use them for something.
 So to start with I needed to work out how to send them to an
 [mosquitto](http://mosquitto.org/) MQTT server. MQTT is an IoT protocol
 designed to let devices publish and subscribe to data streams, fairly simply.
-The NodeMCU firmware I downloaded has basic MQTT support via a module I added, 
+The NodeMCU firmware I downloaded has basic MQTT support via a module I added,
 and using it is fairly simple.
 
 First, I needed to connect the ESP8266 to my wireless network, using the
@@ -149,9 +149,9 @@ file called `init.la`. I found plenty of examples online, for example:
 https://github.com/mrasband/huzzah_8266/blob/master/init.lua or
 https://github.com/felixcameron/ESP8266-Lifx-switch-for-nodemcu/blob/master/init.lua.
 Both of these have some form of retry logic to ensure the ESP8266 connects to
-the wireless network, so I knew I'd eventually want to do something similar, 
+the wireless network, so I knew I'd eventually want to do something similar,
 but to begin with, I just needed to connect, grab the current temperature and write it to my
-MQTT broker. 
+MQTT broker.
 
 To test, I connected to the device using `screen` and pasted in
 the commands shown above. To confirm it worked, I ran
@@ -163,7 +163,7 @@ documentation, so starting off with something like this seemed sensible:
 ```
 m = mqtt.Client(“esp8266_study”, 120, "", "")
 m:connect("178.79.182.85", 1883, 0, function(client) print("connected") end)
-m:publish(“/test”,”hello",0,0, function(client) print("sent") end ) 
+m:publish(“/test”,”hello",0,0, function(client) print("sent") end )
 ```
 
 This code just sends the message <code>hello</code> to the topic
@@ -225,7 +225,7 @@ One of the most useful tricks I found was having `file.remove('init.lua’)`
 ready in the clipboard and screen open, as if you do things wrong the device
 tends to reset and rerun the init script, resulting in an infinite reboot loop!
 Quickly pasting that in can stop that happening, because the file will have
-gone after the next reboot. Handy! 
+gone after the next reboot. Handy!
 
 After uploading the working script using luatool, I found that it takes about
 three seconds to connect to the wireless network and get an IP, and that then
@@ -236,13 +236,13 @@ seconds.
 # Wrap up
 
 Anyway, now I have this running I need to play about and work out what else to
-do with it! I’m thinking of adding a 
+do with it! I’m thinking of adding a
 [PowerSwitch Tail](http://www.powerswitchtail.com/Pages/default.aspx) and using it
 as a thermostat, by subscribing to MQTT data, so watch this space!
 
 I also mentioned the need for IoT security, so I'll be looking into adding
 credentials to my MQTT broker as well as configuring SSL. This should mean all
-my temperature data is encrypted in transit, and that without authentication it 
+my temperature data is encrypted in transit, and that without authentication it
 won't be possible to write evil temperature values to the broker. This could be
 particularly important if I use it as a remote thermostat!
 

@@ -15,4 +15,3 @@ It's funny that the USB UART I used cost considerably more than the devices!
 Of course these switches don't have any sort of earth passthrough, so I guess I'll need to add something if I want to use them with almost anything useful.
 
 Also, the firmware I used was Tasmota ( [https://github.com/arendst/Sonoff-Tasmota/](https://github.com/arendst/Sonoff-Tasmota/)) which supports other cool things like MQTT as well as Belkin emulation.
-

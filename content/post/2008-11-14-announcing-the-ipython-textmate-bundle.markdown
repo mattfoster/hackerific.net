@@ -15,16 +15,16 @@ After being shown the huge potential of mixing [TextMate](http://macromates.com/
 
 Current features in the bundle are mostly related to interaction with IPython in a Terminal (specifically `Terminal.app`), and make use of applescript, and include:
 
- * running the current file in IPython 
+ * running the current file in IPython
  * running the current line / selection in IPython
  * running the current file / selection / line in IPython with the profiler enabled
  * toggling the state of the debugger (setting this to `ON` will switch into the debugger when an exception occurs)
  * entering the debugger
- * adding breakpoints to the current file 
+ * adding breakpoints to the current file
  * removing those breakpoints
  * growl notification of salient points
  * rudimentary syntax highlighting of `ipythonrc` files, including warnings about broken comments (you can't have a directive and a comment on the same line)
- * commands for editing the `ipythonrc` file and `.ipython` directory 
+ * commands for editing the `ipythonrc` file and `.ipython` directory
  * built in help
 
 Most of these functions are accessed by pressing (⌃⇧I), which gives you a list from which you can select the item you wish to activate. This is similar to the Git / Svn bundles. This means you need only remember one shortcut.

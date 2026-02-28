@@ -31,7 +31,7 @@ I heartily recommend from Bash to Z Shell, hence the following affiliate link:
 Firefox
 -------
 
-My browser of necessity is Firefox. I've seen several posts about Firefox being left behind by newer browsers, like Chrome and Safari. Whilst this is true with regards to many things, look and feel in particular. I'm hoping that Firefox 3.5 will improve the javascript side of things: 3.1b3 is already considerably faster that 3.0.7. 
+My browser of necessity is Firefox. I've seen several posts about Firefox being left behind by newer browsers, like Chrome and Safari. Whilst this is true with regards to many things, look and feel in particular. I'm hoping that Firefox 3.5 will improve the javascript side of things: 3.1b3 is already considerably faster that 3.0.7.
 
 The killer firefox feature is, of course, extensions. The extensions I can't live without are:
 
@@ -61,7 +61,7 @@ It pays to be paranoid. Little Snitch lets you set custom blocking rules. The pr
 Other Stuff and Conclusions
 ---------------------------
 
-I snapped my menu bar so you can see other things I use. 
+I snapped my menu bar so you can see other things I use.
 <a href="http://images.hackerific.net/snaps/Menubar-annotated.png"><img src="http://images.hackerific.net/snaps/Menubar-annotated.png" alt="Menubar-annotated"/></a>
 
 I used [Little Snapper](http://www.realmacsoftware.com/littlesnapper/ "LittleSnapper - Screen and Web Snapping for Mac OS X Leopard"), which was in MacHeist, and appears to be fiarly similar, it is actually pretty damn cool, but not as fluffy as skitch! It can upload to sites via SFTP, which I how I included this.
@@ -69,4 +69,3 @@ I used [Little Snapper](http://www.realmacsoftware.com/littlesnapper/ "LittleSna
 I got [Coversutra](http://www.sophiestication.com/coversutra/ "CoverSutra at Sophiestication Software") in a previous heist, and I'm completely addicted to it, which is why I haven't let LaunchBar take over.
 
 [Twitterrific](http://iconfactory.com/software/twitterrific "Iconfactory : Software : Twitterrific") is another must. It's unobtrustive, and help make twitter what it should be -- there's no point in reading peoples tweet 9 hours after they happened! EventBox is an interesting alternative, but I still find Twitterrific more slick (for now).
-

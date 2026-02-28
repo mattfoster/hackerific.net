@@ -37,7 +37,7 @@ repositories would be remote, and so I just needed to write some systemd units
 and add some health monitoring. I'm a big believer in paying for important
 things I can't easily do better myself, and borgbase is a bargain.
 
-### Units 
+### Units
 
 systemd's units are the main reason I like using it. As someone who has written
 their fair share of init scripts over the years I really appreciate the
@@ -81,7 +81,7 @@ include in my backup. I'll explain the `%d` parts below:
 
 While researching this project, most articles I found about setting this up
 used convoluted scripts or environment variables to pass the repo and password
-to restic, even the [Arch Wiki](https://wiki.archlinux.org/title/Restic#Systemd_service) 
+to restic, even the [Arch Wiki](https://wiki.archlinux.org/title/Restic#Systemd_service)
 but I'd been eyeing up `systemd-creds` for a while and knew there was a better
 way using that. `systemd-creds` is specifically designed to pass credentials to
 units, via files, and restic's support for files containing these meant it was
@@ -101,7 +101,7 @@ partial
 -subsystem
 ```
 
-As with the rest of the systemd project, the [man page](https://www.freedesktop.org/software/systemd/man/latest/systemd-creds.html) is great, and full of examples. 
+As with the rest of the systemd project, the [man page](https://www.freedesktop.org/software/systemd/man/latest/systemd-creds.html) is great, and full of examples.
 
 I used:
 
@@ -124,10 +124,10 @@ satisfied myself it worked and moved on to looking at health checks.
 ### Monitoring
 
 Having a cron (systemd timer) is great but at some point something will break,
-and it would be great to know when that happened. To get around this I decided to look at 
+and it would be great to know when that happened. To get around this I decided to look at
 [healthchecks.io](https://healthchecks.io/), a system which you can configure
 to generate warnings if a certain amount of time happens without an alert. This
-is a great (and free) service that's worth a look. 
+is a great (and free) service that's worth a look.
 
 I found [this great blog
 post](https://passbe.com/2022/healthchecks-io-systemd-checks/) which describes

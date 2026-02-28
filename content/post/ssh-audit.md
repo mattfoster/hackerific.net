@@ -74,4 +74,3 @@ I find this sort of fingerprinting behaviour fascinating, and can really appreci
 SSH Audit is a fascinating piece of software which could help you both harden your SSH services and see how you might go about implementing behaviour based fingerprinting of SSH services.
 It currently supports libSSH, OpenSSH and Dropbear.
 Check it out.
-

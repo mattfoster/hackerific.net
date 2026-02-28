@@ -9,4 +9,3 @@ The thunder is rolling in my bit of IO81. Time to unplug!
 
 
 ![Lightning maps showing some of the south west of England.](11303.png)
-

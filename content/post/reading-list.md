@@ -9,17 +9,17 @@ type: post
 ---
 
 This isn't strictly a reading list, because it's about books I've already read,
-but it's a list of reading! 
+but it's a list of reading!
 
 As part of my effort to more regularly blog this year I've found myself
 straying from purely techy topics into the realms of the more personal, and as
 part of that I've been covering one of my most favourite things in the world.
-Music. This was originally a back-burner topic, but then when I wrote my 
+Music. This was originally a back-burner topic, but then when I wrote my
 [2015 Roundup](https://hackerific.net/2016/01/14/music-2015/) I enjoyed it, so
 I've decided to make it regular.
 
 Now, I'm slightly behind my weekly blogging schedule, so I think it's time to
-pull out another one of those back-burner topics, and this one is books. 
+pull out another one of those back-burner topics, and this one is books.
 
 ## Background
 
@@ -27,13 +27,13 @@ Back in my undergrad years I didn't ever feel like I had time to read fiction,
 and so I pretty much limited myself to reading textbooks and technical stuff,
 but then, when I finished my first degree I decided (with encouragement from my
 girlfriend) to make reading part of my daily routine, and for want of somewhere
-to start I decided to focus on science fiction. 
+to start I decided to focus on science fiction.
 
 Turns out this was one of the best decisions ever!
 
 Since then, I've read voraciously, pretty much every day. I'm fairly sure
 it's changed the way I think, and largely replaced the imagination I lost
-during my engineering degree(!). While I started off with classics, like 
+during my engineering degree(!). While I started off with classics, like
 [Dune](http://www.amazon.co.uk/Dune-Frank-Herbert/dp/0340960191/ref=sr_1_1?ie=UTF8&qid=1460569338&sr=8-1&keywords=dune),
 and the Ringworld books, I quickly moved onto more modern books, which I tend
 to prefer. In this post I want to write about a few of my favourite books, most
@@ -46,14 +46,14 @@ nerdy old SciFi. So, in no particular order...
 
 ## Doomsday Book - Connie Willis
 
-I think this might be one of the most emotionally involving books I've ever read. 
+I think this might be one of the most emotionally involving books I've ever read.
 It's about time travelling history student who is accidentally transported
-right into the English countryside during the plague, where she gets stuck. 
+right into the English countryside during the plague, where she gets stuck.
 
 Over the course of the story, the protagonist, Kivrin, struggles to help those
-around her as the plague rages on, and you really feel as though you could be there. 
+around her as the plague rages on, and you really feel as though you could be there.
 
-[This book](https://www.worldswithoutend.com/novel.asp?id=52) won a lot of awards, 
+[This book](https://www.worldswithoutend.com/novel.asp?id=52) won a lot of awards,
 and if you read it it's easy to see why.
 
 * On [Amazon](http://www.amazon.co.uk/gp/product/0553562738)
@@ -74,7 +74,7 @@ I often find short stories unsatisfying, but this might be too much to cope
 with if it were any longer. Stross captures the essence of Lovecraft here, but
 then turns it up a few notches by literally describing the indescribable horrors.
 
-I really love this story, but I'd recommend you read all of 
+I really love this story, but I'd recommend you read all of
 [The Laundry Files](https://www.worldswithoutend.com/searchwwe.asp?st=The+Laundry+Files&t=1&at=All&gid=0&ys=0&ye=9999)
 series in order, rather than just skipping straight to this one. The series one
 of my favourites, with likable characters and a cool mythology in which certain
@@ -101,7 +101,7 @@ much. Still they're all worth checking out.
 I love Gibson's [Bridge Trilogy](https://www.worldswithoutend.com/searchwwe.asp?st=The+Bridge+Trilogy&t=1&at=All&gid=0&ys=0&ye=9999)
 because it's brimming with ideas about the future. It's hard to pick just one
 of the three to mention here, so read them all, they all make you feel as though
-you're glimpsing something absolutely massive. 
+you're glimpsing something absolutely massive.
 
 * On [Amazon](http://www.amazon.co.uk/Idoru-William-Gibson-ebook/dp/B002RI9YG4)
 * On [Worlds Without End](https://www.worldswithoutend.com/novel.asp?id=1436)
@@ -141,7 +141,7 @@ the whole series is one of my favourites.
 * On [Amazon](http://www.amazon.co.uk/Absolution-Gap-Alastair-Reynolds/dp/0575083166)
 * On [Worlds Without End](https://www.worldswithoutend.com/novel.asp?id=1105)
 
-## The Memory of Sky - Robert Reed 
+## The Memory of Sky - Robert Reed
 
 This is a strangely compelling book about weird boy who goes on an epic
 journey. I only found out after reading this that it's actually part of a
@@ -163,12 +163,12 @@ books really enjoyable, and one of my favourite series.
 * On [Amazon](http://www.amazon.co.uk/Matter-Culture-Book-IAIN-BANKS-ebook/dp/B002TXZQUK)
 * On [Worlds Without End](https://www.worldswithoutend.com/novel.asp?id=1231)
 
-## The End! 
+## The End!
 
 I could go on and on, and I have! Instead of going on more, I'll just say that
 a lot of my favourite books end up on awards lists. If you're looking for good
-things to read, you could do much worse than having a look at the 
-[Locus Science Fiction Award](https://www.worldswithoutend.com/books_locus-sf_index.asp) 
+things to read, you could do much worse than having a look at the
+[Locus Science Fiction Award](https://www.worldswithoutend.com/books_locus-sf_index.asp)
 winners and shortlists. I tend to find its contents more enjoyable (and maybe
 less controversial) than the [Hugo](https://www.worldswithoutend.com/books_hugo_index.asp)
 award, although both are great ways to discover new books.

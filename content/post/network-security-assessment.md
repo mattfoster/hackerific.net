@@ -33,8 +33,7 @@ All of these things are fairly simple concepts, but having them all presented in
 Some things I really hope to see covered include:
 
 * Assessing VPN security (this is in the chapter list, so I'm looking forward to it), including IKE stuff and OpenVPN etc.
-* Assessing SSH. It's pretty hard to find good advice on what's considered secure these days with SSH. For example, there are plenty of posts on upgrading keys and disabling certain HMACS (MD5, anyone), but I've not seen any concrete advice on what can realistically be attacked. 
+* Assessing SSH. It's pretty hard to find good advice on what's considered secure these days with SSH. For example, there are plenty of posts on upgrading keys and disabling certain HMACS (MD5, anyone), but I've not seen any concrete advice on what can realistically be attacked.
 * Testing HTTP/2 services. This is still pretty new, but a lot of software now supports HTTP/2, so people need to test it!
 
-But actually they'll all make for interesting blog posts, so watch this space. 
-
+But actually they'll all make for interesting blog posts, so watch this space.

@@ -9,4 +9,3 @@ Great fun and very successful - highly recommended if you have geeky friends! :a
 
 
 ![Round PCB with a picture of an octopus in a top hat. There are 12 LEDs around the arms.](113669840727228733.png)
-

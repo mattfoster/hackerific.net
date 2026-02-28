@@ -19,7 +19,7 @@ turn my big wire into something workable I use an ATU (antenna tuner unit). ATUs
 work by matching the impedance of your antenna system to the impedance of your
 radio, optimising power transfer and letting you transmit without blowing your
 radio up or causing its level control circuits to reduce your transmit power to
-nothing. Unfortunately, in March 2018, my ATU (an 
+nothing. Unfortunately, in March 2018, my ATU (an
 [MFJ-974HB balanced line tuner](http://www.mfjenterprises.com/Product.php?productid=MFJ-974HB))
 died, so I was *forced* to mend it. Luckily for me, this turned out to be a
 fairly simple task. This post documents the process on the off-chance it might
@@ -38,7 +38,7 @@ noticed that as I tried to tune up the SWR meter's needles were bouncing about
 and there was a faint glow behind the panel. I was totally unable to get a
 usable match, and I realised that the glow was probably arcing behind the front
 panel so I took the cover off to have a look and found a burn mark on the top
-of the rear wafer part of the inductor's rotary switch. 
+of the rear wafer part of the inductor's rotary switch.
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5822.jpg)
 
@@ -87,7 +87,7 @@ part of the switch (the wafer), and each tab is connected to a different tap on
 the coil. The `L` tab is connected to the base of the coil, which is also the
 common tab on the switch, and the `A` tab is connected to the top. This mean
 that in the `L` position the switch is effectively connected to the bottom of
-the coil twice. 
+the coil twice.
 
 I looked on the [RS](https://www.rswww.com) and
 [Farnell](https://uk.farnell.com) websites for suitable replacements and an
@@ -111,8 +111,8 @@ To solve this issue, I ended up modifying the switch mechanism, by:
 1. Removing the nuts from the bottom of the two screws, and taking them and all of the bits and pieces out.
 2. Carefully separating the top mechanism and wafer, and putting the wafer aside in order to concentrate on the top part.
 3. Gently easing the circlip off the top of the switch in order to allow the ball race to disconnect from the shaft (while being careful not to lose the balls).
-4. Using some pliers to remove the inner tab which stops the switch from turning 360 degrees. I just bent it back and forward until it snapped off. 
-5. Reversing the above steps to put it back together. 
+4. Using some pliers to remove the inner tab which stops the switch from turning 360 degrees. I just bent it back and forward until it snapped off.
+5. Reversing the above steps to put it back together.
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5826.jpg)
 
@@ -131,30 +131,30 @@ it back together.
 ## Removing the coil and switch
 
 By the end of this stage you'll have removed the very middle of the ATU. That
-is, the main coil and rotary switch. This part is fiddly, but not complicated. 
+is, the main coil and rotary switch. This part is fiddly, but not complicated.
 
 * First, remove the screws holding the top panel in place, there are 8 in all, two on top and three on each side. The remove the top.
 * Next, remove the outside (capacitance) knobs by using a `5/64"` hex key to loosen the grub screws opposite the indicator lines. Then take the knobs off. I didn't try metric hex keys because MFJ is an American company.
 * Now, turn the unit over and undo the two larger screws from the base. These connect the large white square of PCB material to the base. These two screws have flat bases (no self tapping spikes). Flip the unit back over carefully.
 * Use a `7/64"` hex key to loosen the black grub screw holding the nylon shaft to the rotary switch, then pull the knob and extension forward to disconnect it from the switch.
 * Now, take a hot soldering iron and solder sucker and disconnect the two tinned wire sections from the banana plugs on the back. This should leave the four large capacitors, big white square and coil assembly free to move back and forward.
-* Gently ease these (the capacitors and coils with their PCB) out of the box so you can get to the top and bottom by rotating it. You could remove the coax from the capacitors if necessary, but I left it in place. 
-* Now desolder the wires from which connect the two capacitors to the coil and switch. There are two (top and bottom) the bottom one may be looped over the capacitor wire, so use a sucker and pliers to remove it. 
+* Gently ease these (the capacitors and coils with their PCB) out of the box so you can get to the top and bottom by rotating it. You could remove the coax from the capacitors if necessary, but I left it in place.
+* Now desolder the wires from which connect the two capacitors to the coil and switch. There are two (top and bottom) the bottom one may be looped over the capacitor wire, so use a sucker and pliers to remove it.
 * For the last part of this stage, loosen the nut holding the rotary switch in place to allow the coils and switch to be pulled out of the back of the PCB and free from the capacitors.
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5808.jpg)
 
-This should leave you with the coil and switch nicely disconnected from the rest of the unit and ready for switch replacement! 
+This should leave you with the coil and switch nicely disconnected from the rest of the unit and ready for switch replacement!
 
 ## Replacing the switch
 
 In this next stage you are going to remove the old switch and replace it with
-the new one. 
+the new one.
 
 To do this, use a hot soldering iron and solder sucker to gradually remove all of the
 solder from the tabs on the switch's wafer. This might take a while, but you
 should be able to get it to a state where you can pull the switch from the coil
-fairly easily. 
+fairly easily.
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5817.jpg)
 
@@ -163,7 +163,7 @@ can turn up then I would recommend doing that.
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5822.jpg)
 
-Now, it's time to switch the switch. 
+Now, it's time to switch the switch.
 
 Replacing the switch is similarly simple. Place the wafer in the same
 orientation as the old one, and route the wires from the inductor through the
@@ -185,7 +185,7 @@ then yours might be ceramic instead.
 
 Finally, it's time to put the thing back together and check it works. To do
 this, reverse the steps I gave above, but note that this time you might need to
-trim the nylon shaft extension which connects to the rotary switch. 
+trim the nylon shaft extension which connects to the rotary switch.
 
 When fitting the knobs onto the capacitors it is worth knowing that the
 capacitors are at their `0` positions when the vanes are totally overlapping.
@@ -193,7 +193,7 @@ You can easily rotate the vanes by hand to put them into position before you
 replace their knobs.
 
 Another thing to note is that when you replace the knobs you should not put
-them too close to the chassis of the ATU as they'll rub on the front. 
+them too close to the chassis of the ATU as they'll rub on the front.
 
 Once you have tightened everything up and checked everything is back together
 you can test the ATU works as before. To start with, I dropped my rig's power
@@ -207,17 +207,10 @@ together, and did it again. Listening carefully for arcing, I noticed that
 characteristic fizzing sound, along with the SWR bouncing about again, so I
 disconnected everything, took the top off again and moved some of the wires on
 the back of the wafer apart a little. Then, I repeated the above experiments,
-and finally... Success! 
+and finally... Success!
 
 ![](https://files.hackerific.net/mfj-atu-repair/IMG_5823.jpg)
 
 Well, that's everything.  If you've read this far hopefully you were repairing
 your ATU and you found this useful! There are some more images of my repair
-process online, [here](https://files.hackerific.net/mfj-atu-repair/). 
-
-
-
-
-
-
-
+process online, [here](https://files.hackerific.net/mfj-atu-repair/).

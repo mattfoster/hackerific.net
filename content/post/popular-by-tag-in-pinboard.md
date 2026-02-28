@@ -31,7 +31,7 @@ and OSX is:
 
 > https://pinboard.in/popular/t:osx/
 
-Although presumably people will start using macOS soon! 
+Although presumably people will start using macOS soon!
 
 You'll probably have noticed the tag prefix (`t:`) elsewhere in pinboard as
 well, such as after usernames (which are prefixed with `u:`), and so I suppose

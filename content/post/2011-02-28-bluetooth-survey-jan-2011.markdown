@@ -24,9 +24,9 @@ First, like last year, here's a graph showing the frequency of different manufac
 ![Bluetooth Manufacturer Frequencies](/images/posts/jan2011_by_manufacturer.png)
 
 Once again, Nokia, Samsung and Sony Ericsson are top, but this year sees RIM
-jump in popularity to fourth place (from seventh). 
+jump in popularity to fourth place (from seventh).
 
-Perhaps the most interesting addition to this year's graph is 'Contintenal 
+Perhaps the most interesting addition to this year's graph is 'Contintenal
 Automotive Systems', if I'm correct, these are bluetooth tyre pressure sensors
 which allow remote inquiries!
 
@@ -37,7 +37,7 @@ proportion of 'smart' phones and hands free devices has increased.
 
 Finally, since this years' data contains lots of timestamps, I decided to
 create a time series, showing which classes were visible at any given time.
-Here's a time series I made by binning the results into 30 minute intervals, 
+Here's a time series I made by binning the results into 30 minute intervals,
 and plotting them as a stacked area graph:
 
 ![Bluetooth Class Frequencies](/images/posts/jan2011_class_time_series.png)

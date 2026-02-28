@@ -10,7 +10,7 @@
         {{- if $i }}, {{ end }}
             {
                 "title": "{{ .Title }}",
-                "date_published": "{{ .Date }}",                 
+                "date_published": "{{ .Date }}",
                 {{- if isset .Params "link" }}
                 "external-link": "{{ .Params.link }}",
                 {{- end }}

@@ -7,4 +7,3 @@ Surprised the RSGB aren't already on this... See: [https://www.rsgbshop.org/acat
 
 
 ![](5704.png)
-
