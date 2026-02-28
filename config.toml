@@ -9,7 +9,7 @@ enableEmoji  = true
 ignoreLogs = ['warning-goldmark-raw-html']
 
 [ pagination ]
-    pagetSize = 10
+    pagerSize = 10
     Path = "page"
 
 [permalinks]
@@ -24,7 +24,11 @@ ignoreLogs = ['warning-goldmark-raw-html']
     email = "mpf@hackerific.net"
 
 [outputs]
-    home = [ "HTML", "JSON", "RSS"]
+    home = ["HTML", "JSON", "RSS"]
+    section = ["HTML", "RSS"]
+    taxonomy = ["HTML"]
+    term = ["HTML"]
+    page = ["HTML"]
 
 #
 # All parameters below here are optional and can be mixed and matched.
@@ -53,7 +57,7 @@ ignoreLogs = ['warning-goldmark-raw-html']
     # lastfm = "mattfoster"
     callsign = "M0PUH"
     mastodonid = "@m0puh"
-    qrzid = "M0PUUH"
+    qrzid = "M0PUH"
 
     rss = true
 
@@ -62,12 +66,3 @@ ignoreLogs = ['warning-goldmark-raw-html']
     logo = "/images/logo-red.svg"
 
     mainsections = ["post"]
-
-[blackfriday]
-    angledQuotes = false
-    fractions = false
-    hrefTargetBlank = false
-    latexDashes = true
-    plainIdAnchors = true
-    extensions = []
-    extensionmask = []

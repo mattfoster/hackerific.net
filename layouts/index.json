@@ -6,7 +6,7 @@
     "description": "{{ .Site.Params.description }}",
     "author": { "name": "{{ .Site.Params.author }}" },
     "items": [
-    {{- range $i, $e := first 10 .Site.Pages }}
+    {{- range $i, $e := first 10 (where .Site.RegularPages "Section" "in" .Site.Params.mainsections) }}
         {{- if $i }}, {{ end }}
             {
                 "title": "{{ .Title }}",
