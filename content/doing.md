@@ -16,7 +16,8 @@ I've either done or started.
 
 ### Fiction
 
-* Reading: [Dead Astronauts](https://openlibrary.org/works/OL20605856W/Dead_Astronauts) by [Jeff VanderMeer][JV]
+* Reading: [The Man Who Saw Seconds](https://openlibrary.org/works/OL37568421W/Man_Who_Saw_Seconds) by [Alexander Boldizar][AB]
+* Read: [Dead Astronauts](https://openlibrary.org/works/OL20605856W/Dead_Astronauts) by [Jeff VanderMeer][JV]
 * Read: The Shattering Peace by [John Scalzi][JS]
 * Read: The Archimedes Engine by [Peter F. Hamilton][PFH]
 
@@ -25,6 +26,10 @@ I've either done or started.
 * The Broken Oar - WEFT
 * Normal Isn't - Puscifer
 * CONFLICT DLC - HEALTH
+
+### Learning
+
+* [Amp Agent Skills](https://ampcode.com/manual#agent-skills)
 
 ## January 2026
 
@@ -215,6 +220,7 @@ I've tried to list them in reverse chronological order.
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+[AB]: https://openlibrary.org/authors/OL8623485A/Alexander_Boldizar
 [AR]: https://www.alastairreynolds.com/
 [AT]: https://openlibrary.org/authors/OL10838244A/Adrian_Tchaikovsky
 [BA]: https://openlibrary.org/authors/OL2702374A/Ben_Aaronovitch
