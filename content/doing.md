@@ -12,11 +12,17 @@ mainly in case I find it interesting later.
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
 
+## March 2026
+
+### Fiction
+
+* Reading: [Three Men in a Boat](https://openlibrary.org/works/OL15066012W/Three_Men_in_a_Boat) by [Jerome K. Jerome][JKJ]
+
 ## February 2026
 
 ### Fiction
 
-* Reading: [The Man Who Saw Seconds](https://openlibrary.org/works/OL37568421W/Man_Who_Saw_Seconds) by [Alexander Boldizar][AB]
+* Read: [The Man Who Saw Seconds](https://openlibrary.org/works/OL37568421W/Man_Who_Saw_Seconds) by [Alexander Boldizar][AB]
 * Read: [Dead Astronauts](https://openlibrary.org/works/OL20605856W/Dead_Astronauts) by [Jeff VanderMeer][JV]
 * Read: The Shattering Peace by [John Scalzi][JS]
 * Read: The Archimedes Engine by [Peter F. Hamilton][PFH]
@@ -235,6 +241,7 @@ I've tried to list them in reverse chronological order.
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
 [IG]: http://www.ianthegreen.com/
 [JC]: https://www.johnconnollybooks.com/
+[JKJ]: https://openlibrary.org/authors/OL215610A/Jerome_K._Jerome
 [JSAC]: https://openlibrary.org/authors/OL6982995A/James_S._A._Corey
 [JS]: https://whatever.scalzi.com/
 [JV]: https://openlibrary.org/authors/OL359235A/Jeff_VanderMeer
