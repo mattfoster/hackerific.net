@@ -16,7 +16,8 @@ I've either done or started.
 
 ### Fiction
 
-* Reading: [Three Men in a Boat](https://openlibrary.org/works/OL15066012W/Three_Men_in_a_Boat) by [Jerome K. Jerome][JKJ]
+* Reading: A Guardian and a Thief by [Megha Majumdar][MM]
+* Read: [Three Men in a Boat](https://openlibrary.org/works/OL15066012W/Three_Men_in_a_Boat) by [Jerome K. Jerome][JKJ]
 
 ## February 2026
 
@@ -251,6 +252,7 @@ I've tried to list them in reverse chronological order.
 [KSR]: https://openlibrary.org/authors/OL19986A/Kim_Stanley_Robinson
 [MA]: https://openlibrary.org/authors/OL7339495A/Madeline_Ashby
 [MEO]: https://www.meganokeefe.com/
+[MM]: https://openlibrary.org/authors/OL7905235A/Megha_Majumdar
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
