@@ -16,7 +16,8 @@ I've either done or started.
 
 ### Fiction
 
-* Reading: A Guardian and a Thief by [Megha Majumdar][MM]
+* Reading: [Agent to the Stars](https://openlibrary.org/works/OL5734643W) by [John Scalzi][JS]
+* Read: A Guardian and a Thief by [Megha Majumdar][MM]
 * Read: [Three Men in a Boat](https://openlibrary.org/works/OL15066012W/Three_Men_in_a_Boat) by [Jerome K. Jerome][JKJ]
 
 ## February 2026
