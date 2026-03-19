@@ -196,6 +196,7 @@ I've tried to list them in reverse chronological order.
 * Read: Glass Houses by [Madeline Ashby][MA]
 * Read: [Alien Clay](https://openlibrary.org/works/OL37568895W/Alien_Clay) by [Adrian Tchaikovsky][AT]
 * Read: [Service Model](https://openlibrary.org/works/OL37576633W/Service_Model) by [Adrian Tchaikovsky][AT]
+* Reading: Lake of Souls by [Ann Leckie][AL]
 * Listened: [The Gold Coast](https://openlibrary.org/works/OL81663W/The_Gold_Coast) by [Kim Stanley Robinson][KSR]
 * Listened: [The Wild Shore](https://openlibrary.org/works/OL81666W/The_Wild_Shore) by [Kim Stanley Robinson][KSR]
 * Listened: [The Book of Elsewhere](https://openlibrary.org/works/OL37623744W/The_Book_of_Elsewhere) by [Keanu Reeves][KR] and [China Miéville][CM]
@@ -203,12 +204,338 @@ I've tried to list them in reverse chronological order.
 
 ### Non-fiction
 
+* Read: How to Take Smart Notes by [Sönke Ahrens][SA]
 * Reading: The Business-Minded CISO by Bryan C. Kissinger
 * Still Reading: CISSP Official Study Guide
 
 ### Learning
 
 * [MacSparky OmniFocus Field Guide](https://learn.macsparky.com/p/of4-standard)
+
+## September 2024
+
+* Read: The Mercy of Gods by [James S. A. Corey][JSAC]
+* Read: Glass Houses by [Madeline Ashby][MA]
+* Read: Some Desperate Glory by [Emily Tesh][ET]
+
+## August 2024
+
+* Read: Alien Clay by [Adrian Tchaikovsky][AT]
+* Read: Family Matters by [Peter F. Hamilton][PFH]
+* Read: Service Model by [Adrian Tchaikovsky][AT]
+
+## July 2024
+
+* Read: The City in the Middle of the Night by [Charlie Jane Anders][CJA]
+* Read: Chaos Vector by [Megan E. O'Keefe][MEO]
+
+## June 2024
+
+* Read: Elysium Fire by [Alastair Reynolds][AR]
+
+## May 2024
+
+* Read: Machine Vendetta by [Alastair Reynolds][AR]
+
+## April 2024
+
+* Read: Blade by [Linda Nagata][LN]
+
+## March 2024
+
+* Read: Velocity Weapon by [Megan E. O'Keefe][MEO]
+
+## February 2024
+
+* Read: The Terraformers by [Annalee Newitz][AN]
+* Read: This is How You Lose the Time War by [Amal El-Mohtar][AE]
+
+## January 2024
+
+* Read: System Collapse by [Martha Wells][MW]
+
+## December 2023
+
+### Fiction
+
+* Read: Salvation Lost by [Peter F. Hamilton][PFH]
+* Read: The Saints of Salvation by [Peter F. Hamilton][PFH]
+
+### Non-fiction
+
+* Read: Mountains of the Mind by [Robert Macfarlane][RM]
+
+## October 2023
+
+* Read: Salvation by [Peter F. Hamilton][PFH]
+* Read: Snow Crash by [Neal Stephenson][NS]
+
+## September 2023
+
+* Read: Translation State by [Ann Leckie][AL]
+* Read: Venomous Lumpsucker by [Ned Beauman][NB]
+* Read: Provenance by [Ann Leckie][AL]
+
+## August 2023
+
+* Read: Beyond the Hallowed Sky by [Ken MacLeod][KM]
+* Read: Beyond the Reach of Earth by [Ken MacLeod][KM]
+* Read: How High We Go in the Dark by [Sequoia Nagamatsu][SN]
+* Read: Falling Bodies by [Rebecca Roanhorse][RR]
+* Read: How It Unfolds by [James S. A. Corey][JSAC]
+* Read: The Long Game by [Ann Leckie][AL]
+* Read: Void by [Veronica Roth][VR]
+* Read: Just Out of Jupiter's Reach by [Nnedi Okorafor][NO]
+
+## July 2023
+
+* Read: Lords of Uncreation by [Adrian Tchaikovsky][AT]
+
+## June 2023
+
+* Read: Season of Skulls by [Charles Stross][CS]
+
+## May 2023
+
+* Read: Descendant Machine by [Gareth L. Powell][GP]
+* Read: Terminal World by [Alastair Reynolds][AR]
+
+## April 2023
+
+* Read: Deception Well by [Linda Nagata][LN]
+* Read: Vast by [Linda Nagata][LN]
+
+## March 2023
+
+* Read: Needle by [Linda Nagata][LN]
+* Read: The Bohr Maker by [Linda Nagata][LN]
+
+## February 2023
+
+* Read: Silver by [Linda Nagata][LN]
+
+## January 2023
+
+* Read: Edges by [Linda Nagata][LN]
+* Read: Anathem by [Neal Stephenson][NS]
+* Read: Reamde by [Neal Stephenson][NS]
+
+## December 2022
+
+* Read: The World We Make by [N. K. Jemisin][NKJ]
+
+## November 2022
+
+* Read: The Spare Man by [Mary Robinette Kowal][MRK]
+
+## October 2022
+
+* Read: The Last Graduate by [Naomi Novik][NN]
+* Read: The Golden Enclaves by [Naomi Novik][NN]
+* Read: Light Chaser by [Peter F. Hamilton][PFH]
+
+## September 2022
+
+* Read: Eversion by [Alastair Reynolds][AR]
+* Read: Elder Race by [Adrian Tchaikovsky][AT]
+
+## August 2022
+
+* Read: A Prayer for the Crown-Shy by [Becky Chambers][BC]
+* Read: The Furies by [John Connolly][JC]
+
+## July 2022
+
+* Read: Eyes of the Void by [Adrian Tchaikovsky][AT]
+* Read: Seasonal Fears by [Seanan McGuire][SM]
+* Read: Fevered Star by [Rebecca Roanhorse][RR]
+
+## April 2022
+
+* Read: The Kaiju Preservation Society by [John Scalzi][JS]
+* Read: Light From Uncommon Stars by [Ryka Aoki][RA]
+
+## March 2022
+
+* Read: Quantum of Nightmares by [Charles Stross][CS]
+* Read: World Engines: Creator by [Stephen Baxter][SBA]
+* Read: Escape from Yokai Land by [Charles Stross][CS]
+* Read: Stars and Bones by [Gareth L. Powell][GP]
+
+## January 2022
+
+* Read: Invisible Sun by [Charles Stross][CS]
+* Read: Leviathan Falls by [James S. A. Corey][JSAC]
+
+## October 2021
+
+* Read: A Psalm for the Wild-Built by [Becky Chambers][BC]
+* Read: Inhibitor Phase by [Alastair Reynolds][AR]
+
+## September 2021
+
+* Read: The Nameless Ones by [John Connolly][JC]
+* Read: World Engines: Destroyer by [Stephen Baxter][SBA]
+
+## August 2021
+
+* Read: A Book of Bones by [John Connolly][JC]
+* Read: The Doors of Eden by [Adrian Tchaikovsky][AT]
+* Read: The Dirty South by [John Connolly][JC]
+
+## July 2021
+
+* Read: The Ministry for the Future by [Kim Stanley Robinson][KSR]
+* Read: The Future of Another Timeline by [Annalee Newitz][AN]
+
+## June 2021
+
+* Read: Black Sun by [Rebecca Roanhorse][RR]
+* Read: The Relentless Moon by [Mary Robinette Kowal][MRK]
+* Read: Aurora by [Kim Stanley Robinson][KSR]
+
+## May 2021
+
+* Read: The City We Became by [N. K. Jemisin][NKJ]
+* Read: Fugitive Telemetry by [Martha Wells][MW]
+* Read: Bear Head by [Adrian Tchaikovsky][AT]
+
+## April 2021
+
+* Read: A Desolation Called Peace by [Arkady Martine][AM]
+
+## March 2021
+
+* Read: Machine by [Elizabeth Bear][EB]
+
+## February 2021
+
+* Read: Ancestral Night by [Elizabeth Bear][EB]
+* Read: The Expert System's Champion by [Adrian Tchaikovsky][AT]
+* Read: Remote Control by [Nnedi Okorafor][NO]
+* Read: The Galaxy, and the Ground Within by [Becky Chambers][BC]
+
+## January 2021
+
+* Read: Semiosis by [Sue Burke][SB]
+* Read: Middlegame by [Seanan McGuire][SM]
+* Read: All the Birds in the Sky by [Charlie Jane Anders][CJA]
+
+## December 2020
+
+* Read: Dead Lies Dreaming by [Charles Stross][CS]
+
+## November 2020
+
+* Read: Hexarchate Stories by [Yoon Ha Lee][YHL]
+
+## September 2020
+
+* Read: A Game of Ghosts by [John Connolly][JC]
+* Read: The Woman in the Woods by [John Connolly][JC]
+
+## August 2020
+
+* Read: A Memory Called Empire by [Arkady Martine][AM]
+
+## July 2020
+
+* Read: Space Opera by [Catherynne M. Valente][CMV]
+* Read: Network Effect by [Martha Wells][MW]
+
+## May 2020
+
+* Read: Revelation Space by [Alastair Reynolds][AR]
+* Read: Aurora Rising by [Alastair Reynolds][AR]
+* Read: A Time of Torment by [John Connolly][JC]
+
+## April 2020
+
+* Read: The Last Emperox by [John Scalzi][JS]
+
+## March 2020
+
+* Read: Bone Silence by [Alastair Reynolds][AR]
+
+## February 2020
+
+* Read: Interference by [Sue Burke][SB]
+* Read: Light of Impossible Stars by [Gareth L. Powell][GP]
+
+## January 2020
+
+* Read: Tiamat's Wrath by [James S. A. Corey][JSAC]
+* Read: Babylon's Ashes by [James S. A. Corey][JSAC]
+
+## December 2019
+
+* Read: The Fated Sky by [Mary Robinette Kowal][MRK]
+* Read: Emergency Skin by [N. K. Jemisin][NKJ]
+* Read: Ark by [Veronica Roth][VR]
+* Read: Randomize by [Andy Weir][AW]
+* Read: You Have Arrived at Your Destination by [Amor Towles][ATO]
+* Read: The Last Conversation by [Paul Tremblay][PT]
+* Read: Summer Frost by [Blake Crouch][BCR]
+
+## November 2019
+
+* Read: The Calculating Stars by [Mary Robinette Kowal][MRK]
+* Read: To Be Taught, If Fortunate by [Becky Chambers][BC]
+* Read: Spinning Silver by [Naomi Novik][NN]
+
+## September 2019
+
+* Read: Children of Ruin by [Adrian Tchaikovsky][AT]
+* Read: Fall; or, Dodge in Hell by [Neal Stephenson][NS]
+* Read: Permafrost by [Alastair Reynolds][AR]
+* Read: Shadow Captain by [Alastair Reynolds][AR]
+* Read: Revenger by [Alastair Reynolds][AR]
+
+## June 2019
+
+* Read: Fleet of Knives by [Gareth L. Powell][GP]
+
+## May 2019
+
+* Read: Six Wakes by [Mur Lafferty][ML]
+* Read: Cage of Souls by [Adrian Tchaikovsky][AT]
+* Read: The Expert System's Brother by [Adrian Tchaikovsky][AT]
+
+## April 2019
+
+* Read: Dust by [Hugh Howey][HH]
+
+## March 2019
+
+* Read: Shift by [Hugh Howey][HH]
+
+## February 2019
+
+* Read: The Labyrinth Index by [Charles Stross][CS]
+* Read: Persepolis Rising by [James S. A. Corey][JSAC]
+
+## January 2019
+
+* Read: Revenant Gun by [Yoon Ha Lee][YHL]
+* Read: The Rise and Fall of D.O.D.O. by [Neal Stephenson][NS]
+
+## November 2018
+
+* Read: The Consuming Fire by [John Scalzi][JS]
+
+## October 2018
+
+* Read: Autonomous by [Annalee Newitz][AN]
+* Read: Record of a Spaceborn Few by [Becky Chambers][BC]
+* Read: Exit Strategy by [Martha Wells][MW]
+
+## September 2018
+
+* Read: Rogue Protocol by [Martha Wells][MW]
+
+## August 2018
+
+* Read: Head On by [John Scalzi][JS]
 
 ## Favourites
 
@@ -229,17 +556,28 @@ I've tried to list them in reverse chronological order.
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
 [AB]: https://openlibrary.org/authors/OL8623485A/Alexander_Boldizar
+[AE]: https://openlibrary.org/authors/OL7190552A/Amal_El-Mohtar
+[AL]: https://openlibrary.org/authors/OL7115219A/Ann_Leckie
+[AM]: https://openlibrary.org/authors/OL7800115A/Arkady_Martine
+[AN]: https://openlibrary.org/authors/OL1400498A/Annalee_Newitz
 [AR]: https://www.alastairreynolds.com/
 [AT]: https://openlibrary.org/authors/OL10838244A/Adrian_Tchaikovsky
+[ATO]: https://openlibrary.org/authors/OL7115828A/Amor_Towles
+[AW]: https://openlibrary.org/authors/OL7085029A/Andy_Weir
 [BA]: https://openlibrary.org/authors/OL2702374A/Ben_Aaronovitch
 [BC]: https://openlibrary.org/authors/OL7387940A/Becky_Chambers
+[BCR]: https://openlibrary.org/authors/OL1399498A/Blake_Crouch
 [BJ]: https://openlibrary.org/authors/OL10523542A/Bethany_Jacobs
 [CB]: https://openlibrary.org/authors/OL1481445A/Chris_Beckett
+[CJA]: https://openlibrary.org/authors/OL7282951A/Charlie_Jane_Anders
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
+[CMV]: https://openlibrary.org/authors/OL1394216A/Catherynne_M._Valente
 [CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
 [CW]: https://openlibrary.org/authors/OL20934A/Connie_Willis
 [EB]: https://www.elizabethbear.com/
+[ET]: https://openlibrary.org/authors/OL9060741A/Emily_Tesh
 [GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
+[HH]: https://openlibrary.org/authors/OL7173498A/Hugh_Howey
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
 [IG]: http://www.ianthegreen.com/
 [JC]: https://www.johnconnollybooks.com/
@@ -251,16 +589,30 @@ I've tried to list them in reverse chronological order.
 [KM]: https://kenmacleod.blogspot.com/
 [KR]: https://openlibrary.org/authors/OL7472608A/Keanu_Reeves
 [KSR]: https://openlibrary.org/authors/OL19986A/Kim_Stanley_Robinson
+[LN]: https://openlibrary.org/authors/OL542030A/Linda_Nagata
 [MA]: https://openlibrary.org/authors/OL7339495A/Madeline_Ashby
 [MEO]: https://www.meganokeefe.com/
+[ML]: https://openlibrary.org/authors/OL2736513A/Mur_Lafferty
 [MM]: https://openlibrary.org/authors/OL7905235A/Megha_Majumdar
+[MRK]: https://openlibrary.org/authors/OL2676194A/Mary_Robinette_Kowal
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
+[NB]: https://openlibrary.org/authors/OL7144765A/Ned_Beauman
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
+[NKJ]: https://openlibrary.org/authors/OL2687227A/N._K._Jemisin
+[NN]: https://openlibrary.org/authors/OL1394750A/Naomi_Novik
+[NO]: https://openlibrary.org/authors/OL1394434A/Nnedi_Okorafor
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
 [PFH]: https://openlibrary.org/authors/OL218891A/Peter_F._Hamilton
+[PT]: https://openlibrary.org/authors/OL1394653A/Paul_Tremblay
+[RA]: https://openlibrary.org/authors/OL7627399A/Ryka_Aoki
 [RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
 [RR]: https://rebeccaroanhorse.com/
+[SA]: https://openlibrary.org/authors/OL8568498A/S%C3%B6nke_Ahrens
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
+[SBA]: https://openlibrary.org/authors/OL23919A/Stephen_Baxter
 [SG]: https://www.sierragreerwriter.com/
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
+[SN]: https://openlibrary.org/authors/OL7510834A/Sequoia_Nagamatsu
 [TK]: https://openlibrary.org/authors/OL7442286A/T._Kingfisher
+[VR]: https://openlibrary.org/authors/OL7115116A/Veronica_Roth
+[YHL]: https://openlibrary.org/authors/OL1394688A/Yoon_Ha_Lee
