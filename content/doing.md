@@ -64,6 +64,7 @@ I've either done or started.
 * Read: Children of Eve by [John Connolly][JC]
 * Read: Forty Signs of Rain by [Kim Stanley Robinson][KSR]
 * Listened: Shroud by [Adrian Tchaikovsky][AT]
+* Listened: The Impossible Fortune by [Richard Osman][RO]
 
 ## September 2025
 
@@ -75,6 +76,7 @@ I've either done or started.
 * Read: The Ministry of Time by [Kaliane Bradley][KB]
 * Read: Hungry Gods by [Adrian Tchaikovsky][AT]
 * Read: Rapport by [Martha Wells][MW]
+* Listening: Death of the Author by [Nnedi Okorafor][NO]
 
 ## July 2025
 
@@ -115,7 +117,8 @@ I've either done or started.
 * Read: Katalyst Gate by [Megan E O'Keefe][MEO]
 * Read: Beyond the Hallowed Sky by [Ken Macleod][KM]
 * Listened: What moves the dead by [T. Kingfisher][TK]
-* Listened: What Feeds in the Night by [T. Kingfisher][TK]
+* Listened: What Feasts at Night by [T. Kingfisher][TK]
+* Listened: A Wizard's Guide to Defensive Baking by [T. Kingfisher][TK]
 * Listened: Edgar Allan Poe complete works
 
 ### Non-fiction
@@ -201,6 +204,7 @@ I've tried to list them in reverse chronological order.
 * Listened: [The Wild Shore](https://openlibrary.org/works/OL81666W/The_Wild_Shore) by [Kim Stanley Robinson][KSR]
 * Listened: [The Book of Elsewhere](https://openlibrary.org/works/OL37623744W/The_Book_of_Elsewhere) by [Keanu Reeves][KR] and [China Miéville][CM]
 * Listened: [Red Mars](https://openlibrary.org/works/OL81665W/Red_Mars) by [Kim Stanley Robinson][KSR]
+* Listened: Fan Fiction by Brent Spiner
 
 ### Non-fiction
 
@@ -217,25 +221,29 @@ I've tried to list them in reverse chronological order.
 * Read: The Mercy of Gods by [James S. A. Corey][JSAC]
 * Read: Glass Houses by [Madeline Ashby][MA]
 * Read: Some Desperate Glory by [Emily Tesh][ET]
+* Listened: We Solve Murders by [Richard Osman][RO]
 
 ## August 2024
 
 * Read: Alien Clay by [Adrian Tchaikovsky][AT]
 * Read: Family Matters by [Peter F. Hamilton][PFH]
 * Read: Service Model by [Adrian Tchaikovsky][AT]
+* Listened: The Algebraist by [Iain M. Banks][IB]
 
 ## July 2024
 
 * Read: The City in the Middle of the Night by [Charlie Jane Anders][CJA]
 * Read: Chaos Vector by [Megan E. O'Keefe][MEO]
+* Listened: Mr. Penumbra's 24-Hour Bookstore by Robin Sloan
 
 ## June 2024
 
-* Read: Elysium Fire by [Alastair Reynolds][AR]
+* Read/Listened: Elysium Fire by [Alastair Reynolds][AR]
 
 ## May 2024
 
 * Read: Machine Vendetta by [Alastair Reynolds][AR]
+* Listened: The System of the World by [Neal Stephenson][NS]
 
 ## April 2024
 
@@ -244,11 +252,13 @@ I've tried to list them in reverse chronological order.
 ## March 2024
 
 * Read: Velocity Weapon by [Megan E. O'Keefe][MEO]
+* Listened: The Olympian Affair by Jim Butcher
 
 ## February 2024
 
 * Read: The Terraformers by [Annalee Newitz][AN]
 * Read: This is How You Lose the Time War by [Amal El-Mohtar][AE]
+* Listened: Starter Villain by [John Scalzi][JS]
 
 ## January 2024
 
@@ -265,16 +275,23 @@ I've tried to list them in reverse chronological order.
 
 * Read: Mountains of the Mind by [Robert Macfarlane][RM]
 
+## November 2023
+
+* Listened: Odalisque by [Neal Stephenson][NS]
+* Listened: King of the Vagabonds by [Neal Stephenson][NS]
+
 ## October 2023
 
 * Read: Salvation by [Peter F. Hamilton][PFH]
 * Read: Snow Crash by [Neal Stephenson][NS]
+* Listened: Quicksilver by [Neal Stephenson][NS]
 
 ## September 2023
 
 * Read: Translation State by [Ann Leckie][AL]
 * Read: Venomous Lumpsucker by [Ned Beauman][NB]
 * Read: Provenance by [Ann Leckie][AL]
+* Listened: Use of Weapons by [Iain M. Banks][IB]
 
 ## August 2023
 
@@ -286,6 +303,7 @@ I've tried to list them in reverse chronological order.
 * Read: The Long Game by [Ann Leckie][AL]
 * Read: Void by [Veronica Roth][VR]
 * Read: Just Out of Jupiter's Reach by [Nnedi Okorafor][NO]
+* Listened: Endymion by Dan Simmons
 
 ## July 2023
 
@@ -309,6 +327,8 @@ I've tried to list them in reverse chronological order.
 
 * Read: Needle by [Linda Nagata][LN]
 * Read: The Bohr Maker by [Linda Nagata][LN]
+* Listened: The Faceless Old Woman Who Secretly Lives in Your Home by Joseph Fink, Jeffrey Cranor
+* Listened: It Devours! by Joseph Fink, Jeffrey Cranor
 
 ## February 2023
 
@@ -327,12 +347,15 @@ I've tried to list them in reverse chronological order.
 ## November 2022
 
 * Read: The Spare Man by [Mary Robinette Kowal][MRK]
+* Listened: The Testaments by Margaret Atwood
+* Listened: Termination Shock by [Neal Stephenson][NS]
 
 ## October 2022
 
 * Read: The Last Graduate by [Naomi Novik][NN]
 * Read: The Golden Enclaves by [Naomi Novik][NN]
 * Read: Light Chaser by [Peter F. Hamilton][PFH]
+* Listened: Spoon-Fed by Tim Spector
 
 ## September 2022
 
@@ -343,17 +366,33 @@ I've tried to list them in reverse chronological order.
 
 * Read: A Prayer for the Crown-Shy by [Becky Chambers][BC]
 * Read: The Furies by [John Connolly][JC]
+* Listened: The Algebraist by [Iain M. Banks][IB]
+* Listened: The Clever Guts Diet by Dr. Michael Mosley
 
 ## July 2022
 
 * Read: Eyes of the Void by [Adrian Tchaikovsky][AT]
 * Read: Seasonal Fears by [Seanan McGuire][SM]
 * Read: Fevered Star by [Rebecca Roanhorse][RR]
+* Listened: Agency by William Gibson
+* Listened: The Peripheral by William Gibson
+
+## June 2022
+
+* Listened: Life Time by Russell Foster
+
+## May 2022
+
+* Listened: Surface Detail by [Iain M. Banks][IB]
+* Listened: Feersum Endjinn by [Iain M. Banks][IB]
+* Listened: Neuromancer by William Gibson
 
 ## April 2022
 
 * Read: The Kaiju Preservation Society by [John Scalzi][JS]
 * Read: Light From Uncommon Stars by [Ryka Aoki][RA]
+* Listened: Look to Windward by [Iain M. Banks][IB]
+* Listened: Matter by [Iain M. Banks][IB]
 
 ## March 2022
 
@@ -361,27 +400,50 @@ I've tried to list them in reverse chronological order.
 * Read: World Engines: Creator by [Stephen Baxter][SBA]
 * Read: Escape from Yokai Land by [Charles Stross][CS]
 * Read: Stars and Bones by [Gareth L. Powell][GP]
+* Listened: Excession by [Iain M. Banks][IB]
+* Listened: Inversions by [Iain M. Banks][IB]
+* Listened: The World Atlas of Coffee by James Hoffmann
+* Listened: Dead Beat by Jim Butcher
+
+## February 2022
+
+* Listened: The Hydrogen Sonata by [Iain M. Banks][IB]
 
 ## January 2022
 
 * Read: Invisible Sun by [Charles Stross][CS]
 * Read: Leviathan Falls by [James S. A. Corey][JSAC]
+* Listened: A Short History of Nearly Everything by Bill Bryson
+* Listened: The Player of Games by [Iain M. Banks][IB]
+
+## December 2021
+
+* Listened: Consider Phlebas by [Iain M. Banks][IB]
+* Listened: Blood Rites by Jim Butcher
+
+## November 2021
+
+* Listened: The State of the Art by [Iain M. Banks][IB]
+* Listened: Permanent Record by Edward Snowden
 
 ## October 2021
 
 * Read: A Psalm for the Wild-Built by [Becky Chambers][BC]
 * Read: Inhibitor Phase by [Alastair Reynolds][AR]
+* Listened: Mars Rover Curiosity by Rob Manning, William L. Simon
 
 ## September 2021
 
 * Read: The Nameless Ones by [John Connolly][JC]
 * Read: World Engines: Destroyer by [Stephen Baxter][SBA]
+* Listened: Spacefarers by Christopher Wanjek
 
 ## August 2021
 
 * Read: A Book of Bones by [John Connolly][JC]
 * Read: The Doors of Eden by [Adrian Tchaikovsky][AT]
 * Read: The Dirty South by [John Connolly][JC]
+* Listened: Carrying the Fire by Michael Collins
 
 ## July 2021
 
@@ -399,6 +461,8 @@ I've tried to list them in reverse chronological order.
 * Read: The City We Became by [N. K. Jemisin][NKJ]
 * Read: Fugitive Telemetry by [Martha Wells][MW]
 * Read: Bear Head by [Adrian Tchaikovsky][AT]
+* Listened: Underland by [Robert Macfarlane][RM]
+* Listened: Conquering the Electron by Derek Cheung, Eric Brach
 
 ## April 2021
 
@@ -604,6 +668,7 @@ I've tried to list them in reverse chronological order.
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
 [PFH]: https://openlibrary.org/authors/OL218891A/Peter_F._Hamilton
 [PT]: https://openlibrary.org/authors/OL1394653A/Paul_Tremblay
+[RO]: https://openlibrary.org/authors/OL7513498A/Richard_Osman
 [RA]: https://openlibrary.org/authors/OL7627399A/Ryka_Aoki
 [RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
 [RR]: https://rebeccaroanhorse.com/
