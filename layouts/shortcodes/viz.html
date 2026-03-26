@@ -1,0 +1,4 @@
+{{ $src := .Get "src" }}
+{{ $height := .Get "height" | default "600" }}
+
+<iframe src="{{ $src }}" width="100%" height="{{ $height }}" style="border: 1px solid #ccc; border-radius: 4px;" loading="lazy"></iframe>
