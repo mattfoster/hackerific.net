@@ -7,10 +7,35 @@ tags: reading, watching, listing, books, podcasts, courses
 I read a lot of fiction and try to keep learning interesting things. I also
 listen to a load of music, mainly on the darker end of the spectrum.
 Inspired by various blogs I decided to track what I've been consuming in 2025,
-mainly in case I find it interesting later.
+mainly in case I find it interesting later. Then, I discovered you can export
+[Kindle and Audible data](/2026/03/26/exploring-amazon-data-exports/), and
+merged that in too, giving a relatively decent record going back to 2018.
 
 Also see my [projects](/projects) page, which is a giant jumble of projects
 I've either done or started.
+
+## Favourites
+
+In no particular older...
+
+* [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
+* These Burning Stars by [Bethany Jacobs][BJ]
+* [The Man Who Saw Seconds](https://openlibrary.org/works/OL37568421W/Man_Who_Saw_Seconds) by [Alexander Boldizar][AB]
+* [Doomsday Book](https://openlibrary.org/works/OL14858406W/Doomsday_book) by [Connie Willis][CW]
+* The Algebraist by [Iain M Banks][IB]
+* The Expanse series by [James S. A. Corey][JSAC]
+* Revelation Space series
+* Aurora Rising series
+* Laundry Files series by [Charles Stross][CS]
+* Embers of War series by [Gareth L Powell][GP]
+* Murderbot series by [Martha Wells][MW]
+* Monk and Robot and other work by [Becky Chambers][BC]
+* New York 2140 by [Kim Stanley Robinson][KSR]
+* Borne by [Jeff VanderMeer][JV]
+* Children of Eden series by [Chris Beckett][CB]
+* Termination Shock by [Neal Stephenson][NS]
+* Rivers of London series by [Ben Aaronovich][BA]
+* Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
 ## March 2026
 
@@ -44,7 +69,7 @@ I've either done or started.
 
 * Reading: Exodus by [Peter F. Hamilton][PFH]
 * Listened: [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
-* Listening: The Old Ways by [Robert Macfarlane][RM]
+* Listened: The Old Ways by [Robert Macfarlane][RM]
 
 ## December 2025
 
@@ -602,25 +627,410 @@ I've tried to list them in reverse chronological order.
 
 * Read: Head On by [John Scalzi][JS]
 
-## Favourites
+## Earlier
 
-* [Doomsday Book](https://openlibrary.org/works/OL14858406W/Doomsday_book) by [Connie Willis][CW]
-* The Algebraist by [Iain M Banks][IB]
-* The Expanse series by [James S. A. Corey][JSAC]
-* Revelation Space series
-* Aurora Rising series
-* Laundry Files series by [Charles Stross][CS]
-* Embers of War series by [Gareth L Powell][GP]
-* Murderbot series by [Martha Wells][MW]
-* Monk and Robot and other work by [Becky Chambers][BC]
-* New York 2140 by [Kim Stanley Robinson][KSR]
-* Borne by [Jeff VanderMeer][JV]
-* Children of Eden series by [Chris Beckett][CB]
-* Termination Shock by [Neal Stephenson][NS]
-* Rivers of London series by [Ben Aaronovich][BA]
-* Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
+### [Douglas Adams][DA]
+
+* The Hitchhiker's Guide to the Galaxy
+
+### [Neal Asher][NA]
+
+* The Departure
+
+### [Isaac Asimov][IA]
+
+* Foundation
+* The Foundation Trilogy
+* Foundation's Edge
+
+### [Margaret Atwood][MAT]
+
+* The Handmaid's Tale
+* Maddaddam
+* Oryx and Crake
+* The Year of the Flood
+
+### [Paolo Bacigalupi][PB]
+
+* The Drowned Cities
+* Ship Breaker
+* The Water Knife
+* The Windup Girl
+
+### [J. G. Ballard][JGB]
+
+* The Drowned World
+
+### [Iain M. Banks][IB]
+
+* Against a Dark Background
+* The Bridge
+* Transition
+* The Wasp Factory
+
+### [Greg Bear][GB]
+
+* Hull Zero Three
+
+### [Chris Beckett][CB]
+
+* Mother of Eden
+
+### [Lauren Beukes][LB]
+
+* Zoo City
+
+### [Lois McMaster Bujold][LMB]
+
+* Shards of Honor
+
+### [Lewis Carroll][LC]
+
+* Alice's Adventures in Wonderland
+
+### [Arthur C. Clarke][ACC]
+
+* 2001: A Space Odyssey
+* 2010: Odyssey Two
+
+### [Ernest Cline][EC]
+
+* Armada
+* Ready Player One
+
+### [James S. A. Corey][JSAC]
+
+* Abaddon's Gate
+* Caliban's War
+* Leviathan Wakes
+
+### [Michael Crichton][MC]
+
+* The Andromeda Strain
+* Sphere
+
+### [Philip K. Dick][PKD]
+
+* Do Androids Dream of Electric Sheep?
+* The Man in the High Castle
+* Ubik
+
+### [Cory Doctorow][CD]
+
+* Little Brother
+
+### [Neil Gaiman][NG]
+
+* American Gods
+* Anansi Boys
+* Good Omens
+* The Graveyard Book
+* Neverwhere
+* Smoke and Mirrors
+
+### [William Gibson][WG]
+
+* All Tomorrow's Parties
+* Burning Chrome
+* Count Zero
+* The Difference Engine
+* Idoru
+* Mona Lisa Overdrive
+* Pattern Recognition
+* Spook Country
+* Virtual Light
+* Zero History
+
+### [William Golding][WGO]
+
+* Lord of the Flies
+
+### [Kate Griffin][KG]
+
+* A Madness of Angels
+
+### [Peter F. Hamilton][PFH]
+
+* Mindstar Rising
+* The Nano Flower
+* A Quantum Murder
+
+### [Thomas Harris][TH]
+
+* Hannibal
+* Red Dragon
+* The Silence of the Lambs
+
+### [Frank Herbert][FH]
+
+* Children of Dune
+* Dune
+
+### [Hermann Hesse][HHE]
+
+* The Glass Bead Game
+
+### [Hugh Howey][HH]
+
+* Wool
+
+### [Ted Hughes][THU]
+
+* The Iron Man: A Story in Five Nights
+
+### [Aldous Huxley][AH]
+
+* Brave New World
+
+### [Richard Kadrey][RK]
+
+* Aloha from Hell
+* Kill the Dead
+* Sandman Slim
+
+### [Ann Leckie][AL]
+
+* Ancillary Justice
+* Ancillary Mercy
+* Ancillary Sword
+
+### [Cixin Liu][CL]
+
+* The Dark Forest
+* The Three-Body Problem
+
+### [Karen Lord][KL]
+
+* The Best of All Possible Worlds
+
+### [H. P. Lovecraft][HPL]
+
+* The Call of Cthulhu and Other Weird Stories
+
+### [Richard Matheson][RMA]
+
+* I Am Legend
+
+### [John Meaney][JM]
+
+* Absorption
+* Transmission
+
+### [China Miéville][CM]
+
+* The City & the City
+* Kraken
+* Railsea
+* Un Lun Dun
+
+### [David Mitchell][DM]
+
+* Cloud Atlas
+
+### [Larry Niven][LNI]
+
+* Ringworld
+* The Ringworld Engineers
+
+### [George Orwell][GO]
+
+* Nineteen Eighty-Four
+
+### [Gareth L. Powell][GP]
+
+* Ack-Ack Macaque
+* Hive Monkey
+
+### [Terry Pratchett][TP]
+
+* Carpe Jugulum
+* The Color of Magic
+* Dodger
+* Equal Rites
+* Feet of Clay
+* The Fifth Elephant
+* Going Postal
+* Guards! Guards!
+* A Hat Full of Sky
+* Hogfather
+* I Shall Wear Midnight
+* Interesting Times
+* Jingo
+* The Last Continent
+* The Last Hero
+* The Light Fantastic
+* Lords and Ladies
+* Making Money
+* Maskerade
+* Men at Arms
+* Monstrous Regiment
+* Mort
+* Moving Pictures
+* Night Watch
+* Pyramids
+* Reaper Man
+* Small Gods
+* Snuff
+* Soul Music
+* Sourcery
+* Thief of Time
+* Thud!
+* The Truth
+* The Wee Free Men
+* Wintersmith
+* Witches Abroad
+* Wyrd Sisters
+
+### [Cherie Priest][CP]
+
+* Boneshaker
+
+### [Hannu Rajaniemi][HR]
+
+* The Fractal Prince
+* The Quantum Thief
+
+### [Alastair Reynolds][AR]
+
+* Absolution Gap
+* Blue Remembered Earth
+* Chasm City
+* On the Steel Breeze
+* Redemption Ark
+
+### [Kim Stanley Robinson][KSR]
+
+* 2312
+* Shaman
+
+### [J. K. Rowling][JKR]
+
+* Harry Potter and the Chamber of Secrets
+* Harry Potter and the Deathly Hallows
+* Harry Potter and the Goblet of Fire
+* Harry Potter and the Half-Blood Prince
+* Harry Potter and the Order of the Phoenix
+* Harry Potter and the Prisoner of Azkaban
+* Harry Potter and the Sorcerer's Stone
+
+### [John Scalzi][JS]
+
+* The Last Colony
+* Lock In
+* Old Man's War
+* Redshirts
+* Zoe's Tale
+
+### [Mary Shelley][MS]
+
+* Frankenstein; or, The Modern Prometheus
+
+### [Dan Simmons][DS]
+
+* The Fall of Hyperion
+* Hyperion
+
+### [Neal Stephenson][NS]
+
+* Cryptonomicon
+* The Mongoliad: Book One
+* The Mongoliad: Book Three
+* The Mongoliad: Book Two
+
+### [Robert Louis Stevenson][RLS]
+
+* The Strange Case of Dr. Jekyll and Mr. Hyde
+
+### [Bram Stoker][BS]
+
+* Dracula
+
+### [Jonathan Strahan][JST]
+
+* Engineering Infinity
+
+### [Charles Stross][CS]
+
+* Accelerando
+* The Annihilation Score
+* The Apocalypse Codex
+* The Atrocity Archives
+* The Clan Corporate
+* Equoid
+* The Family Trade
+* The Fuller Memorandum
+* Glasshouse
+* Halting State
+* The Hidden Family
+* Iron Sunrise
+* The Jennifer Morgue
+* The Merchants' War
+* Neptune's Brood
+* The Rhesus Chart
+* Rule 34
+* Saturn's Children
+* Singularity Sky
+* Wireless
+
+### [J. R. R. Tolkien][JRRT]
+
+* The Fellowship of the Ring
+* The Hobbit
+* The Lord of the Rings
+* The Two Towers
+
+### [Jeff VanderMeer][JV]
+
+* Acceptance
+* Annihilation
+* Area X: The Southern Reach Trilogy
+* Authority
+
+### [Jules Verne][JVE]
+
+* 20,000 Leagues Under the Sea
+* Journey to the Center of the Earth
+
+### [Kurt Vonnegut][KV]
+
+* Galapagos
+* The Sirens of Titan
+* Slaughterhouse-Five
+
+### [Peter Watts][PW]
+
+* Blindsight
+* Echopraxia
+
+### [Andy Weir][AW]
+
+* The Martian
+
+### [Jennifer Foehner Wells][JFW]
+
+* Fluency
+
+### [H. G. Wells][HGW]
+
+* The Time Machine
+* The Time Machine and the War of the Worlds
+* The War of the Worlds
+
+### [Connie Willis][CW]
+
+* All Clear
+* Blackout
+* Fire Watch (Collection)
+* To Say Nothing of the Dog
+
+### [Robert Charles Wilson][RCW]
+
+* Axis
+* Vortex
 
 [AB]: https://openlibrary.org/authors/OL8623485A/Alexander_Boldizar
+[ACC]: https://openlibrary.org/authors/OL121685A
+[AH]: https://openlibrary.org/authors/OL31060A
 [AE]: https://openlibrary.org/authors/OL7190552A/Amal_El-Mohtar
 [AL]: https://openlibrary.org/authors/OL7115219A/Ann_Leckie
 [AM]: https://openlibrary.org/authors/OL7800115A/Arkady_Martine
@@ -633,45 +1043,87 @@ I've tried to list them in reverse chronological order.
 [BC]: https://openlibrary.org/authors/OL7387940A/Becky_Chambers
 [BCR]: https://openlibrary.org/authors/OL1399498A/Blake_Crouch
 [BJ]: https://openlibrary.org/authors/OL10523542A/Bethany_Jacobs
+[BS]: https://openlibrary.org/authors/OL25186A
 [CB]: https://openlibrary.org/authors/OL1481445A/Chris_Beckett
+[CD]: https://openlibrary.org/authors/OL34533A
+[CL]: https://openlibrary.org/authors/OL7173498A
+[CP]: https://openlibrary.org/authors/OL1394393A
 [CJA]: https://openlibrary.org/authors/OL7282951A/Charlie_Jane_Anders
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
 [CMV]: https://openlibrary.org/authors/OL1394216A/Catherynne_M._Valente
 [CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
 [CW]: https://openlibrary.org/authors/OL20934A/Connie_Willis
+[DA]: https://openlibrary.org/authors/OL272947A
+[DM]: https://openlibrary.org/authors/OL399587A
+[DS]: https://openlibrary.org/authors/OL235668A
 [EB]: https://www.elizabethbear.com/
+[EC]: https://openlibrary.org/authors/OL6891910A
 [ET]: https://openlibrary.org/authors/OL9060741A/Emily_Tesh
+[FH]: https://openlibrary.org/authors/OL24837A
+[GB]: https://openlibrary.org/authors/OL23206A
+[GO]: https://openlibrary.org/authors/OL118077A
 [GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
+[HGW]: https://openlibrary.org/authors/OL20731A
 [HH]: https://openlibrary.org/authors/OL7173498A/Hugh_Howey
+[HHE]: https://openlibrary.org/authors/OL31570A
+[HPL]: https://openlibrary.org/authors/OL34221A
+[HR]: https://openlibrary.org/authors/OL6886729A
+[IA]: https://openlibrary.org/authors/OL34221A
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
 [IG]: http://www.ianthegreen.com/
 [JC]: https://www.johnconnollybooks.com/
+[JFW]: https://openlibrary.org/authors/OL7303832A
+[JGB]: https://openlibrary.org/authors/OL4320129A
 [JKJ]: https://openlibrary.org/authors/OL215610A/Jerome_K._Jerome
+[JKR]: https://openlibrary.org/authors/OL23919A
+[JM]: https://openlibrary.org/authors/OL1391466A
+[JRRT]: https://openlibrary.org/authors/OL26320A
 [JSAC]: https://openlibrary.org/authors/OL6982995A/James_S._A._Corey
+[JST]: https://openlibrary.org/authors/OL2774546A
+[JVE]: https://openlibrary.org/authors/OL29913A
 [JS]: https://whatever.scalzi.com/
 [JV]: https://openlibrary.org/authors/OL359235A/Jeff_VanderMeer
 [KB]: https://openlibrary.org/authors/OL13515159A/Kaliane_Bradley
+[KG]: https://openlibrary.org/authors/OL6786878A
+[KL]: https://openlibrary.org/authors/OL6985012A
 [KM]: https://kenmacleod.blogspot.com/
 [KR]: https://openlibrary.org/authors/OL7472608A/Keanu_Reeves
 [KSR]: https://openlibrary.org/authors/OL19986A/Kim_Stanley_Robinson
+[KV]: https://openlibrary.org/authors/OL20187A
+[LB]: https://openlibrary.org/authors/OL6595001A
+[LC]: https://openlibrary.org/authors/OL22098A
+[LMB]: https://openlibrary.org/authors/OL21317A
 [LN]: https://openlibrary.org/authors/OL542030A/Linda_Nagata
+[LNI]: https://openlibrary.org/authors/OL33881A
 [MA]: https://openlibrary.org/authors/OL7339495A/Madeline_Ashby
+[MAT]: https://openlibrary.org/authors/OL274779A
+[MC]: https://openlibrary.org/authors/OL232173A
 [MEO]: https://www.meganokeefe.com/
 [ML]: https://openlibrary.org/authors/OL2736513A/Mur_Lafferty
 [MM]: https://openlibrary.org/authors/OL7905235A/Megha_Majumdar
 [MRK]: https://openlibrary.org/authors/OL2676194A/Mary_Robinette_Kowal
+[MS]: https://openlibrary.org/authors/OL30337A
 [MW]: https://openlibrary.org/authors/OL221294A/Martha_Wells
+[NA]: https://openlibrary.org/authors/OL1417413A
 [NB]: https://openlibrary.org/authors/OL7144765A/Ned_Beauman
+[NG]: https://openlibrary.org/authors/OL53305A
 [NH]: https://openlibrary.org/authors/OL5086141A/Nick_Harkaway
 [NKJ]: https://openlibrary.org/authors/OL2687227A/N._K._Jemisin
 [NN]: https://openlibrary.org/authors/OL1394750A/Naomi_Novik
 [NO]: https://openlibrary.org/authors/OL1394434A/Nnedi_Okorafor
 [NS]: https://openlibrary.org/authors/OL19430A/Neal_Stephenson
+[PB]: https://openlibrary.org/authors/OL1394412A
 [PFH]: https://openlibrary.org/authors/OL218891A/Peter_F._Hamilton
+[PKD]: https://openlibrary.org/authors/OL272591A
 [PT]: https://openlibrary.org/authors/OL1394653A/Paul_Tremblay
+[PW]: https://openlibrary.org/authors/OL1394573A
 [RO]: https://openlibrary.org/authors/OL7513498A/Richard_Osman
 [RA]: https://openlibrary.org/authors/OL7627399A/Ryka_Aoki
+[RCW]: https://openlibrary.org/authors/OL31564A
+[RK]: https://openlibrary.org/authors/OL1531A
+[RLS]: https://openlibrary.org/authors/OL25963A
 [RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
+[RMA]: https://openlibrary.org/authors/OL32313A
 [RR]: https://rebeccaroanhorse.com/
 [SA]: https://openlibrary.org/authors/OL8568498A/S%C3%B6nke_Ahrens
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
@@ -679,6 +1131,11 @@ I've tried to list them in reverse chronological order.
 [SG]: https://www.sierragreerwriter.com/
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
 [SN]: https://openlibrary.org/authors/OL7510834A/Sequoia_Nagamatsu
+[TH]: https://openlibrary.org/authors/OL28131A
+[THU]: https://openlibrary.org/authors/OL29871A
 [TK]: https://openlibrary.org/authors/OL7442286A/T._Kingfisher
+[TP]: https://openlibrary.org/authors/OL25712A
 [VR]: https://openlibrary.org/authors/OL7115116A/Veronica_Roth
+[WG]: https://openlibrary.org/authors/OL967888A
+[WGO]: https://openlibrary.org/authors/OL335424A
 [YHL]: https://openlibrary.org/authors/OL1394688A/Yoon_Ha_Lee
