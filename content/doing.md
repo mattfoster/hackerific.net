@@ -41,7 +41,7 @@ In no particular older...
 
 ### Fiction
 
-* Reading: [Jitterbug](https://www.garethlpowell.com/jitterbug/) by [Gareth L. Powell][GP]
+* Read: [Jitterbug](https://www.garethlpowell.com/jitterbug/) by [Gareth L. Powell][GP]
 * Read: [Agent to the Stars](https://openlibrary.org/works/OL5734643W) by [John Scalzi][JS]
 * Read: A Guardian and a Thief by [Megha Majumdar][MM]
 * Read: [Three Men in a Boat](https://openlibrary.org/works/OL15066012W/Three_Men_in_a_Boat) by [Jerome K. Jerome][JKJ]
