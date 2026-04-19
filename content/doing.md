@@ -37,6 +37,14 @@ In no particular older...
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+## April 2026
+
+### Fiction
+
+* Reading: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
+
+[^1]: This is a YA series, which reminds me a bit of Revenger.
+
 ## March 2026
 
 ### Fiction
@@ -629,142 +637,240 @@ I've tried to list them in reverse chronological order.
 
 ## Earlier
 
-### [Douglas Adams][DA]
+### Ada Palmer
 
-* The Hitchhiker's Guide to the Galaxy
+* Perhaps the Stars
+* Seven Surrenders
+* The Will to Battle
+* Too Like the Lightning
 
-### [Neal Asher][NA]
+### [Adrian Tchaikovsky][AT]
 
-* The Departure
+* Children of Memory
+* Children of Time
+* Dogs of War
+* The Hungry Gods
 
-### [Isaac Asimov][IA]
+### [Alastair Reynolds][AR]
 
-* Foundation
-* The Foundation Trilogy
-* Foundation's Edge
+* Absolution Gap
+* Blue Remembered Earth
+* Chasm City
+* On the Steel Breeze
+* Redemption Ark
+* Doctor Who
+* Poseidon's Wake
+* The Medusa Chronicles
+* The Revelation Space eBook Collection
 
-### [Margaret Atwood][MAT]
+### [Aldous Huxley][AH]
 
-* The Handmaid's Tale
-* Maddaddam
-* Oryx and Crake
-* The Year of the Flood
+* Brave New World
 
-### [Paolo Bacigalupi][PB]
+### Alfred Price
 
-* The Drowned Cities
-* Ship Breaker
-* The Water Knife
-* The Windup Girl
+* Instruments of Darkness
 
-### [J. G. Ballard][JGB]
+### Amber C. Gardner
 
-* The Drowned World
+* Air Fryer Cookbook UK 2021
 
-### [Iain M. Banks][IB]
+### Andy Kirkpatrick
 
-* Against a Dark Background
-* The Bridge
-* Transition
-* The Wasp Factory
+* Nutcraft - The Climbing Nut Bible
 
-### [Greg Bear][GB]
+### [Andy Weir][AW]
 
-* Hull Zero Three
+* The Martian
 
-### [Chris Beckett][CB]
+### [Ann Leckie][AL]
 
-* Mother of Eden
-
-### [Lauren Beukes][LB]
-
-* Zoo City
-
-### [Lois McMaster Bujold][LMB]
-
-* Shards of Honor
-
-### [Lewis Carroll][LC]
-
-* Alice's Adventures in Wonderland
+* Ancillary Justice
+* Ancillary Mercy
+* Ancillary Sword
 
 ### [Arthur C. Clarke][ACC]
 
 * 2001: A Space Odyssey
 * 2010: Odyssey Two
 
+### [Becky Chambers][BC]
+
+* A Closed and Common Orbit
+* The Long Way to a Small, Angry Planet
+
+### Bill Meara
+
+* SolderSmoke -- Global Adventures in Wireless Electronics
+
+### [Bram Stoker][BS]
+
+* Dracula
+
+### Bruce A. Tate
+
+* Seven Languages in Seven Weeks
+
+### Bruce Hood
+
+* The Self Illusion
+
+### Bruce Schneier
+
+* Liars and Outliers
+
+### C. Robert Cargill
+
+* Sea of Rust
+
+### [Charles Stross][CS]
+
+* Accelerando
+* The Annihilation Score
+* The Apocalypse Codex
+* The Atrocity Archives
+* The Clan Corporate
+* Equoid
+* The Family Trade
+* The Fuller Memorandum
+* Glasshouse
+* Halting State
+* The Hidden Family
+* Iron Sunrise
+* The Jennifer Morgue
+* The Merchants' War
+* Neptune's Brood
+* The Rhesus Chart
+* Rule 34
+* Saturn's Children
+* Singularity Sky
+* Wireless
+* Dark State
+* Empire Games
+* The Bloodline Feud
+* The Delirium Brief
+* The Nightmare Stacks
+* The Revolution Trade
+* The Traders' War
+
+### [Cherie Priest][CP]
+
+* Boneshaker
+* Jacaranda
+
+### [China Miéville][CM]
+
+* The City & the City
+* Kraken
+* Railsea
+* Un Lun Dun
+* Embassytown
+* Iron Council
+* King Rat
+* Perdido Street Station
+* The Scar
+* This Census-Taker
+
+### [Chris Beckett][CB]
+
+* Mother of Eden
+* Dark Eden
+* Daughter of Eden
+
+### Christian Cantrell
+
+* Containment
+
+### [Cixin Liu][CL]
+
+* The Dark Forest
+* The Three-Body Problem
+* Death's End
+
+### [Connie Willis][CW]
+
+* All Clear
+* Blackout
+* Fire Watch (Collection)
+* To Say Nothing of the Dog
+* Inside Job
+
+### [Cory Doctorow][CD]
+
+* Little Brother
+* Pirate Cinema
+
+### [Dan Simmons][DS]
+
+* The Fall of Hyperion
+* Hyperion
+* Muse of Fire
+
+### [David Mitchell][DM]
+
+* Cloud Atlas
+
+### Deviant Ollam
+
+* Practical Lock Picking
+
+### [Douglas Adams][DA]
+
+* The Hitchhiker's Guide to the Galaxy
+
+### Douglas Preston
+
+* Still Life With Crows
+* The Cabinet of Curiosities
+
 ### [Ernest Cline][EC]
 
 * Armada
 * Ready Player One
 
-### [James S. A. Corey][JSAC]
-
-* Abaddon's Gate
-* Caliban's War
-* Leviathan Wakes
-
-### [Michael Crichton][MC]
-
-* The Andromeda Strain
-* Sphere
-
-### [Philip K. Dick][PKD]
-
-* Do Androids Dream of Electric Sheep?
-* The Man in the High Castle
-* Ubik
-
-### [Cory Doctorow][CD]
-
-* Little Brother
-
-### [Neil Gaiman][NG]
-
-* American Gods
-* Anansi Boys
-* Good Omens
-* The Graveyard Book
-* Neverwhere
-* Smoke and Mirrors
-
-### [William Gibson][WG]
-
-* All Tomorrow's Parties
-* Burning Chrome
-* Count Zero
-* The Difference Engine
-* Idoru
-* Mona Lisa Overdrive
-* Pattern Recognition
-* Spook Country
-* Virtual Light
-* Zero History
-
-### [William Golding][WGO]
-
-* Lord of the Flies
-
-### [Kate Griffin][KG]
-
-* A Madness of Angels
-
-### [Peter F. Hamilton][PFH]
-
-* Mindstar Rising
-* The Nano Flower
-* A Quantum Murder
-
-### [Thomas Harris][TH]
-
-* Hannibal
-* Red Dragon
-* The Silence of the Lambs
-
 ### [Frank Herbert][FH]
 
 * Children of Dune
 * Dune
+
+### Fritz Leiber
+
+* Gather, Darkness!
+
+### [Gareth L. Powell][GP]
+
+* Ack-Ack Macaque
+* Hive Monkey
+* Embers of War
+
+### Gene Wolfe
+
+* A Borrowed Man
+
+### [George Orwell][GO]
+
+* Nineteen Eighty-Four
+
+### [Greg Bear][GB]
+
+* Hull Zero Three
+
+### [H. G. Wells][HGW]
+
+* The Time Machine
+* The Time Machine and the War of the Worlds
+* The War of the Worlds
+
+### [H. P. Lovecraft][HPL]
+
+* The Call of Cthulhu and Other Weird Stories
+* H. P. Lovecraft
+
+### [Hannu Rajaniemi][HR]
+
+* The Fractal Prince
+* The Quantum Thief
+* The Causal Angel
 
 ### [Hermann Hesse][HHE]
 
@@ -774,72 +880,420 @@ I've tried to list them in reverse chronological order.
 
 * Wool
 
-### [Ted Hughes][THU]
+### Hunt
 
-* The Iron Man: A Story in Five Nights
+* Pragmatic Thinking and Learning
 
-### [Aldous Huxley][AH]
+### Iain Cameron
 
-* Brave New World
+* The Vanishing Ice
 
-### [Richard Kadrey][RK]
+### [Iain M. Banks][IB]
 
-* Aloha from Hell
-* Kill the Dead
-* Sandman Slim
+* Against a Dark Background
+* The Bridge
+* Transition
+* The Wasp Factory
+* Stonemouth
+* The Crow Road
 
-### [Ann Leckie][AL]
+### Ian Hocking
 
-* Ancillary Justice
-* Ancillary Mercy
-* Ancillary Sword
+* Déjà Vu
 
-### [Cixin Liu][CL]
+### [Isaac Asimov][IA]
 
-* The Dark Forest
-* The Three-Body Problem
+* Foundation
+* The Foundation Trilogy
+* Foundation's Edge
 
-### [Karen Lord][KL]
+### [J. G. Ballard][JGB]
 
-* The Best of All Possible Worlds
+* The Drowned World
 
-### [H. P. Lovecraft][HPL]
+### [J. K. Rowling][JKR]
 
-* The Call of Cthulhu and Other Weird Stories
+* Harry Potter and the Chamber of Secrets
+* Harry Potter and the Deathly Hallows
+* Harry Potter and the Goblet of Fire
+* Harry Potter and the Half-Blood Prince
+* Harry Potter and the Order of the Phoenix
+* Harry Potter and the Prisoner of Azkaban
+* Harry Potter and the Sorcerer's Stone
 
-### [Richard Matheson][RMA]
+### [J. R. R. Tolkien][JRRT]
 
-* I Am Legend
+* The Fellowship of the Ring
+* The Hobbit
+* The Lord of the Rings
+* The Two Towers
+
+### James Bradley
+
+* Clade
+
+### James Clear
+
+* Atomic Habits
+
+### James Gleick
+
+* The Information
+
+### [James S. A. Corey][JSAC]
+
+* Abaddon's Gate
+* Caliban's War
+* Leviathan Wakes
+* Cibola Burn
+* Nemesis Games
+* The Butcher of Anderson Station
+* The Churn
+
+### [Jeff VanderMeer][JV]
+
+* Acceptance
+* Annihilation
+* Area X: The Southern Reach Trilogy
+* Authority
+
+### [Jennifer Foehner Wells][JFW]
+
+* Fluency
+
+### Jo Walton
+
+* Among Others
+
+### [John Connolly][JC]
+
+* A Song of Shadows
+* The Burning Soul
+* The Children of Eve
+* The Wolf in Winter
+* The Wrath of Angels
+
+### John Joseph Adams & Hugh Howey
+
+* THE END IS NIGH
+
+### John Long
+
+* Climbing Anchors, 3rd
 
 ### [John Meaney][JM]
 
 * Absorption
 * Transmission
+* New Jerusalem
+* Resonance
 
-### [China Miéville][CM]
+### [John Scalzi][JS]
 
-* The City & the City
-* Kraken
-* Railsea
-* Un Lun Dun
+* The Last Colony
+* Lock In
+* Old Man's War
+* Redshirts
+* Zoe's Tale
+* The Collapsing Empire
+* The End of All Things
+* The Ghost Brigades
+* The Human Division
 
-### [David Mitchell][DM]
+### [Jonathan Strahan][JST]
 
-* Cloud Atlas
+* Engineering Infinity
+
+### Jonathan Trigell
+
+* Genus
+
+### Joseph Brassey
+
+* Katabasis
+
+### Joseph Fink
+
+* Welcome to Night Vale
+
+### Joshua Duffney
+
+* How to Take Smart Notes in Obsidian
+
+### [Jules Verne][JVE]
+
+* 20,000 Leagues Under the Sea
+* Journey to the Center of the Earth
+
+### Kage Baker
+
+* After the End
+
+### Kameron Hurley
+
+* The Light Brigade
+* The Stars Are Legion
+
+### [Karen Lord][KL]
+
+* The Best of All Possible Worlds
+
+### [Kim Stanley Robinson][KSR]
+
+* 2312
+* Shaman
+* Blue Mars
+* Green Mars
+
+### Kristine Kathryn Rusch
+
+* Consequences
+* Extremes
+* The Disappeared
+
+### [Kurt Vonnegut][KV]
+
+* Galapagos
+* The Sirens of Titan
+* Slaughterhouse-Five
+* Breakfast of Champions
+* Galápagos
+
+### L.A. Weatherly
+
+* Broken Sky
 
 ### [Larry Niven][LNI]
 
 * Ringworld
 * The Ringworld Engineers
 
-### [George Orwell][GO]
+### Lars Kepler
 
-* Nineteen Eighty-Four
+* The Hypnotist
 
-### [Gareth L. Powell][GP]
+### [Lauren Beukes][LB]
 
-* Ack-Ack Macaque
-* Hive Monkey
+* Zoo City
+
+### Leonard Richardson
+
+* Constellation Games
+
+### [Lewis Carroll][LC]
+
+* Alice's Adventures in Wonderland
+
+### [Lois McMaster Bujold][LMB]
+
+* Shards of Honor
+
+### [Madeline Ashby][MA]
+
+* Company Town
+* iD
+* ReV
+* vN
+
+### [Margaret Atwood][MAT]
+
+* The Handmaid's Tale
+* Maddaddam
+* Oryx and Crake
+* The Year of the Flood
+
+### [Martha Wells][MW]
+
+* All Systems Red
+* Artificial Condition
+
+### [Mary Shelley][MS]
+
+* Frankenstein; or, The Modern Prometheus
+
+### Meg Elison
+
+* The Book of the Unnamed Midwife
+
+### [Megan E. O'Keefe][MEO]
+
+* Catalyst Gate
+
+### [Michael Crichton][MC]
+
+* The Andromeda Strain
+* Sphere
+
+### Michal Zalewski
+
+* Silence on the Wire
+* The Tangled Web
+
+### [N. K. Jemisin][NKJ]
+
+* The Fifth Season
+* The Killing Moon
+* The Obelisk Gate
+* The Shadowed Sun
+* The Stone Sky
+
+### Nancy Kress
+
+* After the Fall, Before the Fall, During the Fall
+
+### [Neal Asher][NA]
+
+* The Departure
+* Jupiter War
+* Orbus
+* The Skinner
+* The Voyage of the Sable Keech
+* Zero Point
+
+### [Neal Stephenson][NS]
+
+* Cryptonomicon
+* The Mongoliad: Book One
+* The Mongoliad: Book Three
+* The Mongoliad: Book Two
+* Seveneves
+
+### [Neil Gaiman][NG]
+
+* American Gods
+* Anansi Boys
+* Good Omens
+* The Graveyard Book
+* Neverwhere
+* Smoke and Mirrors
+* Stardust
+
+### Nina Allan
+
+* The Rift
+
+### [Nnedi Okorafor][NO]
+
+* Binti
+* The Book of Phoenix
+
+### [Paolo Bacigalupi][PB]
+
+* The Drowned Cities
+* Ship Breaker
+* The Water Knife
+* The Windup Girl
+* Pump Six and Other Stories
+* The Alchemist
+* Tool of War
+
+### Paul Antony Jones
+
+* Extinction Point
+
+### [Peter F. Hamilton][PFH]
+
+* Mindstar Rising
+* The Nano Flower
+* A Quantum Murder
+* The Naked God
+* The Neutronium Alchemist
+* The Reality Dysfunction
+
+### Peter V. Brett
+
+* Brayan's Gold
+
+### [Peter Watts][PW]
+
+* Blindsight
+* Echopraxia
+* Firefall
+
+### [Philip K. Dick][PKD]
+
+* Do Androids Dream of Electric Sheep?
+* The Man in the High Castle
+* Ubik
+
+### Rachel Abbott
+
+* Nowhere Child
+
+### Randall Munroe
+
+* What If?
+
+### Ray Mears
+
+* My Outdoor Life
+
+### Rhik Samadder
+
+* I Never Said I Loved You
+
+### [Richard Kadrey][RK]
+
+* Aloha from Hell
+* Kill the Dead
+* Sandman Slim
+* Devil Said Bang
+* Kill City Blues
+* Killing Pretty
+* The Getaway God
+
+### [Richard Matheson][RMA]
+
+* I Am Legend
+
+### Richard Phillips
+
+* Immune
+
+### Richard Sanders
+
+* The Phoenix Conspiracy
+* The Phoenix Crisis
+* The Phoenix Rising
+
+### [Robert Charles Wilson][RCW]
+
+* Axis
+* Vortex
+* Spin
+
+### [Robert Louis Stevenson][RLS]
+
+* The Strange Case of Dr. Jekyll and Mr. Hyde
+
+### Robert Reed
+
+* The Greatship
+* The Memory of Sky
+
+### Roger Zelazny
+
+* Damnation Alley
+
+### Rosa Montero
+
+* Tears in Rain
+
+### Ryan North
+
+* Machine of Death
+
+### S.G. Redling
+
+* Damocles
+
+### Suw Charman-Anderson
+
+* Argleton
+
+### Terry Goodkind
+
+* Wizard’s First Rule
 
 ### [Terry Pratchett][TP]
 
@@ -880,153 +1334,55 @@ I've tried to list them in reverse chronological order.
 * Wintersmith
 * Witches Abroad
 * Wyrd Sisters
+* The Long Earth
 
-### [Cherie Priest][CP]
+### [Thomas Harris][TH]
 
-* Boneshaker
+* Hannibal
+* Red Dragon
+* The Silence of the Lambs
 
-### [Hannu Rajaniemi][HR]
+### Thomas Marcinko
 
-* The Fractal Prince
-* The Quantum Thief
+* Astronauts and Heretics
 
-### [Alastair Reynolds][AR]
+### Tobias S. Buckell
 
-* Absolution Gap
-* Blue Remembered Earth
-* Chasm City
-* On the Steel Breeze
-* Redemption Ark
+* The Executioness
 
-### [Kim Stanley Robinson][KSR]
+### Tricia Sullivan
 
-* 2312
-* Shaman
+* Occupy Me
 
-### [J. K. Rowling][JKR]
+### [William Gibson][WG]
 
-* Harry Potter and the Chamber of Secrets
-* Harry Potter and the Deathly Hallows
-* Harry Potter and the Goblet of Fire
-* Harry Potter and the Half-Blood Prince
-* Harry Potter and the Order of the Phoenix
-* Harry Potter and the Prisoner of Azkaban
-* Harry Potter and the Sorcerer's Stone
+* All Tomorrow's Parties
+* Burning Chrome
+* Count Zero
+* The Difference Engine
+* Idoru
+* Mona Lisa Overdrive
+* Pattern Recognition
+* Spook Country
+* Virtual Light
+* Zero History
 
-### [John Scalzi][JS]
+### [William Golding][WGO]
 
-* The Last Colony
-* Lock In
-* Old Man's War
-* Redshirts
-* Zoe's Tale
+* Lord of the Flies
 
-### [Mary Shelley][MS]
+### Yann Martel
 
-* Frankenstein; or, The Modern Prometheus
+* Life Of Pi
 
-### [Dan Simmons][DS]
+### [Yoon Ha Lee][YHL]
 
-* The Fall of Hyperion
-* Hyperion
+* Ninefox Gambit
+* Raven Stratagem
 
-### [Neal Stephenson][NS]
+### Zack Parsons
 
-* Cryptonomicon
-* The Mongoliad: Book One
-* The Mongoliad: Book Three
-* The Mongoliad: Book Two
-
-### [Robert Louis Stevenson][RLS]
-
-* The Strange Case of Dr. Jekyll and Mr. Hyde
-
-### [Bram Stoker][BS]
-
-* Dracula
-
-### [Jonathan Strahan][JST]
-
-* Engineering Infinity
-
-### [Charles Stross][CS]
-
-* Accelerando
-* The Annihilation Score
-* The Apocalypse Codex
-* The Atrocity Archives
-* The Clan Corporate
-* Equoid
-* The Family Trade
-* The Fuller Memorandum
-* Glasshouse
-* Halting State
-* The Hidden Family
-* Iron Sunrise
-* The Jennifer Morgue
-* The Merchants' War
-* Neptune's Brood
-* The Rhesus Chart
-* Rule 34
-* Saturn's Children
-* Singularity Sky
-* Wireless
-
-### [J. R. R. Tolkien][JRRT]
-
-* The Fellowship of the Ring
-* The Hobbit
-* The Lord of the Rings
-* The Two Towers
-
-### [Jeff VanderMeer][JV]
-
-* Acceptance
-* Annihilation
-* Area X: The Southern Reach Trilogy
-* Authority
-
-### [Jules Verne][JVE]
-
-* 20,000 Leagues Under the Sea
-* Journey to the Center of the Earth
-
-### [Kurt Vonnegut][KV]
-
-* Galapagos
-* The Sirens of Titan
-* Slaughterhouse-Five
-
-### [Peter Watts][PW]
-
-* Blindsight
-* Echopraxia
-
-### [Andy Weir][AW]
-
-* The Martian
-
-### [Jennifer Foehner Wells][JFW]
-
-* Fluency
-
-### [H. G. Wells][HGW]
-
-* The Time Machine
-* The Time Machine and the War of the Worlds
-* The War of the Worlds
-
-### [Connie Willis][CW]
-
-* All Clear
-* Blackout
-* Fire Watch (Collection)
-* To Say Nothing of the Dog
-
-### [Robert Charles Wilson][RCW]
-
-* Axis
-* Vortex
+* Liminal States
 
 [AB]: https://openlibrary.org/authors/OL8623485A/Alexander_Boldizar
 [ACC]: https://openlibrary.org/authors/OL121685A
