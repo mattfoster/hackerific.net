@@ -41,9 +41,9 @@ In no particular older...
 
 ### Fiction
 
-* Reading: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
+* Read: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
 
-[^1]: This is a YA series, which reminds me a bit of Revenger.
+[^1]: This is a YA series, which reminds me a bit of Revenger, except it's maybe a bit more kiddy. Overall pretty good fun but not amazing - I'll read the next installment when it's out.
 
 ## March 2026
 
