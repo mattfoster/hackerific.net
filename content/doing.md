@@ -18,14 +18,14 @@ I've either done or started.
 
 In no particular older...
 
-* [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
+* [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by [qntm][QNTM]
 * These Burning Stars by [Bethany Jacobs][BJ]
 * [The Man Who Saw Seconds](https://openlibrary.org/works/OL37568421W/Man_Who_Saw_Seconds) by [Alexander Boldizar][AB]
 * [Doomsday Book](https://openlibrary.org/works/OL14858406W/Doomsday_book) by [Connie Willis][CW]
 * The Algebraist by [Iain M Banks][IB]
 * The Expanse series by [James S. A. Corey][JSAC]
-* Revelation Space series
-* Aurora Rising series
+* Revelation Space series by [Alastair Reynolds][AR]
+* Aurora Rising series by [Alastair Reynolds][AR]
 * Laundry Files series by [Charles Stross][CS]
 * Embers of War series by [Gareth L Powell][GP]
 * Murderbot series by [Martha Wells][MW]
@@ -41,6 +41,7 @@ In no particular older...
 
 ### Fiction
 
+* Reading Slpw Gods by Claire North
 * Read: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
 
 [^1]: This is a YA series, which reminds me a bit of Revenger, except it's maybe a bit more kiddy. Overall pretty good fun but not amazing - I'll read the next installment when it's out.
@@ -1473,6 +1474,7 @@ I've tried to list them in reverse chronological order.
 [PKD]: https://openlibrary.org/authors/OL272591A
 [PT]: https://openlibrary.org/authors/OL1394653A/Paul_Tremblay
 [PW]: https://openlibrary.org/authors/OL1394573A
+[QNTM]: https://qntm.org/
 [RO]: https://openlibrary.org/authors/OL7513498A/Richard_Osman
 [RA]: https://openlibrary.org/authors/OL7627399A/Ryka_Aoki
 [RCW]: https://openlibrary.org/authors/OL31564A
