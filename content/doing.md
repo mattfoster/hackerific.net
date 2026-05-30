@@ -42,13 +42,13 @@ In no particular older...
 
 ### Fiction
 
-* Reading: The first fifteen lives of Harry August by Claire North
+* Reading: The first fifteen lives of Harry August by [Claire North][CN]
 
 ## April 2026
 
 ### Fiction
 
-* Read: Slow Gods by Claire North
+* Read: Slow Gods by [Claire North][CN]
 * Read: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
 
 [^1]: This is a YA series, which reminds me a bit of Revenger, except it's maybe a bit more kiddy. Overall pretty good fun but not amazing - I'll read the next installment when it's out.
@@ -1415,6 +1415,7 @@ I've tried to list them in reverse chronological order.
 [CJA]: https://openlibrary.org/authors/OL7282951A/Charlie_Jane_Anders
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
 [CMV]: https://openlibrary.org/authors/OL1394216A/Catherynne_M._Valente
+[CN]: https://www.clairenorth.com/
 [CS]: https://openlibrary.org/authors/OL343157A/Charles_Stross
 [CW]: https://openlibrary.org/authors/OL20934A/Connie_Willis
 [DA]: https://openlibrary.org/authors/OL272947A
