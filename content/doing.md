@@ -37,11 +37,18 @@ In no particular older...
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+
 ## April 2026
 
 ### Fiction
 
-* Reading Slow Gods by Claire North
+* Reading: The first fifteen lives of Harry August by Claire North
+
+## April 2026
+
+### Fiction
+
+* Read: Slow Gods by Claire North
 * Read: A Hole in the Sky by [Peter F. Hamilton][PFH][^1]
 
 [^1]: This is a YA series, which reminds me a bit of Revenger, except it's maybe a bit more kiddy. Overall pretty good fun but not amazing - I'll read the next installment when it's out.
