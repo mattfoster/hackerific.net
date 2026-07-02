@@ -37,12 +37,24 @@ In no particular older...
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+## June 2026
+
+### Fiction
+
+* Read: The Captain's Daughter by [Peter F. Hamilton][PFH][^1]
+
+## May 2026
+
+### Fiction
+
+* Read: The Faith of Beasts by [James S. A. Corey][JSAC]
+
 
 ## April 2026
 
 ### Fiction
 
-* Reading: The first fifteen lives of Harry August by [Claire North][CN]
+* Read: The first fifteen lives of Harry August by [Claire North][CN]
 
 ## April 2026
 
