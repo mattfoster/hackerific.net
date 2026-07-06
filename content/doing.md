@@ -37,6 +37,12 @@ In no particular older...
 * Rivers of London series by [Ben Aaronovich][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+## July 2026
+
+### Fiction
+
+* Reading: [Among Others](https://en.wikipedia.org/wiki/Among_Others) by [Jo Walton][JW]
+
 ## June 2026
 
 ### Fiction
@@ -95,7 +101,7 @@ In no particular older...
 
 ## January 2026
 
-* Reading: Exodus by [Peter F. Hamilton][PFH]
+* Read: Exodus by [Peter F. Hamilton][PFH]
 * Listened: [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
 * Listened: The Old Ways by [Robert Macfarlane][RM]
 
@@ -983,7 +989,7 @@ I've tried to list them in reverse chronological order.
 
 ### Jo Walton
 
-* Among Others
+* [Among Others](https://en.wikipedia.org/wiki/Among_Others)
 
 ### [John Connolly][JC]
 
@@ -1460,6 +1466,7 @@ I've tried to list them in reverse chronological order.
 [JVE]: https://openlibrary.org/authors/OL29913A
 [JS]: https://whatever.scalzi.com/
 [JV]: https://openlibrary.org/authors/OL359235A/Jeff_VanderMeer
+[JW]: https://openlibrary.org/authors/OL1432837A/Jo_Walton
 [KB]: https://openlibrary.org/authors/OL13515159A/Kaliane_Bradley
 [KG]: https://openlibrary.org/authors/OL6786878A
 [KL]: https://openlibrary.org/authors/OL6985012A
