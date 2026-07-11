@@ -1,7 +1,7 @@
 ---
 title: Doing
 menu: main
-tags: reading, watching, listing, books, podcasts, courses
+tags: reading, watching, listening, books, podcasts, courses
 ---
 
 I read a lot of fiction and try to keep learning interesting things. I also
@@ -16,7 +16,7 @@ I've either done or started.
 
 ## Favourites
 
-In no particular older...
+In no particular order...
 
 * [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by [qntm][QNTM]
 * These Burning Stars by [Bethany Jacobs][BJ]
@@ -34,7 +34,7 @@ In no particular older...
 * Borne by [Jeff VanderMeer][JV]
 * Children of Eden series by [Chris Beckett][CB]
 * Termination Shock by [Neal Stephenson][NS]
-* Rivers of London series by [Ben Aaronovich][BA]
+* Rivers of London series by [Ben Aaronovitch][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
 ## July 2026
@@ -115,7 +115,7 @@ In no particular older...
 ## November 2025
 
 * Read: Fifty Degrees Below by [Kim Stanley Robinson][KSR]
-* Read: Halcyon Years by [Alistair Reynolds][AR]
+* Read: Halcyon Years by [Alastair Reynolds][AR]
 * Listened: What stalks the deep by [T. Kingfisher][TK]
 
 ## October 2025
@@ -160,7 +160,7 @@ In no particular older...
 
 ### Podcasts
 
-* Coretex Podcast (various episodes)
+* Cortex Podcast (various episodes)
 * [The Omni Show](https://theomnishow.omnigroup.com/)
 
 ### Watching
@@ -174,7 +174,7 @@ In no particular older...
 
 * Read: Titanium Noir by [Nick Harkaway][NH]
 * Read: Human Resources by [Adrian Tchaikovsky][AT]
-* Read: Katalyst Gate by [Megan E O'Keefe][MEO]
+* Read: Catalyst Gate by [Megan E O'Keefe][MEO]
 * Read: Beyond the Hallowed Sky by [Ken Macleod][KM]
 * Listened: What moves the dead by [T. Kingfisher][TK]
 * Listened: What Feasts at Night by [T. Kingfisher][TK]
@@ -1428,7 +1428,7 @@ I've tried to list them in reverse chronological order.
 [BS]: https://openlibrary.org/authors/OL25186A
 [CB]: https://openlibrary.org/authors/OL1481445A/Chris_Beckett
 [CD]: https://openlibrary.org/authors/OL34533A
-[CL]: https://openlibrary.org/authors/OL7173498A
+[CL]: https://openlibrary.org/authors/OL7044246A/Cixin_Liu
 [CP]: https://openlibrary.org/authors/OL1394393A
 [CJA]: https://openlibrary.org/authors/OL7282951A/Charlie_Jane_Anders
 [CM]: https://openlibrary.org/authors/OL3075854A/China_Mi%C3%A9ville
@@ -1447,9 +1447,9 @@ I've tried to list them in reverse chronological order.
 [GO]: https://openlibrary.org/authors/OL118077A
 [GP]: https://openlibrary.org/authors/OL7172284A/Gareth_L._Powell
 [HGW]: https://openlibrary.org/authors/OL20731A
-[HH]: https://openlibrary.org/authors/OL7173498A/Hugh_Howey
+[HH]: https://openlibrary.org/authors/OL7175318A/Hugh_Howey
 [HHE]: https://openlibrary.org/authors/OL31570A
-[HPL]: https://openlibrary.org/authors/OL34221A
+[HPL]: https://openlibrary.org/authors/OL12771220A/Howard_Phillips_Lovecraft
 [HR]: https://openlibrary.org/authors/OL6886729A
 [IA]: https://openlibrary.org/authors/OL34221A
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
@@ -1512,7 +1512,7 @@ I've tried to list them in reverse chronological order.
 [RR]: https://rebeccaroanhorse.com/
 [SA]: https://openlibrary.org/authors/OL8568498A/S%C3%B6nke_Ahrens
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
-[SBA]: https://openlibrary.org/authors/OL23919A/Stephen_Baxter
+[SBA]: https://openlibrary.org/authors/OL19807A/Stephen_Baxter
 [SG]: https://www.sierragreerwriter.com/
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
 [SN]: https://openlibrary.org/authors/OL7510834A/Sequoia_Nagamatsu
