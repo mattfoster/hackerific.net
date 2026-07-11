@@ -41,7 +41,8 @@ In no particular order...
 
 ### Fiction
 
-* Reading: [Among Others](https://en.wikipedia.org/wiki/Among_Others) by [Jo Walton][JW]
+* Read: [Among Others](https://en.wikipedia.org/wiki/Among_Others) by [Jo Walton][JW]
+* Reading: Exodus: The Helium Sea by [Peter F. Hamilton][PFH]
 
 ## June 2026
 
