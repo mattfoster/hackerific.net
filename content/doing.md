@@ -37,6 +37,13 @@ In no particular order...
 * Rivers of London series by [Ben Aaronovitch][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+## August 2026
+
+### Fiction
+
+* Read: Exodus by [Peter F. Hamilton][PFH]
+* Reading: [Green City Wars](https://torpublishinggroup.com/green-city-wars) by [Adrian Tchaikovsky][AT]
+
 ## July 2026
 
 ### Fiction
@@ -102,7 +109,6 @@ In no particular order...
 
 ## January 2026
 
-* Read: Exodus by [Peter F. Hamilton][PFH]
 * Listened: [There Is No Antimemetics Division](https://www.penguinrandomhouse.com/books/783041/there-is-no-antimemetics-division-by-qntm/) by qntm
 * Listened: The Old Ways by [Robert Macfarlane][RM]
 
