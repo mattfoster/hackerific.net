@@ -42,7 +42,7 @@ In no particular order...
 ### Fiction
 
 * Read: Exodus by [Peter F. Hamilton][PFH]
-* Reading: [Green City Wars](https://torpublishinggroup.com/green-city-wars) by [Adrian Tchaikovsky][AT]
+* Read: [Green City Wars](https://torpublishinggroup.com/green-city-wars) by [Adrian Tchaikovsky][AT]
 
 ## July 2026
 
