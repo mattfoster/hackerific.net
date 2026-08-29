@@ -1,5 +1,16 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-sudo apt update
-sudo apt install -y hugo
+HUGO_VERSION=0.128.0
+
+if [[ "$(hugo version 2>/dev/null || true)" != "hugo v${HUGO_VERSION}"* ]]; then
+  hugo_deb="$(mktemp --suffix=.deb)"
+  trap 'rm -f "$hugo_deb"' EXIT
+  wget -qO "$hugo_deb" \
+    "https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-$(dpkg --print-architecture).deb"
+  sudo dpkg -i "$hugo_deb"
+  rm -f "$hugo_deb"
+  trap - EXIT
+fi
+
+git submodule update --init --recursive

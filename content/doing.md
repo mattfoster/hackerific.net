@@ -43,6 +43,8 @@ In no particular order...
 
 * Read: Exodus by [Peter F. Hamilton][PFH]
 * Read: [Green City Wars](https://torpublishinggroup.com/green-city-wars) by [Adrian Tchaikovsky][AT]
+* Read: [Platform Decay](https://torpublishinggroup.com/platform-decay/) by [Martha Wells][MW]
+* Reading: [The Mountain in the Sea](https://www.raynayler.net/the-mountain-in-the-sea.html) by [Ray Nayler][RN]
 
 ## July 2026
 
@@ -1516,6 +1518,7 @@ I've tried to list them in reverse chronological order.
 [RLS]: https://openlibrary.org/authors/OL25963A
 [RM]: https://openlibrary.org/authors/OL1482593A/Robert_Macfarlane
 [RMA]: https://openlibrary.org/authors/OL32313A
+[RN]: https://www.raynayler.net/
 [RR]: https://rebeccaroanhorse.com/
 [SA]: https://openlibrary.org/authors/OL8568498A/S%C3%B6nke_Ahrens
 [SB]: https://openlibrary.org/authors/OL7532475A/Sue_Burke
