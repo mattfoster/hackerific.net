@@ -37,6 +37,13 @@ In no particular order...
 * Rivers of London series by [Ben Aaronovitch][BA]
 * Bas-Lag series by [China Miéville][CM], plus Embassytown and the City and the City
 
+## September 2026
+
+### Fiction
+
+* Read: [The Mountain in the Sea](https://www.raynayler.net/the-mountain-in-the-sea.html) by [Ray Nayler][RN]
+* Reading: [Engines of Reason](https://torpublishinggroup.com/engines-of-reason) by [Adrian Tchaikovsky][AT]
+
 ## August 2026
 
 ### Fiction
@@ -44,7 +51,6 @@ In no particular order...
 * Read: Exodus by [Peter F. Hamilton][PFH]
 * Read: [Green City Wars](https://torpublishinggroup.com/green-city-wars) by [Adrian Tchaikovsky][AT]
 * Read: [Platform Decay](https://torpublishinggroup.com/platform-decay/) by [Martha Wells][MW]
-* Reading: [The Mountain in the Sea](https://www.raynayler.net/the-mountain-in-the-sea.html) by [Ray Nayler][RN]
 
 ## July 2026
 
