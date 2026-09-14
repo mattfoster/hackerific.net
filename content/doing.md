@@ -42,7 +42,12 @@ In no particular order...
 ### Fiction
 
 * Read: [The Mountain in the Sea](https://www.raynayler.net/the-mountain-in-the-sea.html) by [Ray Nayler][RN]
-* Reading: [Engines of Reason](https://torpublishinggroup.com/engines-of-reason) by [Adrian Tchaikovsky][AT]
+* Read: [Engines of Reason](https://torpublishinggroup.com/engines-of-reason) by [Adrian Tchaikovsky][AT]
+* Reading: [Terrible Worlds: Destinations](https://adriantchaikovsky.com/terrible-worlds-destinations.html) by [Adrian Tchaikovsky][AT]
+
+### Non-fiction
+
+* Reading: [The 12 Levers](https://www.gcp-balance.com/titles/spencer-greenberg-phd/the-12-levers/9780306837463) by [Spencer Greenberg][SPG] and [Jeremy Stevenson][JES]
 
 ## August 2026
 
@@ -1470,6 +1475,7 @@ I've tried to list them in reverse chronological order.
 [IB]: https://openlibrary.org/authors/OL6924809A/Iain_M._Banks
 [IG]: http://www.ianthegreen.com/
 [JC]: https://www.johnconnollybooks.com/
+[JES]: https://www.hachettebookgroup.com/contributor/jeremy-stevenson-phd/?lens=balance
 [JFW]: https://openlibrary.org/authors/OL7303832A
 [JGB]: https://openlibrary.org/authors/OL4320129A
 [JKJ]: https://openlibrary.org/authors/OL215610A/Jerome_K._Jerome
@@ -1532,6 +1538,7 @@ I've tried to list them in reverse chronological order.
 [SG]: https://www.sierragreerwriter.com/
 [SM]: https://openlibrary.org/authors/OL9103233A/Seanan_McGuire
 [SN]: https://openlibrary.org/authors/OL7510834A/Sequoia_Nagamatsu
+[SPG]: https://openlibrary.org/authors/OL9474875A/Spencer_Greenberg
 [TH]: https://openlibrary.org/authors/OL28131A
 [THU]: https://openlibrary.org/authors/OL29871A
 [TK]: https://openlibrary.org/authors/OL7442286A/T._Kingfisher
