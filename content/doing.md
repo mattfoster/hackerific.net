@@ -44,7 +44,7 @@ In no particular order...
 * Read: [The Mountain in the Sea](https://www.raynayler.net/the-mountain-in-the-sea.html) by [Ray Nayler][RN]
 * Read: [Engines of Reason](https://torpublishinggroup.com/engines-of-reason) by [Adrian Tchaikovsky][AT]
 * Read: [Terrible Worlds: Destinations](https://adriantchaikovsky.com/terrible-worlds-destinations.html) by [Adrian Tchaikovsky][AT]
-* Reading: [Terrible Worlds: Revolutions](https://adriantchaikovsky.com/terrible-worlds-revolutions.html) by [Adrian Tchaikovsky][AT]
+* Read: [Terrible Worlds: Revolutions](https://adriantchaikovsky.com/terrible-worlds-revolutions.html) by [Adrian Tchaikovsky][AT]
 
 ### Non-fiction
 
